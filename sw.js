@@ -1,4 +1,4 @@
-const CACHE='quiz-carabinieri-v3.2.0';
+const CACHE='quiz-carabinieri-v3.2.1';
 const CORE=['./','./index.html','./app.css','./app.js','./questions.json','./catalog.json','./manifest.webmanifest','./assets/carabiniere-hero-v3.png','./assets/carabiniere-hero.png','./dispense/patenti-testo-recuperato.html','./dispense/centrale-web-storia.html','./dispense/centrale-web-nue.html','./dispense/centrale-web-tetra.html','./assets/quesiti/cn2.png','./assets/quesiti/dmo.png','./assets/quesiti/fpg1.png','./assets/quesiti/gp380.png','./assets/quesiti/hf175.png','./assets/quesiti/hf2005.png','./assets/quesiti/hf647.png','./assets/quesiti/mtm5400.png','./assets/quesiti/sc2020.png','./assets/quesiti/tc4.png','./assets/quesiti/tmo.png','./dispense/centrale-testo-allegato.html','./icon.svg','./icon-192.png','./icon-512.png'];
 
 self.addEventListener('install',event=>{

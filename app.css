@@ -62,6 +62,10 @@ html{-webkit-text-size-adjust:100%;text-size-adjust:100%}body{overscroll-behavio
 .heroText{left:18px;right:18px;bottom:18px}.heroText b{font-size:26px}.heroText small{font-size:12px;line-height:1.4}
 @media(max-width:600px){.hero{height:240px;aspect-ratio:auto}.heroText b{font-size:23px}.heroText small{font-size:12px}}
 
-.hero img{object-fit:contain;object-position:right center;background:#071a35}
+/* Centra la figura nell’immagine originale, anche su schermi larghi. */
+.hero img{position:absolute;left:50%;top:0;width:170%;height:100%;max-width:none;max-height:none;transform:translateX(-70%);object-fit:cover;object-position:center top;background:#071a35}
 
 .chapterRow{margin:10px 0}.chapterRow[hidden]{display:none}.chapterFull{width:100%;text-align:left;font:inherit;color:inherit;margin:0}.chapterRandom{display:block;width:100%;border:1px solid #d9e4f3;border-radius:0 0 13px 13px;padding:11px;background:#edf5ff;color:#0756b5;font:600 13px system-ui;cursor:pointer;min-height:44px}.questionFigure{margin:12px 0 20px;padding:10px;background:#fff;border:1px solid #dce4ee;border-radius:15px}.questionFigure a{display:block;text-align:center}.questionFigure img{max-width:100%;width:auto;max-height:300px;height:auto;object-fit:contain;display:inline-block}.questionFigure figcaption{font-size:11px;line-height:1.5;color:#536174;margin-top:8px;overflow-wrap:anywhere}@media(min-width:800px){.questionFigure img{max-height:380px}}
+
+.hero{height:360px}
+@media(max-width:600px){.hero{height:260px}}
