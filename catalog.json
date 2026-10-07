@@ -1,0 +1,6951 @@
+{
+  "schemaVersion": "2.1",
+  "bankVersion": "3.2.0",
+  "language": "it",
+  "questionCount": 933,
+  "subjectCount": 15,
+  "sourceCount": 20,
+  "chapterCount": 193,
+  "topicCount": 892,
+  "subjects": [
+    {
+      "id": "M1",
+      "module": 1,
+      "name": "Centrale operativa e trasmissioni",
+      "sourceIds": [
+        "SRC-014",
+        "SRC-018",
+        "SRC-019",
+        "SRC-020"
+      ],
+      "questionCount": 353,
+      "coverage": "partial",
+      "chapterCount": 26
+    },
+    {
+      "id": "M2",
+      "module": 2,
+      "name": "Tecniche operative e controllo del territorio",
+      "sourceIds": [
+        "SRC-017"
+      ],
+      "questionCount": 31,
+      "coverage": "partial",
+      "chapterCount": 12
+    },
+    {
+      "id": "M3",
+      "module": 3,
+      "name": "Patenti di guida",
+      "sourceIds": [
+        "SRC-013"
+      ],
+      "questionCount": 43,
+      "coverage": "partial",
+      "chapterCount": 9
+    },
+    {
+      "id": "M4",
+      "module": 4,
+      "name": "Diritto penale e penale militare",
+      "sourceIds": [
+        "SRC-001",
+        "SRC-012"
+      ],
+      "questionCount": 65,
+      "coverage": "partial",
+      "chapterCount": 8
+    },
+    {
+      "id": "M5",
+      "module": 5,
+      "name": "SDI",
+      "sourceIds": [
+        "SRC-009",
+        "SRC-010"
+      ],
+      "questionCount": 43,
+      "coverage": "partial",
+      "chapterCount": 20
+    },
+    {
+      "id": "M6",
+      "module": 6,
+      "name": "Diritto costituzionale",
+      "sourceIds": [
+        "SRC-003"
+      ],
+      "questionCount": 40,
+      "coverage": "partial",
+      "chapterCount": 6
+    },
+    {
+      "id": "M7",
+      "module": 7,
+      "name": "Diritto di polizia",
+      "sourceIds": [
+        "SRC-002"
+      ],
+      "questionCount": 38,
+      "coverage": "partial",
+      "chapterCount": 10
+    },
+    {
+      "id": "M8",
+      "module": 8,
+      "name": "Procedura penale e tecniche investigative",
+      "sourceIds": [
+        "SRC-008"
+      ],
+      "questionCount": 40,
+      "coverage": "partial",
+      "chapterCount": 13
+    },
+    {
+      "id": "M9",
+      "module": 9,
+      "name": "Esame testimoniale",
+      "sourceIds": [
+        "SRC-004"
+      ],
+      "questionCount": 40,
+      "coverage": "partial",
+      "chapterCount": 13
+    },
+    {
+      "id": "M10",
+      "module": 10,
+      "name": "Tutela dei soggetti vulnerabili",
+      "sourceIds": [
+        "SRC-011"
+      ],
+      "questionCount": 40,
+      "coverage": "partial",
+      "chapterCount": 16
+    },
+    {
+      "id": "M11",
+      "module": 11,
+      "name": "Tecnica professionale",
+      "sourceIds": [
+        "SRC-015"
+      ],
+      "questionCount": 40,
+      "coverage": "partial",
+      "chapterCount": 11
+    },
+    {
+      "id": "M12",
+      "module": 12,
+      "name": "Informatica d’Arma",
+      "sourceIds": [
+        "SRC-006"
+      ],
+      "questionCount": 40,
+      "coverage": "partial",
+      "chapterCount": 7
+    },
+    {
+      "id": "M13",
+      "module": 13,
+      "name": "Storia dell’Arma",
+      "sourceIds": [
+        "SRC-007"
+      ],
+      "questionCount": 40,
+      "coverage": "partial",
+      "chapterCount": 15
+    },
+    {
+      "id": "M14",
+      "module": 14,
+      "name": "Comunicazione interpersonale",
+      "sourceIds": [
+        "SRC-016"
+      ],
+      "questionCount": 40,
+      "coverage": "partial",
+      "chapterCount": 14
+    },
+    {
+      "id": "M15",
+      "module": 15,
+      "name": "Tecniche di apprendimento",
+      "sourceIds": [
+        "SRC-005"
+      ],
+      "questionCount": 40,
+      "coverage": "partial",
+      "chapterCount": 13
+    }
+  ],
+  "chapters": [
+    {
+      "id": "M1-funzione-della-centrale",
+      "subjectId": "M1",
+      "name": "Funzione della centrale",
+      "questionCount": 6
+    },
+    {
+      "id": "M1-storia",
+      "subjectId": "M1",
+      "name": "Storia",
+      "questionCount": 4
+    },
+    {
+      "id": "M1-collegamenti-radio",
+      "subjectId": "M1",
+      "name": "Collegamenti radio",
+      "questionCount": 7
+    },
+    {
+      "id": "M1-comunicazioni",
+      "subjectId": "M1",
+      "name": "Comunicazioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M1-passaggio-di-consegne",
+      "subjectId": "M1",
+      "name": "Passaggio di consegne",
+      "questionCount": 5
+    },
+    {
+      "id": "M1-priorita",
+      "subjectId": "M1",
+      "name": "Priorità",
+      "questionCount": 5
+    },
+    {
+      "id": "M1-controllo-pattuglie",
+      "subjectId": "M1",
+      "name": "Controllo pattuglie",
+      "questionCount": 5
+    },
+    {
+      "id": "M1-radiolocalizzazione",
+      "subjectId": "M1",
+      "name": "Radiolocalizzazione",
+      "questionCount": 11
+    },
+    {
+      "id": "M1-nue-112",
+      "subjectId": "M1",
+      "name": "NUE 112",
+      "questionCount": 9
+    },
+    {
+      "id": "M1-scheda-contatto",
+      "subjectId": "M1",
+      "name": "Scheda contatto",
+      "questionCount": 6
+    },
+    {
+      "id": "M1-where-are-u",
+      "subjectId": "M1",
+      "name": "Where ARE U",
+      "questionCount": 4
+    },
+    {
+      "id": "M1-reti-radio",
+      "subjectId": "M1",
+      "name": "Reti radio",
+      "questionCount": 7
+    },
+    {
+      "id": "M1-standard-radio",
+      "subjectId": "M1",
+      "name": "Standard radio",
+      "questionCount": 5
+    },
+    {
+      "id": "M2-finalita",
+      "subjectId": "M2",
+      "name": "Finalità",
+      "questionCount": 2
+    },
+    {
+      "id": "M2-flessibilita",
+      "subjectId": "M2",
+      "name": "Flessibilità",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-forza",
+      "subjectId": "M2",
+      "name": "Forza",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-servizio-collettivo",
+      "subjectId": "M2",
+      "name": "Servizio collettivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-condotta",
+      "subjectId": "M2",
+      "name": "Condotta",
+      "questionCount": 6
+    },
+    {
+      "id": "M2-funzioni",
+      "subjectId": "M2",
+      "name": "Funzioni",
+      "questionCount": 3
+    },
+    {
+      "id": "M2-tipologie-di-servizio",
+      "subjectId": "M2",
+      "name": "Tipologie di servizio",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-eta-minime",
+      "subjectId": "M3",
+      "name": "Età minime",
+      "questionCount": 9
+    },
+    {
+      "id": "M3-accesso-categoria-a",
+      "subjectId": "M3",
+      "name": "Accesso categoria A",
+      "questionCount": 2
+    },
+    {
+      "id": "M3-cqc",
+      "subjectId": "M3",
+      "name": "CQC",
+      "questionCount": 2
+    },
+    {
+      "id": "M3-neopatentati",
+      "subjectId": "M3",
+      "name": "Neopatentati",
+      "questionCount": 6
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale",
+      "subjectId": "M4",
+      "name": "Diritto penale - Parte generale",
+      "questionCount": 15
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti",
+      "subjectId": "M4",
+      "name": "Diritto penale - Reati e scriminanti",
+      "questionCount": 20
+    },
+    {
+      "id": "M5-introduzione",
+      "subjectId": "M5",
+      "name": "Introduzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-quadro-normativo",
+      "subjectId": "M5",
+      "name": "Quadro normativo",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-finalita",
+      "subjectId": "M5",
+      "name": "Finalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-macroattivita",
+      "subjectId": "M5",
+      "name": "Macroattività",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-profili",
+      "subjectId": "M5",
+      "name": "Profili",
+      "questionCount": 2
+    },
+    {
+      "id": "M5-alimentazione",
+      "subjectId": "M5",
+      "name": "Alimentazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-analisi",
+      "subjectId": "M5",
+      "name": "Analisi",
+      "questionCount": 2
+    },
+    {
+      "id": "M5-credenziali",
+      "subjectId": "M5",
+      "name": "Credenziali",
+      "questionCount": 2
+    },
+    {
+      "id": "M5-focal-point",
+      "subjectId": "M5",
+      "name": "Focal Point",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-portali",
+      "subjectId": "M5",
+      "name": "Portali",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-operazioni",
+      "subjectId": "M5",
+      "name": "Operazioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-riservatezza",
+      "subjectId": "M5",
+      "name": "Riservatezza",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-penale-militare",
+      "subjectId": "M4",
+      "name": "Penale militare",
+      "questionCount": 10
+    },
+    {
+      "id": "M5-architettura-sdi",
+      "subjectId": "M5",
+      "name": "Architettura SDI",
+      "questionCount": 8
+    },
+    {
+      "id": "M5-profili-sdi",
+      "subjectId": "M5",
+      "name": "Profili SDI",
+      "questionCount": 2
+    },
+    {
+      "id": "M5-funzionalita-sdi",
+      "subjectId": "M5",
+      "name": "Funzionalità SDI",
+      "questionCount": 2
+    },
+    {
+      "id": "M5-accesso-sdi",
+      "subjectId": "M5",
+      "name": "Accesso SDI",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-del-diritto",
+      "subjectId": "M6",
+      "name": "Fonti del diritto",
+      "questionCount": 8
+    },
+    {
+      "id": "M6-principi-fondamentali",
+      "subjectId": "M6",
+      "name": "Principi fondamentali",
+      "questionCount": 4
+    },
+    {
+      "id": "M6-rapporti-civili",
+      "subjectId": "M6",
+      "name": "Rapporti civili",
+      "questionCount": 17
+    },
+    {
+      "id": "M7-pubblica-sicurezza",
+      "subjectId": "M7",
+      "name": "Pubblica sicurezza",
+      "questionCount": 3
+    },
+    {
+      "id": "M7-fonti-di-ps",
+      "subjectId": "M7",
+      "name": "Fonti di PS",
+      "questionCount": 4
+    },
+    {
+      "id": "M7-qualifiche-di-ps",
+      "subjectId": "M7",
+      "name": "Qualifiche di PS",
+      "questionCount": 2
+    },
+    {
+      "id": "M7-dipendenze-dell-arma",
+      "subjectId": "M7",
+      "name": "Dipendenze dell'Arma",
+      "questionCount": 2
+    },
+    {
+      "id": "M7-controllo-del-territorio",
+      "subjectId": "M7",
+      "name": "Controllo del territorio",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-illecito-amministrativo",
+      "subjectId": "M7",
+      "name": "Illecito amministrativo",
+      "questionCount": 12
+    },
+    {
+      "id": "M8-procedimento-penale",
+      "subjectId": "M8",
+      "name": "Procedimento penale",
+      "questionCount": 5
+    },
+    {
+      "id": "M8-indagini-preliminari",
+      "subjectId": "M8",
+      "name": "Indagini preliminari",
+      "questionCount": 6
+    },
+    {
+      "id": "M8-soggetti",
+      "subjectId": "M8",
+      "name": "Soggetti",
+      "questionCount": 3
+    },
+    {
+      "id": "M8-prove",
+      "subjectId": "M8",
+      "name": "Prove",
+      "questionCount": 4
+    },
+    {
+      "id": "M8-procedibilita",
+      "subjectId": "M8",
+      "name": "Procedibilità",
+      "questionCount": 2
+    },
+    {
+      "id": "M9-acquisizione-dichiarazioni",
+      "subjectId": "M9",
+      "name": "Acquisizione dichiarazioni",
+      "questionCount": 3
+    },
+    {
+      "id": "M9-documentazione",
+      "subjectId": "M9",
+      "name": "Documentazione",
+      "questionCount": 2
+    },
+    {
+      "id": "M9-memoria-e-intervista",
+      "subjectId": "M9",
+      "name": "Memoria e intervista",
+      "questionCount": 6
+    },
+    {
+      "id": "M9-domande",
+      "subjectId": "M9",
+      "name": "Domande",
+      "questionCount": 3
+    },
+    {
+      "id": "M9-errori-dell-intervistatore",
+      "subjectId": "M9",
+      "name": "Errori dell'intervistatore",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-testimonianza",
+      "subjectId": "M9",
+      "name": "Testimonianza",
+      "questionCount": 7
+    },
+    {
+      "id": "M9-esame-in-aula",
+      "subjectId": "M9",
+      "name": "Esame in aula",
+      "questionCount": 4
+    },
+    {
+      "id": "M10-vulnerabilita",
+      "subjectId": "M10",
+      "name": "Vulnerabilità",
+      "questionCount": 5
+    },
+    {
+      "id": "M10-reati-e-tutela",
+      "subjectId": "M10",
+      "name": "Reati e tutela",
+      "questionCount": 6
+    },
+    {
+      "id": "M10-garanzie",
+      "subjectId": "M10",
+      "name": "Garanzie",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-relazione-con-la-vittima",
+      "subjectId": "M10",
+      "name": "Relazione con la vittima",
+      "questionCount": 2
+    },
+    {
+      "id": "M10-bullismo-e-cyberbullismo",
+      "subjectId": "M10",
+      "name": "Bullismo e cyberbullismo",
+      "questionCount": 5
+    },
+    {
+      "id": "M10-violenza-di-genere",
+      "subjectId": "M10",
+      "name": "Violenza di genere",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-servizi-di-tutela",
+      "subjectId": "M10",
+      "name": "Servizi di tutela",
+      "questionCount": 2
+    },
+    {
+      "id": "M11-compiti-e-personale",
+      "subjectId": "M11",
+      "name": "Compiti e personale",
+      "questionCount": 8
+    },
+    {
+      "id": "M11-normativa-fondamentale",
+      "subjectId": "M11",
+      "name": "Normativa fondamentale",
+      "questionCount": 7
+    },
+    {
+      "id": "M11-organizzazione-addestrativa",
+      "subjectId": "M11",
+      "name": "Organizzazione addestrativa",
+      "questionCount": 6
+    },
+    {
+      "id": "M11-organizzazione-territoriale",
+      "subjectId": "M11",
+      "name": "Organizzazione territoriale",
+      "questionCount": 3
+    },
+    {
+      "id": "M12-sio-e-memoriale",
+      "subjectId": "M12",
+      "name": "SIO e Memoriale",
+      "questionCount": 6
+    },
+    {
+      "id": "M12-c-prot",
+      "subjectId": "M12",
+      "name": "C-Prot",
+      "questionCount": 5
+    },
+    {
+      "id": "M12-silac-e-gepav",
+      "subjectId": "M12",
+      "name": "SILAC e GePaV",
+      "questionCount": 4
+    },
+    {
+      "id": "M12-c-denunce",
+      "subjectId": "M12",
+      "name": "C-Denunce",
+      "questionCount": 4
+    },
+    {
+      "id": "M12-arma-poste",
+      "subjectId": "M12",
+      "name": "Arma-Poste",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-fondazione",
+      "subjectId": "M13",
+      "name": "Fondazione",
+      "questionCount": 7
+    },
+    {
+      "id": "M13-prime-prove",
+      "subjectId": "M13",
+      "name": "Prime prove",
+      "questionCount": 2
+    },
+    {
+      "id": "M13-formazione-e-ordinamento",
+      "subjectId": "M13",
+      "name": "Formazione e ordinamento",
+      "questionCount": 3
+    },
+    {
+      "id": "M13-guerre-d-indipendenza",
+      "subjectId": "M13",
+      "name": "Guerre d'indipendenza",
+      "questionCount": 3
+    },
+    {
+      "id": "M13-guerre-mondiali",
+      "subjectId": "M13",
+      "name": "Guerre mondiali",
+      "questionCount": 2
+    },
+    {
+      "id": "M13-tradizioni",
+      "subjectId": "M13",
+      "name": "Tradizioni",
+      "questionCount": 2
+    },
+    {
+      "id": "M13-resistenza",
+      "subjectId": "M13",
+      "name": "Resistenza",
+      "questionCount": 5
+    },
+    {
+      "id": "M13-storia-contemporanea",
+      "subjectId": "M13",
+      "name": "Storia contemporanea",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-percezione",
+      "subjectId": "M14",
+      "name": "Percezione",
+      "questionCount": 4
+    },
+    {
+      "id": "M14-processo-comunicativo",
+      "subjectId": "M14",
+      "name": "Processo comunicativo",
+      "questionCount": 7
+    },
+    {
+      "id": "M14-ostacoli",
+      "subjectId": "M14",
+      "name": "Ostacoli",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-affidabilita-orale",
+      "subjectId": "M14",
+      "name": "Affidabilità orale",
+      "questionCount": 2
+    },
+    {
+      "id": "M14-modelli-di-comunicazione",
+      "subjectId": "M14",
+      "name": "Modelli di comunicazione",
+      "questionCount": 4
+    },
+    {
+      "id": "M14-ascolto-attivo",
+      "subjectId": "M14",
+      "name": "Ascolto attivo",
+      "questionCount": 4
+    },
+    {
+      "id": "M14-linguaggio",
+      "subjectId": "M14",
+      "name": "Linguaggio",
+      "questionCount": 5
+    },
+    {
+      "id": "M15-organizzazione-dello-studio",
+      "subjectId": "M15",
+      "name": "Organizzazione dello studio",
+      "questionCount": 4
+    },
+    {
+      "id": "M15-memorizzazione",
+      "subjectId": "M15",
+      "name": "Memorizzazione",
+      "questionCount": 5
+    },
+    {
+      "id": "M15-gestione-delle-sessioni",
+      "subjectId": "M15",
+      "name": "Gestione delle sessioni",
+      "questionCount": 2
+    },
+    {
+      "id": "M15-studio-attivo",
+      "subjectId": "M15",
+      "name": "Studio attivo",
+      "questionCount": 5
+    },
+    {
+      "id": "M15-competenze-pratiche",
+      "subjectId": "M15",
+      "name": "Competenze pratiche",
+      "questionCount": 3
+    },
+    {
+      "id": "M15-trasferimento",
+      "subjectId": "M15",
+      "name": "Trasferimento",
+      "questionCount": 4
+    },
+    {
+      "id": "M15-autovalutazione",
+      "subjectId": "M15",
+      "name": "Autovalutazione",
+      "questionCount": 2
+    },
+    {
+      "id": "M1-organizzazione-della-centrale",
+      "subjectId": "M1",
+      "name": "Organizzazione della Centrale",
+      "questionCount": 16
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi",
+      "subjectId": "M1",
+      "name": "Coordinamento degli interventi",
+      "questionCount": 32
+    },
+    {
+      "id": "M1-c-mobile",
+      "subjectId": "M1",
+      "name": "C-Mobile",
+      "questionCount": 54
+    },
+    {
+      "id": "M1-rete-gamma-400",
+      "subjectId": "M1",
+      "name": "Rete Gamma 400",
+      "questionCount": 14
+    },
+    {
+      "id": "M2-sicurezza-generale",
+      "subjectId": "M2",
+      "name": "Sicurezza generale",
+      "questionCount": 4
+    },
+    {
+      "id": "M2-disciplina-di-condotta",
+      "subjectId": "M2",
+      "name": "Disciplina di condotta",
+      "questionCount": 3
+    },
+    {
+      "id": "M2-funzioni-operative",
+      "subjectId": "M2",
+      "name": "Funzioni operative",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-controllo-stradale",
+      "subjectId": "M2",
+      "name": "Controllo stradale",
+      "questionCount": 5
+    },
+    {
+      "id": "M2-inseguimento",
+      "subjectId": "M2",
+      "name": "Inseguimento",
+      "questionCount": 3
+    },
+    {
+      "id": "M3-durata-delle-patenti",
+      "subjectId": "M3",
+      "name": "Durata delle patenti",
+      "questionCount": 5
+    },
+    {
+      "id": "M3-trasporto-persone",
+      "subjectId": "M3",
+      "name": "Trasporto persone",
+      "questionCount": 3
+    },
+    {
+      "id": "M4-struttura-del-reato",
+      "subjectId": "M4",
+      "name": "Struttura del reato",
+      "questionCount": 7
+    },
+    {
+      "id": "M4-elemento-soggettivo",
+      "subjectId": "M4",
+      "name": "Elemento soggettivo",
+      "questionCount": 2
+    },
+    {
+      "id": "M4-delitti-contro-il-patrimonio",
+      "subjectId": "M4",
+      "name": "Delitti contro il patrimonio",
+      "questionCount": 5
+    },
+    {
+      "id": "M4-delitti-contro-la-persona",
+      "subjectId": "M4",
+      "name": "Delitti contro la persona",
+      "questionCount": 4
+    },
+    {
+      "id": "M4-diritto-penale-militare",
+      "subjectId": "M4",
+      "name": "Diritto penale militare",
+      "questionCount": 2
+    },
+    {
+      "id": "M6-fonti-dell-ordinamento",
+      "subjectId": "M6",
+      "name": "Fonti dell'ordinamento",
+      "questionCount": 5
+    },
+    {
+      "id": "M6-rapporti-etico-sociali",
+      "subjectId": "M6",
+      "name": "Rapporti etico-sociali",
+      "questionCount": 4
+    },
+    {
+      "id": "M6-rapporti-politici",
+      "subjectId": "M6",
+      "name": "Rapporti politici",
+      "questionCount": 2
+    },
+    {
+      "id": "M5-tutela-dei-dati",
+      "subjectId": "M5",
+      "name": "Tutela dei dati",
+      "questionCount": 8
+    },
+    {
+      "id": "M5-profili-di-accesso",
+      "subjectId": "M5",
+      "name": "Profili di accesso",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-autorizzazioni",
+      "subjectId": "M5",
+      "name": "Autorizzazioni",
+      "questionCount": 4
+    },
+    {
+      "id": "M5-alimentazione-sdi",
+      "subjectId": "M5",
+      "name": "Alimentazione SDI",
+      "questionCount": 2
+    },
+    {
+      "id": "M7-misure-di-prevenzione",
+      "subjectId": "M7",
+      "name": "Misure di prevenzione",
+      "questionCount": 4
+    },
+    {
+      "id": "M7-riunioni-e-luoghi",
+      "subjectId": "M7",
+      "name": "Riunioni e luoghi",
+      "questionCount": 4
+    },
+    {
+      "id": "M7-documenti-di-identificazione",
+      "subjectId": "M7",
+      "name": "Documenti di identificazione",
+      "questionCount": 5
+    },
+    {
+      "id": "M7-identificazione-di-ps",
+      "subjectId": "M7",
+      "name": "Identificazione di PS",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-soggetti-del-procedimento",
+      "subjectId": "M8",
+      "name": "Soggetti del procedimento",
+      "questionCount": 2
+    },
+    {
+      "id": "M8-attivita-di-pg",
+      "subjectId": "M8",
+      "name": "Attività di PG",
+      "questionCount": 3
+    },
+    {
+      "id": "M8-le-prove",
+      "subjectId": "M8",
+      "name": "Le prove",
+      "questionCount": 4
+    },
+    {
+      "id": "M8-notizia-di-reato",
+      "subjectId": "M8",
+      "name": "Notizia di reato",
+      "questionCount": 3
+    },
+    {
+      "id": "M8-condizioni-di-procedibilita",
+      "subjectId": "M8",
+      "name": "Condizioni di procedibilità",
+      "questionCount": 2
+    },
+    {
+      "id": "M8-documentazione-di-pg",
+      "subjectId": "M8",
+      "name": "Documentazione di PG",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-accertamenti-urgenti",
+      "subjectId": "M8",
+      "name": "Accertamenti urgenti",
+      "questionCount": 3
+    },
+    {
+      "id": "M8-ricerca-della-prova",
+      "subjectId": "M8",
+      "name": "Ricerca della prova",
+      "questionCount": 2
+    },
+    {
+      "id": "M9-dichiarazioni-dell-indagato",
+      "subjectId": "M9",
+      "name": "Dichiarazioni dell'indagato",
+      "questionCount": 4
+    },
+    {
+      "id": "M9-intervista-cognitiva",
+      "subjectId": "M9",
+      "name": "Intervista cognitiva",
+      "questionCount": 2
+    },
+    {
+      "id": "M9-preparazione-dell-intervista",
+      "subjectId": "M9",
+      "name": "Preparazione dell'intervista",
+      "questionCount": 4
+    },
+    {
+      "id": "M9-regole-dell-esame",
+      "subjectId": "M9",
+      "name": "Regole dell'esame",
+      "questionCount": 2
+    },
+    {
+      "id": "M9-preparazione-del-testimone",
+      "subjectId": "M9",
+      "name": "Preparazione del testimone",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-esame-diretto",
+      "subjectId": "M9",
+      "name": "Esame diretto",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-violenza-domestica",
+      "subjectId": "M10",
+      "name": "Violenza domestica",
+      "questionCount": 2
+    },
+    {
+      "id": "M10-reati-contro-familiari",
+      "subjectId": "M10",
+      "name": "Reati contro familiari",
+      "questionCount": 2
+    },
+    {
+      "id": "M10-violenza-digitale",
+      "subjectId": "M10",
+      "name": "Violenza digitale",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-tutela-degli-anziani",
+      "subjectId": "M10",
+      "name": "Tutela degli anziani",
+      "questionCount": 3
+    },
+    {
+      "id": "M10-crimini-d-odio",
+      "subjectId": "M10",
+      "name": "Crimini d'odio",
+      "questionCount": 3
+    },
+    {
+      "id": "M10-rete-di-assistenza",
+      "subjectId": "M10",
+      "name": "Rete di assistenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-vittimizzazione",
+      "subjectId": "M10",
+      "name": "Vittimizzazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-codice-rosso",
+      "subjectId": "M10",
+      "name": "Codice Rosso",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-intervento-e-ascolto",
+      "subjectId": "M10",
+      "name": "Intervento e ascolto",
+      "questionCount": 4
+    },
+    {
+      "id": "M11-inquadramento-dell-arma",
+      "subjectId": "M11",
+      "name": "Inquadramento dell'Arma",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-centrale",
+      "subjectId": "M11",
+      "name": "Organizzazione centrale",
+      "questionCount": 2
+    },
+    {
+      "id": "M11-organizzazione-speciale",
+      "subjectId": "M11",
+      "name": "Organizzazione speciale",
+      "questionCount": 2
+    },
+    {
+      "id": "M11-organizzazione-forestale",
+      "subjectId": "M11",
+      "name": "Organizzazione forestale",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-polizia-militare",
+      "subjectId": "M11",
+      "name": "Polizia militare",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-disciplina-militare",
+      "subjectId": "M11",
+      "name": "Disciplina militare",
+      "questionCount": 6
+    },
+    {
+      "id": "M11-attivita-del-personale",
+      "subjectId": "M11",
+      "name": "Attività del personale",
+      "questionCount": 3
+    },
+    {
+      "id": "M12-memoriale-informatizzato",
+      "subjectId": "M12",
+      "name": "Memoriale informatizzato",
+      "questionCount": 13
+    },
+    {
+      "id": "M12-protocollo-e-documenti",
+      "subjectId": "M12",
+      "name": "Protocollo e documenti",
+      "questionCount": 7
+    },
+    {
+      "id": "M13-origini-del-corpo",
+      "subjectId": "M13",
+      "name": "Origini del Corpo",
+      "questionCount": 3
+    },
+    {
+      "id": "M13-ottocento",
+      "subjectId": "M13",
+      "name": "Ottocento",
+      "questionCount": 2
+    },
+    {
+      "id": "M13-legione-allievi",
+      "subjectId": "M13",
+      "name": "Legione Allievi",
+      "questionCount": 3
+    },
+    {
+      "id": "M13-prima-guerra-mondiale",
+      "subjectId": "M13",
+      "name": "Prima guerra mondiale",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-seconda-guerra-mondiale",
+      "subjectId": "M13",
+      "name": "Seconda guerra mondiale",
+      "questionCount": 3
+    },
+    {
+      "id": "M13-dopoguerra",
+      "subjectId": "M13",
+      "name": "Dopoguerra",
+      "questionCount": 2
+    },
+    {
+      "id": "M13-contrasto-al-terrorismo",
+      "subjectId": "M13",
+      "name": "Contrasto al terrorismo",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-ostacoli-comunicativi",
+      "subjectId": "M14",
+      "name": "Ostacoli comunicativi",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comunicazione-efficace",
+      "subjectId": "M14",
+      "name": "Comunicazione efficace",
+      "questionCount": 2
+    },
+    {
+      "id": "M14-comunicazione-orale",
+      "subjectId": "M14",
+      "name": "Comunicazione orale",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-modelli-comunicativi",
+      "subjectId": "M14",
+      "name": "Modelli comunicativi",
+      "questionCount": 2
+    },
+    {
+      "id": "M14-comportamento-sociale",
+      "subjectId": "M14",
+      "name": "Comportamento sociale",
+      "questionCount": 2
+    },
+    {
+      "id": "M14-comunicazione-non-verbale",
+      "subjectId": "M14",
+      "name": "Comunicazione non verbale",
+      "questionCount": 2
+    },
+    {
+      "id": "M14-comunicazione-organizzativa",
+      "subjectId": "M14",
+      "name": "Comunicazione organizzativa",
+      "questionCount": 3
+    },
+    {
+      "id": "M15-pianificazione",
+      "subjectId": "M15",
+      "name": "Pianificazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-gestione-del-tempo",
+      "subjectId": "M15",
+      "name": "Gestione del tempo",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-lettura-strategica",
+      "subjectId": "M15",
+      "name": "Lettura strategica",
+      "questionCount": 5
+    },
+    {
+      "id": "M15-stress-e-motivazione",
+      "subjectId": "M15",
+      "name": "Stress e motivazione",
+      "questionCount": 5
+    },
+    {
+      "id": "M15-benessere-e-attenzione",
+      "subjectId": "M15",
+      "name": "Benessere e attenzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-neuroscienze-dell-apprendimento",
+      "subjectId": "M15",
+      "name": "Neuroscienze dell'apprendimento",
+      "questionCount": 2
+    },
+    {
+      "id": "M3-ciclomotori-e-motocicli",
+      "subjectId": "M3",
+      "name": "Ciclomotori e motocicli",
+      "questionCount": 9
+    },
+    {
+      "id": "M3-quadricicli-e-rimorchi",
+      "subjectId": "M3",
+      "name": "Quadricicli e rimorchi",
+      "questionCount": 5
+    },
+    {
+      "id": "M3-trasporto-cose",
+      "subjectId": "M3",
+      "name": "Trasporto cose",
+      "questionCount": 2
+    },
+    {
+      "id": "M1-ponti-ripetitori",
+      "subjectId": "M1",
+      "name": "Ponti ripetitori",
+      "questionCount": 14
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari",
+      "subjectId": "M1",
+      "name": "Apparati portatili e veicolari",
+      "questionCount": 20
+    },
+    {
+      "id": "M1-sistema-tetra",
+      "subjectId": "M1",
+      "name": "Sistema TETRA",
+      "questionCount": 34
+    },
+    {
+      "id": "M1-terminali-tetra",
+      "subjectId": "M1",
+      "name": "Terminali TETRA",
+      "questionCount": 9
+    },
+    {
+      "id": "M1-rete-hf",
+      "subjectId": "M1",
+      "name": "Rete HF",
+      "questionCount": 16
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature",
+      "subjectId": "M1",
+      "name": "Sicurezza delle apparecchiature",
+      "questionCount": 16
+    },
+    {
+      "id": "M1-nue-112-approfondimenti-ufficiali",
+      "subjectId": "M1",
+      "name": "NUE 112: approfondimenti ufficiali",
+      "questionCount": 7
+    },
+    {
+      "id": "M1-telecomandi-e-frontali",
+      "subjectId": "M1",
+      "name": "Telecomandi e frontali",
+      "questionCount": 25
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione",
+      "subjectId": "M1",
+      "name": "Consolle CN2 e alimentazione",
+      "questionCount": 14
+    }
+  ],
+  "topics": [
+    {
+      "id": "M1-funzione-della-centrale-funzione-della-centrale",
+      "chapterId": "M1-funzione-della-centrale",
+      "name": "Funzione della centrale",
+      "questionCount": 2
+    },
+    {
+      "id": "M1-storia-storia",
+      "chapterId": "M1-storia",
+      "name": "Storia",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-collegamenti-radio-collegamenti-radio",
+      "chapterId": "M1-collegamenti-radio",
+      "name": "Collegamenti radio",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-comunicazioni-comunicazioni",
+      "chapterId": "M1-comunicazioni",
+      "name": "Comunicazioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-passaggio-di-consegne-passaggio-di-consegne",
+      "chapterId": "M1-passaggio-di-consegne",
+      "name": "Passaggio di consegne",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-priorita-priorita",
+      "chapterId": "M1-priorita",
+      "name": "Priorità",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-controllo-pattuglie-controllo-pattuglie",
+      "chapterId": "M1-controllo-pattuglie",
+      "name": "Controllo pattuglie",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-radiolocalizzazione-radiolocalizzazione",
+      "chapterId": "M1-radiolocalizzazione",
+      "name": "Radiolocalizzazione",
+      "questionCount": 3
+    },
+    {
+      "id": "M1-nue-112-nue-112",
+      "chapterId": "M1-nue-112",
+      "name": "NUE 112",
+      "questionCount": 4
+    },
+    {
+      "id": "M1-scheda-contatto-scheda-contatto",
+      "chapterId": "M1-scheda-contatto",
+      "name": "Scheda contatto",
+      "questionCount": 2
+    },
+    {
+      "id": "M1-where-are-u-where-are-u",
+      "chapterId": "M1-where-are-u",
+      "name": "Where ARE U",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-reti-radio-reti-radio",
+      "chapterId": "M1-reti-radio",
+      "name": "Reti radio",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-standard-radio-standard-radio",
+      "chapterId": "M1-standard-radio",
+      "name": "Standard radio",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-finalita-finalita",
+      "chapterId": "M2-finalita",
+      "name": "Finalità",
+      "questionCount": 2
+    },
+    {
+      "id": "M2-flessibilita-flessibilita",
+      "chapterId": "M2-flessibilita",
+      "name": "Flessibilità",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-forza-forza",
+      "chapterId": "M2-forza",
+      "name": "Forza",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-servizio-collettivo-servizio-collettivo",
+      "chapterId": "M2-servizio-collettivo",
+      "name": "Servizio collettivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-condotta-condotta",
+      "chapterId": "M2-condotta",
+      "name": "Condotta",
+      "questionCount": 6
+    },
+    {
+      "id": "M2-funzioni-funzioni",
+      "chapterId": "M2-funzioni",
+      "name": "Funzioni",
+      "questionCount": 3
+    },
+    {
+      "id": "M2-tipologie-di-servizio-tipologie-di-servizio",
+      "chapterId": "M2-tipologie-di-servizio",
+      "name": "Tipologie di servizio",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-eta-minime-eta-minime",
+      "chapterId": "M3-eta-minime",
+      "name": "Età minime",
+      "questionCount": 9
+    },
+    {
+      "id": "M3-accesso-categoria-a-accesso-categoria-a",
+      "chapterId": "M3-accesso-categoria-a",
+      "name": "Accesso categoria A",
+      "questionCount": 2
+    },
+    {
+      "id": "M3-cqc-cqc",
+      "chapterId": "M3-cqc",
+      "name": "CQC",
+      "questionCount": 2
+    },
+    {
+      "id": "M3-neopatentati-neopatentati",
+      "chapterId": "M3-neopatentati",
+      "name": "Neopatentati",
+      "questionCount": 2
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-legalita",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Legalità",
+      "questionCount": 2
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-successione-leggi",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Successione leggi",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-responsabilita",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Responsabilità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-imputabilita",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Imputabilità",
+      "questionCount": 2
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-obbligatorieta",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Obbligatorietà",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-azione-penale",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Azione penale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-reati-e-pene",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Reati e pene",
+      "questionCount": 2
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-elemento-soggettivo",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Elemento soggettivo",
+      "questionCount": 2
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-nesso-causale",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Nesso causale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-forza-maggiore",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Forza maggiore",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-parte-generale-costringimento",
+      "chapterId": "M4-diritto-penale-parte-generale",
+      "name": "Costringimento",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-scriminanti",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Scriminanti",
+      "questionCount": 4
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-eccesso-colposo",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Eccesso colposo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-scriminante-putativa",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Scriminante putativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-qualifiche",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Qualifiche",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-peculato",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Peculato",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-concussione",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Concussione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-corruzione",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Corruzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-destinazione-beni",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Destinazione beni",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-segreti-d-ufficio",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Segreti d'ufficio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-atti-d-ufficio",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Atti d'ufficio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-pubblico-ufficiale",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Pubblico ufficiale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-oltraggio",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Oltraggio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-simulazione-di-reato",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Simulazione di reato",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-calunnia",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Calunnia",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-falsa-testimonianza",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Falsa testimonianza",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-reati-e-scriminanti-favoreggiamento",
+      "chapterId": "M4-diritto-penale-reati-e-scriminanti",
+      "name": "Favoreggiamento",
+      "questionCount": 2
+    },
+    {
+      "id": "M5-introduzione-introduzione",
+      "chapterId": "M5-introduzione",
+      "name": "Introduzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-quadro-normativo-quadro-normativo",
+      "chapterId": "M5-quadro-normativo",
+      "name": "Quadro normativo",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-finalita-finalita",
+      "chapterId": "M5-finalita",
+      "name": "Finalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-macroattivita-macroattivita",
+      "chapterId": "M5-macroattivita",
+      "name": "Macroattività",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-profili-profili",
+      "chapterId": "M5-profili",
+      "name": "Profili",
+      "questionCount": 2
+    },
+    {
+      "id": "M5-alimentazione-alimentazione",
+      "chapterId": "M5-alimentazione",
+      "name": "Alimentazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-analisi-analisi",
+      "chapterId": "M5-analisi",
+      "name": "Analisi",
+      "questionCount": 2
+    },
+    {
+      "id": "M5-credenziali-credenziali",
+      "chapterId": "M5-credenziali",
+      "name": "Credenziali",
+      "questionCount": 2
+    },
+    {
+      "id": "M5-focal-point-focal-point",
+      "chapterId": "M5-focal-point",
+      "name": "Focal Point",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-portali-portali",
+      "chapterId": "M5-portali",
+      "name": "Portali",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-operazioni-operazioni",
+      "chapterId": "M5-operazioni",
+      "name": "Operazioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-riservatezza-riservatezza",
+      "chapterId": "M5-riservatezza",
+      "name": "Riservatezza",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-penale-militare-giurisdizione",
+      "chapterId": "M4-penale-militare",
+      "name": "Giurisdizione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-penale-militare-complementarita",
+      "chapterId": "M4-penale-militare",
+      "name": "Complementarità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-penale-militare-specialita",
+      "chapterId": "M4-penale-militare",
+      "name": "Specialità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-penale-militare-rapporto-gerarchico",
+      "chapterId": "M4-penale-militare",
+      "name": "Rapporto gerarchico",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-penale-militare-omesso-rapporto",
+      "chapterId": "M4-penale-militare",
+      "name": "Omesso rapporto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-penale-militare-legge-penale-militare",
+      "chapterId": "M4-penale-militare",
+      "name": "Legge penale militare",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-penale-militare-polizia-giudiziaria-militare",
+      "chapterId": "M4-penale-militare",
+      "name": "Polizia giudiziaria militare",
+      "questionCount": 2
+    },
+    {
+      "id": "M4-penale-militare-polizia-militare",
+      "chapterId": "M4-penale-militare",
+      "name": "Polizia militare",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-penale-militare-richiesta-di-procedimento",
+      "chapterId": "M4-penale-militare",
+      "name": "Richiesta di procedimento",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-architettura-sdi-soggetti",
+      "chapterId": "M5-architettura-sdi",
+      "name": "Soggetti",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-architettura-sdi-base-eventocentrica",
+      "chapterId": "M5-architettura-sdi",
+      "name": "Base eventocentrica",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-architettura-sdi-anagrafica-unica",
+      "chapterId": "M5-architettura-sdi",
+      "name": "Anagrafica unica",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-architettura-sdi-sistema-centralizzato",
+      "chapterId": "M5-architettura-sdi",
+      "name": "Sistema centralizzato",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-profili-sdi-operativo",
+      "chapterId": "M5-profili-sdi",
+      "name": "Operativo",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-profili-sdi-investigativo",
+      "chapterId": "M5-profili-sdi",
+      "name": "Investigativo",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-funzionalita-sdi-anagrafiche-storiche",
+      "chapterId": "M5-funzionalita-sdi",
+      "name": "Anagrafiche storiche",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-funzionalita-sdi-geocope",
+      "chapterId": "M5-funzionalita-sdi",
+      "name": "GEOCOPE",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-accesso-sdi-abilitazione",
+      "chapterId": "M5-accesso-sdi",
+      "name": "Abilitazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-architettura-sdi-correlazioni",
+      "chapterId": "M5-architettura-sdi",
+      "name": "Correlazioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-del-diritto-produzione",
+      "chapterId": "M6-fonti-del-diritto",
+      "name": "Produzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-del-diritto-cognizione",
+      "chapterId": "M6-fonti-del-diritto",
+      "name": "Cognizione",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-del-diritto-costituzione",
+      "chapterId": "M6-fonti-del-diritto",
+      "name": "Costituzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-del-diritto-revisione",
+      "chapterId": "M6-fonti-del-diritto",
+      "name": "Revisione",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-del-diritto-legge-ordinaria",
+      "chapterId": "M6-fonti-del-diritto",
+      "name": "Legge ordinaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-del-diritto-decreto-legislativo",
+      "chapterId": "M6-fonti-del-diritto",
+      "name": "Decreto legislativo",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-del-diritto-decreto-legge",
+      "chapterId": "M6-fonti-del-diritto",
+      "name": "Decreto-legge",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-del-diritto-conversione",
+      "chapterId": "M6-fonti-del-diritto",
+      "name": "Conversione",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-principi-fondamentali-sovranita",
+      "chapterId": "M6-principi-fondamentali",
+      "name": "Sovranità",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-principi-fondamentali-solidarieta",
+      "chapterId": "M6-principi-fondamentali",
+      "name": "Solidarietà",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-principi-fondamentali-eguaglianza",
+      "chapterId": "M6-principi-fondamentali",
+      "name": "Eguaglianza",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-liberta-personale",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Libertà personale",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-domicilio",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Domicilio",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-comunicazioni",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Comunicazioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-circolazione",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Circolazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-riunione",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Riunione",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-preavviso",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Preavviso",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-difesa",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Difesa",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-presunzione-di-innocenza",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Presunzione di innocenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-finalita-della-pena",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Finalità della pena",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-pubblica-sicurezza-polizia-giudiziaria",
+      "chapterId": "M7-pubblica-sicurezza",
+      "name": "Polizia giudiziaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-pubblica-sicurezza-polizia-amministrativa",
+      "chapterId": "M7-pubblica-sicurezza",
+      "name": "Polizia amministrativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-pubblica-sicurezza-ordine-pubblico",
+      "chapterId": "M7-pubblica-sicurezza",
+      "name": "Ordine pubblico",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-fonti-di-ps-tulps",
+      "chapterId": "M7-fonti-di-ps",
+      "name": "TULPS",
+      "questionCount": 2
+    },
+    {
+      "id": "M7-fonti-di-ps-ordinamento",
+      "chapterId": "M7-fonti-di-ps",
+      "name": "Ordinamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-fonti-di-ps-depenalizzazione",
+      "chapterId": "M7-fonti-di-ps",
+      "name": "Depenalizzazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-qualifiche-di-ps-agenti",
+      "chapterId": "M7-qualifiche-di-ps",
+      "name": "Agenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-qualifiche-di-ps-permanenza",
+      "chapterId": "M7-qualifiche-di-ps",
+      "name": "Permanenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-dipendenze-dell-arma-ordine-e-sicurezza",
+      "chapterId": "M7-dipendenze-dell-arma",
+      "name": "Ordine e sicurezza",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-dipendenze-dell-arma-polizia-giudiziaria",
+      "chapterId": "M7-dipendenze-dell-arma",
+      "name": "Polizia giudiziaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-controllo-del-territorio-pcct",
+      "chapterId": "M7-controllo-del-territorio",
+      "name": "PCCT",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-illecito-amministrativo-tipologie",
+      "chapterId": "M7-illecito-amministrativo",
+      "name": "Tipologie",
+      "questionCount": 3
+    },
+    {
+      "id": "M7-illecito-amministrativo-legalita",
+      "chapterId": "M7-illecito-amministrativo",
+      "name": "Legalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-illecito-amministrativo-capacita",
+      "chapterId": "M7-illecito-amministrativo",
+      "name": "Capacità",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-illecito-amministrativo-concorso-formale",
+      "chapterId": "M7-illecito-amministrativo",
+      "name": "Concorso formale",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-illecito-amministrativo-concorso-materiale",
+      "chapterId": "M7-illecito-amministrativo",
+      "name": "Concorso materiale",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-illecito-amministrativo-procedimento",
+      "chapterId": "M7-illecito-amministrativo",
+      "name": "Procedimento",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-procedimento-penale-modello-processuale",
+      "chapterId": "M8-procedimento-penale",
+      "name": "Modello processuale",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-procedimento-penale-contraddittorio",
+      "chapterId": "M8-procedimento-penale",
+      "name": "Contraddittorio",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-procedimento-penale-procedimento-e-processo",
+      "chapterId": "M8-procedimento-penale",
+      "name": "Procedimento e processo",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-procedimento-penale-inizio-processo",
+      "chapterId": "M8-procedimento-penale",
+      "name": "Inizio processo",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-procedimento-penale-fine-processo",
+      "chapterId": "M8-procedimento-penale",
+      "name": "Fine processo",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-indagini-preliminari-avvio",
+      "chapterId": "M8-indagini-preliminari",
+      "name": "Avvio",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-indagini-preliminari-direzione",
+      "chapterId": "M8-indagini-preliminari",
+      "name": "Direzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-indagini-preliminari-finalita",
+      "chapterId": "M8-indagini-preliminari",
+      "name": "Finalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-indagini-preliminari-accertamenti-favorevoli",
+      "chapterId": "M8-indagini-preliminari",
+      "name": "Accertamenti favorevoli",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-indagini-preliminari-doppio-fascicolo",
+      "chapterId": "M8-indagini-preliminari",
+      "name": "Doppio fascicolo",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-soggetti-giudice",
+      "chapterId": "M8-soggetti",
+      "name": "Giudice",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-soggetti-poteri-di-iniziativa",
+      "chapterId": "M8-soggetti",
+      "name": "Poteri di iniziativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-soggetti-pg-e-sicurezza",
+      "chapterId": "M8-soggetti",
+      "name": "PG e sicurezza",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-prove-fonte-di-prova",
+      "chapterId": "M8-prove",
+      "name": "Fonte di prova",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-prove-ricerca-della-prova",
+      "chapterId": "M8-prove",
+      "name": "Ricerca della prova",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-prove-regola-probatoria",
+      "chapterId": "M8-prove",
+      "name": "Regola probatoria",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-procedibilita-condizioni",
+      "chapterId": "M8-procedibilita",
+      "name": "Condizioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-procedibilita-mancanza-della-condizione",
+      "chapterId": "M8-procedibilita",
+      "name": "Mancanza della condizione",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-indagini-preliminari-conclusione",
+      "chapterId": "M8-indagini-preliminari",
+      "name": "Conclusione",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-prove-motivazione",
+      "chapterId": "M8-prove",
+      "name": "Motivazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-acquisizione-dichiarazioni-indagato",
+      "chapterId": "M9-acquisizione-dichiarazioni",
+      "name": "Indagato",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-acquisizione-dichiarazioni-difensore",
+      "chapterId": "M9-acquisizione-dichiarazioni",
+      "name": "Difensore",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-acquisizione-dichiarazioni-persona-informata",
+      "chapterId": "M9-acquisizione-dichiarazioni",
+      "name": "Persona informata",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-documentazione-verbale",
+      "chapterId": "M9-documentazione",
+      "name": "Verbale",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-memoria-e-intervista-memoria-sensoriale",
+      "chapterId": "M9-memoria-e-intervista",
+      "name": "Memoria sensoriale",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-memoria-e-intervista-breve-termine",
+      "chapterId": "M9-memoria-e-intervista",
+      "name": "Breve termine",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-memoria-e-intervista-post-evento",
+      "chapterId": "M9-memoria-e-intervista",
+      "name": "Post-evento",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-memoria-e-intervista-intervista-cognitiva",
+      "chapterId": "M9-memoria-e-intervista",
+      "name": "Intervista cognitiva",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-memoria-e-intervista-contesto",
+      "chapterId": "M9-memoria-e-intervista",
+      "name": "Contesto",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-memoria-e-intervista-chiusura",
+      "chapterId": "M9-memoria-e-intervista",
+      "name": "Chiusura",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-domande-aperte",
+      "chapterId": "M9-domande",
+      "name": "Aperte",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-domande-chiuse",
+      "chapterId": "M9-domande",
+      "name": "Chiuse",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-domande-suggestive",
+      "chapterId": "M9-domande",
+      "name": "Suggestive",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-errori-dell-intervistatore-ipotesi",
+      "chapterId": "M9-errori-dell-intervistatore",
+      "name": "Ipotesi",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-testimonianza-obblighi",
+      "chapterId": "M9-testimonianza",
+      "name": "Obblighi",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-testimonianza-oggetto",
+      "chapterId": "M9-testimonianza",
+      "name": "Oggetto",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-esame-in-aula-sequenza",
+      "chapterId": "M9-esame-in-aula",
+      "name": "Sequenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-esame-in-aula-diretto",
+      "chapterId": "M9-esame-in-aula",
+      "name": "Diretto",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-esame-in-aula-attesa",
+      "chapterId": "M9-esame-in-aula",
+      "name": "Attesa",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-esame-in-aula-rispetto-del-teste",
+      "chapterId": "M9-esame-in-aula",
+      "name": "Rispetto del teste",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-vulnerabilita-nozione-di-vittima",
+      "chapterId": "M10-vulnerabilita",
+      "name": "Nozione di vittima",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-vulnerabilita-familiari",
+      "chapterId": "M10-vulnerabilita",
+      "name": "Familiari",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-vulnerabilita-condizione",
+      "chapterId": "M10-vulnerabilita",
+      "name": "Condizione",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-vulnerabilita-valutazione",
+      "chapterId": "M10-vulnerabilita",
+      "name": "Valutazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-vulnerabilita-minori",
+      "chapterId": "M10-vulnerabilita",
+      "name": "Minori",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-reati-e-tutela-violenza-assistita",
+      "chapterId": "M10-reati-e-tutela",
+      "name": "Violenza assistita",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-reati-e-tutela-assistenza-familiare",
+      "chapterId": "M10-reati-e-tutela",
+      "name": "Assistenza familiare",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-reati-e-tutela-maltrattamenti",
+      "chapterId": "M10-reati-e-tutela",
+      "name": "Maltrattamenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-reati-e-tutela-atti-persecutori",
+      "chapterId": "M10-reati-e-tutela",
+      "name": "Atti persecutori",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-reati-e-tutela-eventi-persecutori",
+      "chapterId": "M10-reati-e-tutela",
+      "name": "Eventi persecutori",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-reati-e-tutela-circonvenzione",
+      "chapterId": "M10-reati-e-tutela",
+      "name": "Circonvenzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-garanzie-articolo-90-quater",
+      "chapterId": "M10-garanzie",
+      "name": "Articolo 90-quater",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-relazione-con-la-vittima-anziano-truffato",
+      "chapterId": "M10-relazione-con-la-vittima",
+      "name": "Anziano truffato",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-bullismo-e-cyberbullismo-bullismo",
+      "chapterId": "M10-bullismo-e-cyberbullismo",
+      "name": "Bullismo",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-bullismo-e-cyberbullismo-persistenza-online",
+      "chapterId": "M10-bullismo-e-cyberbullismo",
+      "name": "Persistenza online",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-bullismo-e-cyberbullismo-limiti",
+      "chapterId": "M10-bullismo-e-cyberbullismo",
+      "name": "Limiti",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-relazione-con-la-vittima-mediazione",
+      "chapterId": "M10-relazione-con-la-vittima",
+      "name": "Mediazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-violenza-di-genere-forme",
+      "chapterId": "M10-violenza-di-genere",
+      "name": "Forme",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-servizi-di-tutela-centri-antiviolenza",
+      "chapterId": "M10-servizi-di-tutela",
+      "name": "Centri antiviolenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-servizi-di-tutela-informazione",
+      "chapterId": "M10-servizi-di-tutela",
+      "name": "Informazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-compiti-e-personale-compiti-militari",
+      "chapterId": "M11-compiti-e-personale",
+      "name": "Compiti militari",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-compiti-e-personale-compiti-d-istituto",
+      "chapterId": "M11-compiti-e-personale",
+      "name": "Compiti d'istituto",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-compiti-e-personale-protezione-civile",
+      "chapterId": "M11-compiti-e-personale",
+      "name": "Protezione civile",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-compiti-e-personale-servizi-speciali",
+      "chapterId": "M11-compiti-e-personale",
+      "name": "Servizi speciali",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-compiti-e-personale-ispettori",
+      "chapterId": "M11-compiti-e-personale",
+      "name": "Ispettori",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-compiti-e-personale-appuntati-e-carabinieri",
+      "chapterId": "M11-compiti-e-personale",
+      "name": "Appuntati e Carabinieri",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-compiti-e-personale-gradi-ispettori",
+      "chapterId": "M11-compiti-e-personale",
+      "name": "Gradi ispettori",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-compiti-e-personale-gradi-base",
+      "chapterId": "M11-compiti-e-personale",
+      "name": "Gradi base",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-normativa-fondamentale-com",
+      "chapterId": "M11-normativa-fondamentale",
+      "name": "COM",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-normativa-fondamentale-bandiera",
+      "chapterId": "M11-normativa-fondamentale",
+      "name": "Bandiera",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-normativa-fondamentale-com-libro-i",
+      "chapterId": "M11-normativa-fondamentale",
+      "name": "COM - Libro I",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-normativa-fondamentale-com-libro-iv",
+      "chapterId": "M11-normativa-fondamentale",
+      "name": "COM - Libro IV",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-addestrativa-finalita",
+      "chapterId": "M11-organizzazione-addestrativa",
+      "name": "Finalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-addestrativa-vertice",
+      "chapterId": "M11-organizzazione-addestrativa",
+      "name": "Vertice",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-addestrativa-legione-allievi",
+      "chapterId": "M11-organizzazione-addestrativa",
+      "name": "Legione Allievi",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-addestrativa-cepaf",
+      "chapterId": "M11-organizzazione-addestrativa",
+      "name": "CePAF",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-addestrativa-ambiente-montano",
+      "chapterId": "M11-organizzazione-addestrativa",
+      "name": "Ambiente montano",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-addestrativa-cinofili",
+      "chapterId": "M11-organizzazione-addestrativa",
+      "name": "Cinofili",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-territoriale-funzione",
+      "chapterId": "M11-organizzazione-territoriale",
+      "name": "Funzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-territoriale-legioni",
+      "chapterId": "M11-organizzazione-territoriale",
+      "name": "Legioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sio-e-memoriale-sio",
+      "chapterId": "M12-sio-e-memoriale",
+      "name": "SIO",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sio-e-memoriale-interoperabilita",
+      "chapterId": "M12-sio-e-memoriale",
+      "name": "Interoperabilità",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sio-e-memoriale-funzioni",
+      "chapterId": "M12-sio-e-memoriale",
+      "name": "Funzioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sio-e-memoriale-collocazione",
+      "chapterId": "M12-sio-e-memoriale",
+      "name": "Collocazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sio-e-memoriale-allineamento-personale",
+      "chapterId": "M12-sio-e-memoriale",
+      "name": "Allineamento personale",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sio-e-memoriale-foglio-firma",
+      "chapterId": "M12-sio-e-memoriale",
+      "name": "Foglio firma",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-c-prot-versioni",
+      "chapterId": "M12-c-prot",
+      "name": "Versioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-c-prot-fascicoli-virtuali",
+      "chapterId": "M12-c-prot",
+      "name": "Fascicoli virtuali",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-c-prot-appartenenza",
+      "chapterId": "M12-c-prot",
+      "name": "Appartenenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-c-prot-scarico-posta",
+      "chapterId": "M12-c-prot",
+      "name": "Scarico posta",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-c-prot-report-casella",
+      "chapterId": "M12-c-prot",
+      "name": "Report casella",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-silac-e-gepav-collocazione",
+      "chapterId": "M12-silac-e-gepav",
+      "name": "Collocazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-silac-e-gepav-ciclo-di-vita",
+      "chapterId": "M12-silac-e-gepav",
+      "name": "Ciclo di vita",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-silac-e-gepav-dati",
+      "chapterId": "M12-silac-e-gepav",
+      "name": "Dati",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-silac-e-gepav-rifornimenti",
+      "chapterId": "M12-silac-e-gepav",
+      "name": "Rifornimenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-c-denunce-finalita",
+      "chapterId": "M12-c-denunce",
+      "name": "Finalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-c-denunce-sdi",
+      "chapterId": "M12-c-denunce",
+      "name": "SDI",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-c-denunce-offline",
+      "chapterId": "M12-c-denunce",
+      "name": "Offline",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-c-denunce-sdi-di-sintesi",
+      "chapterId": "M12-c-denunce",
+      "name": "SDI di Sintesi",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-arma-poste-finalita",
+      "chapterId": "M12-arma-poste",
+      "name": "Finalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-fondazione-data",
+      "chapterId": "M13-fondazione",
+      "name": "Data",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-fondazione-sovrano",
+      "chapterId": "M13-fondazione",
+      "name": "Sovrano",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-fondazione-progetto",
+      "chapterId": "M13-fondazione",
+      "name": "Progetto",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-fondazione-buon-governo",
+      "chapterId": "M13-fondazione",
+      "name": "Buon Governo",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-fondazione-primo-comandante",
+      "chapterId": "M13-fondazione",
+      "name": "Primo comandante",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-fondazione-1815",
+      "chapterId": "M13-fondazione",
+      "name": "1815",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-fondazione-1816",
+      "chapterId": "M13-fondazione",
+      "name": "1816",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-prime-prove-grenoble",
+      "chapterId": "M13-prime-prove",
+      "name": "Grenoble",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-prime-prove-scapaccino",
+      "chapterId": "M13-prime-prove",
+      "name": "Scapaccino",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-formazione-e-ordinamento-comando-generale",
+      "chapterId": "M13-formazione-e-ordinamento",
+      "name": "Comando Generale",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-formazione-e-ordinamento-reclutamento",
+      "chapterId": "M13-formazione-e-ordinamento",
+      "name": "Reclutamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-formazione-e-ordinamento-legione-allievi",
+      "chapterId": "M13-formazione-e-ordinamento",
+      "name": "Legione Allievi",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-guerre-d-indipendenza-pastrengo",
+      "chapterId": "M13-guerre-d-indipendenza",
+      "name": "Pastrengo",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-guerre-d-indipendenza-sanfront",
+      "chapterId": "M13-guerre-d-indipendenza",
+      "name": "Sanfront",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-guerre-mondiali-podgora",
+      "chapterId": "M13-guerre-mondiali",
+      "name": "Podgora",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-guerre-mondiali-culqualber",
+      "chapterId": "M13-guerre-mondiali",
+      "name": "Culqualber",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-tradizioni-virgo-fidelis",
+      "chapterId": "M13-tradizioni",
+      "name": "Virgo Fidelis",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-resistenza-d-acquisto",
+      "chapterId": "M13-resistenza",
+      "name": "D'Acquisto",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-resistenza-fiesole",
+      "chapterId": "M13-resistenza",
+      "name": "Fiesole",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-storia-contemporanea-antiterrorismo",
+      "chapterId": "M13-storia-contemporanea",
+      "name": "Antiterrorismo",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-percezione-interpretazione",
+      "chapterId": "M14-percezione",
+      "name": "Interpretazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-percezione-prospettive",
+      "chapterId": "M14-percezione",
+      "name": "Prospettive",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-processo-comunicativo-codifica",
+      "chapterId": "M14-processo-comunicativo",
+      "name": "Codifica",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-processo-comunicativo-decodifica",
+      "chapterId": "M14-processo-comunicativo",
+      "name": "Decodifica",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-processo-comunicativo-feedback",
+      "chapterId": "M14-processo-comunicativo",
+      "name": "Feedback",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-processo-comunicativo-rumore",
+      "chapterId": "M14-processo-comunicativo",
+      "name": "Rumore",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-processo-comunicativo-rumore-psicologico",
+      "chapterId": "M14-processo-comunicativo",
+      "name": "Rumore psicologico",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-processo-comunicativo-contesto",
+      "chapterId": "M14-processo-comunicativo",
+      "name": "Contesto",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-ostacoli-linguaggio-tecnico",
+      "chapterId": "M14-ostacoli",
+      "name": "Linguaggio tecnico",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-affidabilita-orale-verifica",
+      "chapterId": "M14-affidabilita-orale",
+      "name": "Verifica",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-affidabilita-orale-supporto-scritto",
+      "chapterId": "M14-affidabilita-orale",
+      "name": "Supporto scritto",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-modelli-di-comunicazione-una-via",
+      "chapterId": "M14-modelli-di-comunicazione",
+      "name": "Una via",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-modelli-di-comunicazione-due-vie",
+      "chapterId": "M14-modelli-di-comunicazione",
+      "name": "Due vie",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-modelli-di-comunicazione-multidirezionale",
+      "chapterId": "M14-modelli-di-comunicazione",
+      "name": "Multidirezionale",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-modelli-di-comunicazione-coordinamento",
+      "chapterId": "M14-modelli-di-comunicazione",
+      "name": "Coordinamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-ascolto-attivo-interruzioni",
+      "chapterId": "M14-ascolto-attivo",
+      "name": "Interruzioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-ascolto-attivo-selettivita",
+      "chapterId": "M14-ascolto-attivo",
+      "name": "Selettività",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-ascolto-attivo-riformulazione",
+      "chapterId": "M14-ascolto-attivo",
+      "name": "Riformulazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-ascolto-attivo-emotivita",
+      "chapterId": "M14-ascolto-attivo",
+      "name": "Emotività",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-linguaggio-funzione-informativa",
+      "chapterId": "M14-linguaggio",
+      "name": "Funzione informativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-organizzazione-dello-studio-segmentazione",
+      "chapterId": "M15-organizzazione-dello-studio",
+      "name": "Segmentazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-organizzazione-dello-studio-pratica-distribuita",
+      "chapterId": "M15-organizzazione-dello-studio",
+      "name": "Pratica distribuita",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-organizzazione-dello-studio-intervalli",
+      "chapterId": "M15-organizzazione-dello-studio",
+      "name": "Intervalli",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-organizzazione-dello-studio-lacune",
+      "chapterId": "M15-organizzazione-dello-studio",
+      "name": "Lacune",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-memorizzazione-mnemotecniche",
+      "chapterId": "M15-memorizzazione",
+      "name": "Mnemotecniche",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-memorizzazione-acronimi",
+      "chapterId": "M15-memorizzazione",
+      "name": "Acronimi",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-memorizzazione-metodo-dei-loci",
+      "chapterId": "M15-memorizzazione",
+      "name": "Metodo dei loci",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-memorizzazione-sequenze",
+      "chapterId": "M15-memorizzazione",
+      "name": "Sequenze",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-gestione-delle-sessioni-pomodoro",
+      "chapterId": "M15-gestione-delle-sessioni",
+      "name": "Pomodoro",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-gestione-delle-sessioni-obiettivo",
+      "chapterId": "M15-gestione-delle-sessioni",
+      "name": "Obiettivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-studio-attivo-auto-test",
+      "chapterId": "M15-studio-attivo",
+      "name": "Auto-test",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-studio-attivo-spiegazione",
+      "chapterId": "M15-studio-attivo",
+      "name": "Spiegazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-studio-attivo-feedback",
+      "chapterId": "M15-studio-attivo",
+      "name": "Feedback",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-competenze-pratiche-pratica",
+      "chapterId": "M15-competenze-pratiche",
+      "name": "Pratica",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-competenze-pratiche-stabilizzazione",
+      "chapterId": "M15-competenze-pratiche",
+      "name": "Stabilizzazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-trasferimento-nozione",
+      "chapterId": "M15-trasferimento",
+      "name": "Nozione",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-trasferimento-verifica",
+      "chapterId": "M15-trasferimento",
+      "name": "Verifica",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-trasferimento-debriefing",
+      "chapterId": "M15-trasferimento",
+      "name": "Debriefing",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-autovalutazione-decisione",
+      "chapterId": "M15-autovalutazione",
+      "name": "Decisione",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-autovalutazione-diario",
+      "chapterId": "M15-autovalutazione",
+      "name": "Diario",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-continuita-del-servizio",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Continuità del servizio",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-emergenza-ambientale",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Emergenza ambientale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-collegamento-interforze",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Collegamento interforze",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-scena-del-crimine",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Scena del crimine",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-rientro-in-servizio",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Rientro in servizio",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-pattuglia-non-reperibile",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Pattuglia non reperibile",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-motivo-della-consultazione",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Motivo della consultazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-sefur",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "SEFUR",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-nucleo-cifra",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Nucleo Cifra",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-piattaforma",
+      "chapterId": "M1-c-mobile",
+      "name": "Piattaforma",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-contenuti-multimediali",
+      "chapterId": "M1-c-mobile",
+      "name": "Contenuti multimediali",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-spie-di-stato",
+      "chapterId": "M1-c-mobile",
+      "name": "Spie di stato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-annullamento-dell-allarme",
+      "chapterId": "M1-c-mobile",
+      "name": "Annullamento dell'allarme",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-flussi-in-allarme",
+      "chapterId": "M1-c-mobile",
+      "name": "Flussi in allarme",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-canale-nazionale",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Canale nazionale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-espansione-territoriale",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Espansione territoriale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-stazione-periferica-fissa",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Stazione periferica fissa",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-modi-di-funzionamento",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Modi di funzionamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-sicurezza-generale-incolumita-fisica",
+      "chapterId": "M2-sicurezza-generale",
+      "name": "Incolumità fisica",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-sicurezza-generale-appiglio-tattico",
+      "chapterId": "M2-sicurezza-generale",
+      "name": "Appiglio tattico",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-sicurezza-generale-accerchiamento",
+      "chapterId": "M2-sicurezza-generale",
+      "name": "Accerchiamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-sicurezza-generale-spazi-ristretti",
+      "chapterId": "M2-sicurezza-generale",
+      "name": "Spazi ristretti",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-disciplina-di-condotta-ripetitivita",
+      "chapterId": "M2-disciplina-di-condotta",
+      "name": "Ripetitività",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-disciplina-di-condotta-concentrazione",
+      "chapterId": "M2-disciplina-di-condotta",
+      "name": "Concentrazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-disciplina-di-condotta-determinazione",
+      "chapterId": "M2-disciplina-di-condotta",
+      "name": "Determinazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-funzioni-operative-equipaggiamento",
+      "chapterId": "M2-funzioni-operative",
+      "name": "Equipaggiamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-controllo-stradale-finalita-del-posto-di-controllo",
+      "chapterId": "M2-controllo-stradale",
+      "name": "Finalità del posto di controllo",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-controllo-stradale-visibilita",
+      "chapterId": "M2-controllo-stradale",
+      "name": "Visibilità",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-controllo-stradale-circolazione-ordinaria",
+      "chapterId": "M2-controllo-stradale",
+      "name": "Circolazione ordinaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-controllo-stradale-successione-dei-controlli",
+      "chapterId": "M2-controllo-stradale",
+      "name": "Successione dei controlli",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-controllo-stradale-vigilanza-sull-abitacolo",
+      "chapterId": "M2-controllo-stradale",
+      "name": "Vigilanza sull'abitacolo",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-inseguimento-coordinamento-radio",
+      "chapterId": "M2-inseguimento",
+      "name": "Coordinamento radio",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-inseguimento-prudenza-stradale",
+      "chapterId": "M2-inseguimento",
+      "name": "Prudenza stradale",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-inseguimento-condizioni-non-sicure",
+      "chapterId": "M2-inseguimento",
+      "name": "Condizioni non sicure",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-durata-delle-patenti-gruppo-c-prima-dei-65-anni",
+      "chapterId": "M3-durata-delle-patenti",
+      "name": "Gruppo C prima dei 65 anni",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-durata-delle-patenti-gruppo-c-dopo-i-65-anni",
+      "chapterId": "M3-durata-delle-patenti",
+      "name": "Gruppo C dopo i 65 anni",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-durata-delle-patenti-commissione-medica",
+      "chapterId": "M3-durata-delle-patenti",
+      "name": "Commissione medica",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-durata-delle-patenti-gruppo-d-durata-ordinaria",
+      "chapterId": "M3-durata-delle-patenti",
+      "name": "Gruppo D durata ordinaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-durata-delle-patenti-gruppo-d-dopo-i-70-anni",
+      "chapterId": "M3-durata-delle-patenti",
+      "name": "Gruppo D dopo i 70 anni",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-trasporto-persone-categorie-d1",
+      "chapterId": "M3-trasporto-persone",
+      "name": "Categorie D1",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-neopatentati-durata-dei-limiti",
+      "chapterId": "M3-neopatentati",
+      "name": "Durata dei limiti",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-neopatentati-decorrenza-della-regola-b",
+      "chapterId": "M3-neopatentati",
+      "name": "Decorrenza della regola B",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-neopatentati-potenza-specifica",
+      "chapterId": "M3-neopatentati",
+      "name": "Potenza specifica",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-neopatentati-potenza-massima-m1",
+      "chapterId": "M3-neopatentati",
+      "name": "Potenza massima M1",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-struttura-del-reato-tentativo",
+      "chapterId": "M4-struttura-del-reato",
+      "name": "Tentativo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-struttura-del-reato-soggetto-passivo",
+      "chapterId": "M4-struttura-del-reato",
+      "name": "Soggetto passivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-struttura-del-reato-pluralita-necessaria",
+      "chapterId": "M4-struttura-del-reato",
+      "name": "Pluralità necessaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-struttura-del-reato-oggetto-materiale",
+      "chapterId": "M4-struttura-del-reato",
+      "name": "Oggetto materiale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-struttura-del-reato-reato-di-evento",
+      "chapterId": "M4-struttura-del-reato",
+      "name": "Reato di evento",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-struttura-del-reato-forma-vincolata",
+      "chapterId": "M4-struttura-del-reato",
+      "name": "Forma vincolata",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-struttura-del-reato-reati-propri",
+      "chapterId": "M4-struttura-del-reato",
+      "name": "Reati propri",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-elemento-soggettivo-dolo-eventuale",
+      "chapterId": "M4-elemento-soggettivo",
+      "name": "Dolo eventuale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-elemento-soggettivo-regole-cautelari",
+      "chapterId": "M4-elemento-soggettivo",
+      "name": "Regole cautelari",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-delitti-contro-il-patrimonio-rapina",
+      "chapterId": "M4-delitti-contro-il-patrimonio",
+      "name": "Rapina",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-delitti-contro-il-patrimonio-truffa",
+      "chapterId": "M4-delitti-contro-il-patrimonio",
+      "name": "Truffa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-delitti-contro-il-patrimonio-finto-carabiniere",
+      "chapterId": "M4-delitti-contro-il-patrimonio",
+      "name": "Finto carabiniere",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-delitti-contro-il-patrimonio-usura-presunta",
+      "chapterId": "M4-delitti-contro-il-patrimonio",
+      "name": "Usura presunta",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-delitti-contro-il-patrimonio-riciclaggio",
+      "chapterId": "M4-delitti-contro-il-patrimonio",
+      "name": "Riciclaggio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-delitti-contro-la-persona-percosse",
+      "chapterId": "M4-delitti-contro-la-persona",
+      "name": "Percosse",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-delitti-contro-la-persona-omicidio-stradale",
+      "chapterId": "M4-delitti-contro-la-persona",
+      "name": "Omicidio stradale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-delitti-contro-la-persona-lesioni-gravissime",
+      "chapterId": "M4-delitti-contro-la-persona",
+      "name": "Lesioni gravissime",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-delitti-contro-la-persona-diffamazione",
+      "chapterId": "M4-delitti-contro-la-persona",
+      "name": "Diffamazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-militare-categoria-dei-reati",
+      "chapterId": "M4-diritto-penale-militare",
+      "name": "Categoria dei reati",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-diritto-penale-militare-ubriachezza-in-servizio",
+      "chapterId": "M4-diritto-penale-militare",
+      "name": "Ubriachezza in servizio",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-dell-ordinamento-assemblea-costituente",
+      "chapterId": "M6-fonti-dell-ordinamento",
+      "name": "Assemblea Costituente",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-dell-ordinamento-commissione-dei-75",
+      "chapterId": "M6-fonti-dell-ordinamento",
+      "name": "Commissione dei 75",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-dell-ordinamento-vincoli-della-delega",
+      "chapterId": "M6-fonti-dell-ordinamento",
+      "name": "Vincoli della delega",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-dell-ordinamento-decreto-non-convertito",
+      "chapterId": "M6-fonti-dell-ordinamento",
+      "name": "Decreto non convertito",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-fonti-dell-ordinamento-statuto-regionale",
+      "chapterId": "M6-fonti-dell-ordinamento",
+      "name": "Statuto regionale",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-principi-fondamentali-collocazione",
+      "chapterId": "M6-principi-fondamentali",
+      "name": "Collocazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-residenza",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Residenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-comunicazioni-telematiche",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Comunicazioni telematiche",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-associazione-e-riunione",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Associazione e riunione",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-liberta-negativa",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Libertà negativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-associazioni-paramilitari",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Associazioni paramilitari",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-stampa",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Stampa",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-giudice-naturale",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Giudice naturale",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-civili-pubblici-dipendenti",
+      "chapterId": "M6-rapporti-civili",
+      "name": "Pubblici dipendenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-etico-sociali-coniugi",
+      "chapterId": "M6-rapporti-etico-sociali",
+      "name": "Coniugi",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-etico-sociali-doveri-verso-i-figli",
+      "chapterId": "M6-rapporti-etico-sociali",
+      "name": "Doveri verso i figli",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-etico-sociali-stato-di-figlio",
+      "chapterId": "M6-rapporti-etico-sociali",
+      "name": "Stato di figlio",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-etico-sociali-trattamento-sanitario",
+      "chapterId": "M6-rapporti-etico-sociali",
+      "name": "Trattamento sanitario",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-politici-difesa-della-patria",
+      "chapterId": "M6-rapporti-politici",
+      "name": "Difesa della Patria",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-rapporti-politici-funzioni-pubbliche",
+      "chapterId": "M6-rapporti-politici",
+      "name": "Funzioni pubbliche",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-tutela-dei-dati-rispondenza-documentale",
+      "chapterId": "M5-tutela-dei-dati",
+      "name": "Rispondenza documentale",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-tutela-dei-dati-necessita-del-trattamento",
+      "chapterId": "M5-tutela-dei-dati",
+      "name": "Necessità del trattamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-tutela-dei-dati-dati-sensibili",
+      "chapterId": "M5-tutela-dei-dati",
+      "name": "Dati sensibili",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-tutela-dei-dati-accesso-abusivo",
+      "chapterId": "M5-tutela-dei-dati",
+      "name": "Accesso abusivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-tutela-dei-dati-statistica-del-personale",
+      "chapterId": "M5-tutela-dei-dati",
+      "name": "Statistica del personale",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-tutela-dei-dati-log-degli-accessi",
+      "chapterId": "M5-tutela-dei-dati",
+      "name": "Log degli accessi",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-tutela-dei-dati-titolare",
+      "chapterId": "M5-tutela-dei-dati",
+      "name": "Titolare",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-tutela-dei-dati-dati-trattati-irregolarmente",
+      "chapterId": "M5-tutela-dei-dati",
+      "name": "Dati trattati irregolarmente",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-profili-di-accesso-centrale-operativa",
+      "chapterId": "M5-profili-di-accesso",
+      "name": "Centrale Operativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-autorizzazioni-generazione-credenziali",
+      "chapterId": "M5-autorizzazioni",
+      "name": "Generazione credenziali",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-autorizzazioni-codice-ufficio-lunghezza",
+      "chapterId": "M5-autorizzazioni",
+      "name": "Codice ufficio lunghezza",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-autorizzazioni-provincia-nel-codice",
+      "chapterId": "M5-autorizzazioni",
+      "name": "Provincia nel codice",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-autorizzazioni-forza-di-polizia-nel-codice",
+      "chapterId": "M5-autorizzazioni",
+      "name": "Forza di polizia nel codice",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-architettura-sdi-anagrafica-veicoli",
+      "chapterId": "M5-architettura-sdi",
+      "name": "Anagrafica veicoli",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-architettura-sdi-fonte-originaria",
+      "chapterId": "M5-architettura-sdi",
+      "name": "Fonte originaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-architettura-sdi-ruolo-di-soggetti-e-oggetti",
+      "chapterId": "M5-architettura-sdi",
+      "name": "Ruolo di soggetti e oggetti",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-alimentazione-sdi-tempestivita",
+      "chapterId": "M5-alimentazione-sdi",
+      "name": "Tempestività",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-alimentazione-sdi-composizione-del-fatto",
+      "chapterId": "M5-alimentazione-sdi",
+      "name": "Composizione del fatto",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-misure-di-prevenzione-distinzione",
+      "chapterId": "M7-misure-di-prevenzione",
+      "name": "Distinzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-misure-di-prevenzione-misure-patrimoniali",
+      "chapterId": "M7-misure-di-prevenzione",
+      "name": "Misure patrimoniali",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-misure-di-prevenzione-effetti-interdittivi",
+      "chapterId": "M7-misure-di-prevenzione",
+      "name": "Effetti interdittivi",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-misure-di-prevenzione-ammonimento",
+      "chapterId": "M7-misure-di-prevenzione",
+      "name": "Ammonimento",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-illecito-amministrativo-organi-accertatori",
+      "chapterId": "M7-illecito-amministrativo",
+      "name": "Organi accertatori",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-illecito-amministrativo-contenuti-del-verbale",
+      "chapterId": "M7-illecito-amministrativo",
+      "name": "Contenuti del verbale",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-illecito-amministrativo-difesa-dell-interessato",
+      "chapterId": "M7-illecito-amministrativo",
+      "name": "Difesa dell'interessato",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-illecito-amministrativo-autonomia-delle-regole",
+      "chapterId": "M7-illecito-amministrativo",
+      "name": "Autonomia delle regole",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-riunioni-e-luoghi-luogo-pubblico",
+      "chapterId": "M7-riunioni-e-luoghi",
+      "name": "Luogo pubblico",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-riunioni-e-luoghi-luogo-aperto-al-pubblico",
+      "chapterId": "M7-riunioni-e-luoghi",
+      "name": "Luogo aperto al pubblico",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-riunioni-e-luoghi-accordo-preventivo",
+      "chapterId": "M7-riunioni-e-luoghi",
+      "name": "Accordo preventivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-riunioni-e-luoghi-preavviso-al-questore",
+      "chapterId": "M7-riunioni-e-luoghi",
+      "name": "Preavviso al Questore",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-documenti-di-identificazione-fotografia",
+      "chapterId": "M7-documenti-di-identificazione",
+      "name": "Fotografia",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-documenti-di-identificazione-equipollenza",
+      "chapterId": "M7-documenti-di-identificazione",
+      "name": "Equipollenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-documenti-di-identificazione-generalita",
+      "chapterId": "M7-documenti-di-identificazione",
+      "name": "Generalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-documenti-di-identificazione-microprocessore-cie",
+      "chapterId": "M7-documenti-di-identificazione",
+      "name": "Microprocessore CIE",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-documenti-di-identificazione-passaporto-collettivo",
+      "chapterId": "M7-documenti-di-identificazione",
+      "name": "Passaporto collettivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-identificazione-di-ps-natura-del-fermo",
+      "chapterId": "M7-identificazione-di-ps",
+      "name": "Natura del fermo",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-soggetti-del-procedimento-competenza-distrettuale",
+      "chapterId": "M8-soggetti-del-procedimento",
+      "name": "Competenza distrettuale",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-soggetti-del-procedimento-urgenza-e-pm",
+      "chapterId": "M8-soggetti-del-procedimento",
+      "name": "Urgenza e PM",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-attivita-di-pg-dispersione-delle-fonti",
+      "chapterId": "M8-attivita-di-pg",
+      "name": "Dispersione delle fonti",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-le-prove-ammissione-della-prova",
+      "chapterId": "M8-le-prove",
+      "name": "Ammissione della prova",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-le-prove-risultato-probatorio",
+      "chapterId": "M8-le-prove",
+      "name": "Risultato probatorio",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-le-prove-onere-del-pm",
+      "chapterId": "M8-le-prove",
+      "name": "Onere del PM",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-le-prove-autodeterminazione",
+      "chapterId": "M8-le-prove",
+      "name": "Autodeterminazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-attivita-di-pg-conseguenze-ulteriori",
+      "chapterId": "M8-attivita-di-pg",
+      "name": "Conseguenze ulteriori",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-attivita-di-pg-attivita-guidata",
+      "chapterId": "M8-attivita-di-pg",
+      "name": "Attività guidata",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-notizia-di-reato-contenuto-della-notizia",
+      "chapterId": "M8-notizia-di-reato",
+      "name": "Contenuto della notizia",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-condizioni-di-procedibilita-volonta-di-querela",
+      "chapterId": "M8-condizioni-di-procedibilita",
+      "name": "Volontà di querela",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-condizioni-di-procedibilita-autore-ignoto",
+      "chapterId": "M8-condizioni-di-procedibilita",
+      "name": "Autore ignoto",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-notizia-di-reato-denuncia-anonima",
+      "chapterId": "M8-notizia-di-reato",
+      "name": "Denuncia anonima",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-notizia-di-reato-limite-del-referto",
+      "chapterId": "M8-notizia-di-reato",
+      "name": "Limite del referto",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-documentazione-di-pg-funzione-del-verbale",
+      "chapterId": "M8-documentazione-di-pg",
+      "name": "Funzione del verbale",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-accertamenti-urgenti-rilievi-esteriori",
+      "chapterId": "M8-accertamenti-urgenti",
+      "name": "Rilievi esteriori",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-accertamenti-urgenti-ispezione-personale",
+      "chapterId": "M8-accertamenti-urgenti",
+      "name": "Ispezione personale",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-accertamenti-urgenti-ausiliari",
+      "chapterId": "M8-accertamenti-urgenti",
+      "name": "Ausiliari",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-ricerca-della-prova-registrazione-del-partecipante",
+      "chapterId": "M8-ricerca-della-prova",
+      "name": "Registrazione del partecipante",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-ricerca-della-prova-perquisizione-personale",
+      "chapterId": "M8-ricerca-della-prova",
+      "name": "Perquisizione personale",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-dichiarazioni-dell-indagato-indicazioni-immediate",
+      "chapterId": "M9-dichiarazioni-dell-indagato",
+      "name": "Indicazioni immediate",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-dichiarazioni-dell-indagato-spontaneita",
+      "chapterId": "M9-dichiarazioni-dell-indagato",
+      "name": "Spontaneità",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-dichiarazioni-dell-indagato-delega-del-pm",
+      "chapterId": "M9-dichiarazioni-dell-indagato",
+      "name": "Delega del PM",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-dichiarazioni-dell-indagato-difensore-d-ufficio",
+      "chapterId": "M9-dichiarazioni-dell-indagato",
+      "name": "Difensore d'ufficio",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-documentazione-origine-delle-dichiarazioni",
+      "chapterId": "M9-documentazione",
+      "name": "Origine delle dichiarazioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-testimonianza-capacita-di-testimoniare",
+      "chapterId": "M9-testimonianza",
+      "name": "Capacità di testimoniare",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-intervista-cognitiva-influenza-dell-intervistatore",
+      "chapterId": "M9-intervista-cognitiva",
+      "name": "Influenza dell'intervistatore",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-intervista-cognitiva-avvio-dell-incontro",
+      "chapterId": "M9-intervista-cognitiva",
+      "name": "Avvio dell'incontro",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-preparazione-dell-intervista-dati-sul-fatto",
+      "chapterId": "M9-preparazione-dell-intervista",
+      "name": "Dati sul fatto",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-preparazione-dell-intervista-distrazioni",
+      "chapterId": "M9-preparazione-dell-intervista",
+      "name": "Distrazioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-preparazione-dell-intervista-riservatezza-ambientale",
+      "chapterId": "M9-preparazione-dell-intervista",
+      "name": "Riservatezza ambientale",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-preparazione-dell-intervista-illuminazione",
+      "chapterId": "M9-preparazione-dell-intervista",
+      "name": "Illuminazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-testimonianza-distinzione-dall-esame-delle-parti",
+      "chapterId": "M9-testimonianza",
+      "name": "Distinzione dall'esame delle parti",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-testimonianza-dichiarazioni-acquisite-da-pg",
+      "chapterId": "M9-testimonianza",
+      "name": "Dichiarazioni acquisite da PG",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-testimonianza-mancata-comparizione",
+      "chapterId": "M9-testimonianza",
+      "name": "Mancata comparizione",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-testimonianza-congiunto-persona-offesa",
+      "chapterId": "M9-testimonianza",
+      "name": "Congiunto persona offesa",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-regole-dell-esame-voci-correnti",
+      "chapterId": "M9-regole-dell-esame",
+      "name": "Voci correnti",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-regole-dell-esame-contestazione",
+      "chapterId": "M9-regole-dell-esame",
+      "name": "Contestazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-preparazione-del-testimone-dovere-preparatorio",
+      "chapterId": "M9-preparazione-del-testimone",
+      "name": "Dovere preparatorio",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-esame-diretto-scopo-dell-esame",
+      "chapterId": "M9-esame-diretto",
+      "name": "Scopo dell'esame",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-violenza-domestica-convivenza",
+      "chapterId": "M10-violenza-domestica",
+      "name": "Convivenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-reati-contro-familiari-rapporti-tutelati",
+      "chapterId": "M10-reati-contro-familiari",
+      "name": "Rapporti tutelati",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-reati-contro-familiari-elemento-psicologico",
+      "chapterId": "M10-reati-contro-familiari",
+      "name": "Elemento psicologico",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-violenza-digitale-consenso-alla-diffusione",
+      "chapterId": "M10-violenza-digitale",
+      "name": "Consenso alla diffusione",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-bullismo-e-cyberbullismo-anonimato",
+      "chapterId": "M10-bullismo-e-cyberbullismo",
+      "name": "Anonimato",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-bullismo-e-cyberbullismo-istanza-documentata",
+      "chapterId": "M10-bullismo-e-cyberbullismo",
+      "name": "Istanza documentata",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-tutela-degli-anziani-danno-psicologico",
+      "chapterId": "M10-tutela-degli-anziani",
+      "name": "Danno psicologico",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-tutela-degli-anziani-mancata-denuncia",
+      "chapterId": "M10-tutela-degli-anziani",
+      "name": "Mancata denuncia",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-tutela-degli-anziani-porta-in-faccia",
+      "chapterId": "M10-tutela-degli-anziani",
+      "name": "Porta in faccia",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-crimini-d-odio-under-reporting",
+      "chapterId": "M10-crimini-d-odio",
+      "name": "Under-reporting",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-crimini-d-odio-indicatori-di-pregiudizio",
+      "chapterId": "M10-crimini-d-odio",
+      "name": "Indicatori di pregiudizio",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-rete-di-assistenza-case-rifugio",
+      "chapterId": "M10-rete-di-assistenza",
+      "name": "Case Rifugio",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-vittimizzazione-vittimizzazione-primaria",
+      "chapterId": "M10-vittimizzazione",
+      "name": "Vittimizzazione primaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-codice-rosso-comunicazione-al-pm",
+      "chapterId": "M10-codice-rosso",
+      "name": "Comunicazione al PM",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-violenza-domestica-autrice-del-modello",
+      "chapterId": "M10-violenza-domestica",
+      "name": "Autrice del modello",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-intervento-e-ascolto-minori-presenti",
+      "chapterId": "M10-intervento-e-ascolto",
+      "name": "Minori presenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-intervento-e-ascolto-racconto-confuso",
+      "chapterId": "M10-intervento-e-ascolto",
+      "name": "Racconto confuso",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-intervento-e-ascolto-vittimizzazione-secondaria",
+      "chapterId": "M10-intervento-e-ascolto",
+      "name": "Vittimizzazione secondaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-intervento-e-ascolto-sequenza-del-racconto",
+      "chapterId": "M10-intervento-e-ascolto",
+      "name": "Sequenza del racconto",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-crimini-d-odio-plurioffensivita",
+      "chapterId": "M10-crimini-d-odio",
+      "name": "Plurioffensività",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-inquadramento-dell-arma-autonomia",
+      "chapterId": "M11-inquadramento-dell-arma",
+      "name": "Autonomia",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-normativa-fondamentale-giuramento",
+      "chapterId": "M11-normativa-fondamentale",
+      "name": "Giuramento",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-normativa-fondamentale-regolamento-organico",
+      "chapterId": "M11-normativa-fondamentale",
+      "name": "Regolamento Organico",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-normativa-fondamentale-scuole-allievi",
+      "chapterId": "M11-normativa-fondamentale",
+      "name": "Scuole Allievi",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-centrale-comando-generale",
+      "chapterId": "M11-organizzazione-centrale",
+      "name": "Comando Generale",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-centrale-telematica",
+      "chapterId": "M11-organizzazione-centrale",
+      "name": "Telematica",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-territoriale-norm",
+      "chapterId": "M11-organizzazione-territoriale",
+      "name": "NORM",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-speciale-banca-d-italia",
+      "chapterId": "M11-organizzazione-speciale",
+      "name": "Banca d'Italia",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-speciale-grandi-latitanti",
+      "chapterId": "M11-organizzazione-speciale",
+      "name": "Grandi latitanti",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-organizzazione-forestale-assorbimento-del-corpo-forestale",
+      "chapterId": "M11-organizzazione-forestale",
+      "name": "Assorbimento del Corpo Forestale",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-polizia-militare-forze-armate",
+      "chapterId": "M11-polizia-militare",
+      "name": "Forze Armate",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-disciplina-militare-finalita-della-disciplina",
+      "chapterId": "M11-disciplina-militare",
+      "name": "Finalità della disciplina",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-disciplina-militare-decoro",
+      "chapterId": "M11-disciplina-militare",
+      "name": "Decoro",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-disciplina-militare-superiore-non-competente",
+      "chapterId": "M11-disciplina-militare",
+      "name": "Superiore non competente",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-disciplina-militare-memorie-difensive",
+      "chapterId": "M11-disciplina-militare",
+      "name": "Memorie difensive",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-disciplina-militare-commissione-di-disciplina",
+      "chapterId": "M11-disciplina-militare",
+      "name": "Commissione di disciplina",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-disciplina-militare-funzione-della-commissione",
+      "chapterId": "M11-disciplina-militare",
+      "name": "Funzione della Commissione",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-attivita-del-personale-equilibrio-nelle-ricompense",
+      "chapterId": "M11-attivita-del-personale",
+      "name": "Equilibrio nelle ricompense",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-attivita-del-personale-decorazioni-al-valore",
+      "chapterId": "M11-attivita-del-personale",
+      "name": "Decorazioni al valore",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-attivita-del-personale-trasferimenti",
+      "chapterId": "M11-attivita-del-personale",
+      "name": "Trasferimenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-permessi-per-ruolo",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Permessi per ruolo",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-accesso-di-rete",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Accesso di rete",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-reader",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Reader",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-assegnazione-writer",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Assegnazione Writer",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-rapporto-con-il-cartaceo",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Rapporto con il cartaceo",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-ordine-di-servizio",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Ordine di servizio",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-controlli-gerarchici",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Controlli gerarchici",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-registro-del-visto",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Registro del visto",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-scheda-iniziale",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Scheda iniziale",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-data-iniziale",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Data iniziale",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-consultazione-di-altre-date",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Consultazione di altre date",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-notifica-del-firmato",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Notifica del firmato",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-memoriale-informatizzato-inserimento-assenze",
+      "chapterId": "M12-memoriale-informatizzato",
+      "name": "Inserimento assenze",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-protocollo-e-documenti-workflow",
+      "chapterId": "M12-protocollo-e-documenti",
+      "name": "Workflow",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-protocollo-e-documenti-aoo",
+      "chapterId": "M12-protocollo-e-documenti",
+      "name": "AOO",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-protocollo-e-documenti-decorrenza-informatica",
+      "chapterId": "M12-protocollo-e-documenti",
+      "name": "Decorrenza informatica",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-protocollo-e-documenti-identificazione-univoca",
+      "chapterId": "M12-protocollo-e-documenti",
+      "name": "Identificazione univoca",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-protocollo-e-documenti-visualizzatore",
+      "chapterId": "M12-protocollo-e-documenti",
+      "name": "Visualizzatore",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-protocollo-e-documenti-allegati",
+      "chapterId": "M12-protocollo-e-documenti",
+      "name": "Allegati",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-protocollo-e-documenti-trasmissioni",
+      "chapterId": "M12-protocollo-e-documenti",
+      "name": "Trasmissioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-origini-del-corpo-requisito-di-istruzione",
+      "chapterId": "M13-origini-del-corpo",
+      "name": "Requisito di istruzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-origini-del-corpo-servizio-precedente",
+      "chapterId": "M13-origini-del-corpo",
+      "name": "Servizio precedente",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-origini-del-corpo-mobilita-originaria",
+      "chapterId": "M13-origini-del-corpo",
+      "name": "Mobilità originaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-ottocento-successione-del-1821",
+      "chapterId": "M13-ottocento",
+      "name": "Successione del 1821",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-legione-allievi-trasferimento-a-roma",
+      "chapterId": "M13-legione-allievi",
+      "name": "Trasferimento a Roma",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-legione-allievi-concessione-della-bandiera",
+      "chapterId": "M13-legione-allievi",
+      "name": "Concessione della Bandiera",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-legione-allievi-denominazione-delle-scuole",
+      "chapterId": "M13-legione-allievi",
+      "name": "Denominazione delle scuole",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-guerre-d-indipendenza-re-salvato-a-pastrengo",
+      "chapterId": "M13-guerre-d-indipendenza",
+      "name": "Re salvato a Pastrengo",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-ottocento-legione-di-roma",
+      "chapterId": "M13-ottocento",
+      "name": "Legione di Roma",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-prima-guerra-mondiale-case-del-soldato",
+      "chapterId": "M13-prima-guerra-mondiale",
+      "name": "Case del Soldato",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-seconda-guerra-mondiale-eluet-el-asel",
+      "chapterId": "M13-seconda-guerra-mondiale",
+      "name": "Eluet el Asel",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-tradizioni-patrona-dell-arma",
+      "chapterId": "M13-tradizioni",
+      "name": "Patrona dell'Arma",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-seconda-guerra-mondiale-azzolino-hazon",
+      "chapterId": "M13-seconda-guerra-mondiale",
+      "name": "Azzolino Hazon",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-seconda-guerra-mondiale-armistizio",
+      "chapterId": "M13-seconda-guerra-mondiale",
+      "name": "Armistizio",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-resistenza-orlando-de-tommaso",
+      "chapterId": "M13-resistenza",
+      "name": "Orlando De Tommaso",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-resistenza-grado-di-d-acquisto",
+      "chapterId": "M13-resistenza",
+      "name": "Grado di D'Acquisto",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-resistenza-ostaggi-di-fiesole",
+      "chapterId": "M13-resistenza",
+      "name": "Ostaggi di Fiesole",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-dopoguerra-battaglioni-mobili",
+      "chapterId": "M13-dopoguerra",
+      "name": "Battaglioni Mobili",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-dopoguerra-repressione-banditismo",
+      "chapterId": "M13-dopoguerra",
+      "name": "Repressione banditismo",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-contrasto-al-terrorismo-fondazione-gis",
+      "chapterId": "M13-contrasto-al-terrorismo",
+      "name": "Fondazione GIS",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-percezione-filtri-neurologici",
+      "chapterId": "M14-percezione",
+      "name": "Filtri neurologici",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-percezione-filtri-sociali",
+      "chapterId": "M14-percezione",
+      "name": "Filtri sociali",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-processo-comunicativo-codice-condiviso",
+      "chapterId": "M14-processo-comunicativo",
+      "name": "Codice condiviso",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-ostacoli-comunicativi-ostacolo-fisico",
+      "chapterId": "M14-ostacoli-comunicativi",
+      "name": "Ostacolo fisico",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comunicazione-efficace-pianificazione",
+      "chapterId": "M14-comunicazione-efficace",
+      "name": "Pianificazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comunicazione-orale-registrazione-permanente",
+      "chapterId": "M14-comunicazione-orale",
+      "name": "Registrazione permanente",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comunicazione-efficace-riferimenti-precisi",
+      "chapterId": "M14-comunicazione-efficace",
+      "name": "Riferimenti precisi",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-modelli-comunicativi-uniformita-unidirezionale",
+      "chapterId": "M14-modelli-comunicativi",
+      "name": "Uniformità unidirezionale",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-modelli-comunicativi-scelta-del-modello",
+      "chapterId": "M14-modelli-comunicativi",
+      "name": "Scelta del modello",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comportamento-sociale-silenzio",
+      "chapterId": "M14-comportamento-sociale",
+      "name": "Silenzio",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comportamento-sociale-coerenza",
+      "chapterId": "M14-comportamento-sociale",
+      "name": "Coerenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-linguaggio-persuasione",
+      "chapterId": "M14-linguaggio",
+      "name": "Persuasione",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-linguaggio-funzione-relazionale",
+      "chapterId": "M14-linguaggio",
+      "name": "Funzione relazionale",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-linguaggio-denotazione",
+      "chapterId": "M14-linguaggio",
+      "name": "Denotazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-linguaggio-connotazione",
+      "chapterId": "M14-linguaggio",
+      "name": "Connotazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comunicazione-non-verbale-spazio-personale",
+      "chapterId": "M14-comunicazione-non-verbale",
+      "name": "Spazio personale",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comunicazione-non-verbale-singolo-gesto",
+      "chapterId": "M14-comunicazione-non-verbale",
+      "name": "Singolo gesto",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comunicazione-organizzativa-flusso-discendente",
+      "chapterId": "M14-comunicazione-organizzativa",
+      "name": "Flusso discendente",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comunicazione-organizzativa-flusso-ascendente",
+      "chapterId": "M14-comunicazione-organizzativa",
+      "name": "Flusso ascendente",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-comunicazione-organizzativa-flusso-orizzontale",
+      "chapterId": "M14-comunicazione-organizzativa",
+      "name": "Flusso orizzontale",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-pianificazione-piano-mensile",
+      "chapterId": "M15-pianificazione",
+      "name": "Piano mensile",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-gestione-del-tempo-timer-come-strumento",
+      "chapterId": "M15-gestione-del-tempo",
+      "name": "Timer come strumento",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-memorizzazione-immagini-mentali",
+      "chapterId": "M15-memorizzazione",
+      "name": "Immagini mentali",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-lettura-strategica-precisione-normativa",
+      "chapterId": "M15-lettura-strategica",
+      "name": "Precisione normativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-lettura-strategica-lettura-selettiva",
+      "chapterId": "M15-lettura-strategica",
+      "name": "Lettura selettiva",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-lettura-strategica-subvocalizzazione",
+      "chapterId": "M15-lettura-strategica",
+      "name": "Subvocalizzazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-lettura-strategica-regressioni-oculari",
+      "chapterId": "M15-lettura-strategica",
+      "name": "Regressioni oculari",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-lettura-strategica-parole-una-alla-volta",
+      "chapterId": "M15-lettura-strategica",
+      "name": "Parole una alla volta",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-studio-attivo-mappe-concettuali",
+      "chapterId": "M15-studio-attivo",
+      "name": "Mappe concettuali",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-studio-attivo-fonte-e-mappa",
+      "chapterId": "M15-studio-attivo",
+      "name": "Fonte e mappa",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-stress-e-motivazione-variabilita-dello-stress",
+      "chapterId": "M15-stress-e-motivazione",
+      "name": "Variabilità dello stress",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-stress-e-motivazione-time-blocking",
+      "chapterId": "M15-stress-e-motivazione",
+      "name": "Time-blocking",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-stress-e-motivazione-piano-se-allora",
+      "chapterId": "M15-stress-e-motivazione",
+      "name": "Piano se-allora",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-competenze-pratiche-role-play",
+      "chapterId": "M15-competenze-pratiche",
+      "name": "Role-play",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-stress-e-motivazione-smart",
+      "chapterId": "M15-stress-e-motivazione",
+      "name": "SMART",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-stress-e-motivazione-visualizzare-il-processo",
+      "chapterId": "M15-stress-e-motivazione",
+      "name": "Visualizzare il processo",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-trasferimento-invarianti",
+      "chapterId": "M15-trasferimento",
+      "name": "Invarianti",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-benessere-e-attenzione-mindfulness",
+      "chapterId": "M15-benessere-e-attenzione",
+      "name": "Mindfulness",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-neuroscienze-dell-apprendimento-sonno-e-memoria",
+      "chapterId": "M15-neuroscienze-dell-apprendimento",
+      "name": "Sonno e memoria",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-neuroscienze-dell-apprendimento-plasticita-sinaptica",
+      "chapterId": "M15-neuroscienze-dell-apprendimento",
+      "name": "Plasticità sinaptica",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-connettivita-dati",
+      "chapterId": "M1-c-mobile",
+      "name": "Connettività dati",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-barra-di-navigazione",
+      "chapterId": "M1-c-mobile",
+      "name": "Barra di navigazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-ciclomotori-e-motocicli-am-velocita",
+      "chapterId": "M3-ciclomotori-e-motocicli",
+      "name": "AM velocità",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-ciclomotori-e-motocicli-am-batterie",
+      "chapterId": "M3-ciclomotori-e-motocicli",
+      "name": "AM batterie",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-ciclomotori-e-motocicli-a1-cilindrata",
+      "chapterId": "M3-ciclomotori-e-motocicli",
+      "name": "A1 cilindrata",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-ciclomotori-e-motocicli-a1-potenza",
+      "chapterId": "M3-ciclomotori-e-motocicli",
+      "name": "A1 potenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-ciclomotori-e-motocicli-a1-rapporto",
+      "chapterId": "M3-ciclomotori-e-motocicli",
+      "name": "A1 rapporto",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-ciclomotori-e-motocicli-a2-potenza",
+      "chapterId": "M3-ciclomotori-e-motocicli",
+      "name": "A2 potenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-ciclomotori-e-motocicli-a2-rapporto",
+      "chapterId": "M3-ciclomotori-e-motocicli",
+      "name": "A2 rapporto",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-ciclomotori-e-motocicli-a2-derivazione",
+      "chapterId": "M3-ciclomotori-e-motocicli",
+      "name": "A2 derivazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-ciclomotori-e-motocicli-a-tricicli",
+      "chapterId": "M3-ciclomotori-e-motocicli",
+      "name": "A tricicli",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-quadricicli-e-rimorchi-b1-veicoli",
+      "chapterId": "M3-quadricicli-e-rimorchi",
+      "name": "B1 veicoli",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-quadricicli-e-rimorchi-b1-motocicli",
+      "chapterId": "M3-quadricicli-e-rimorchi",
+      "name": "B1 motocicli",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-quadricicli-e-rimorchi-b1-potenza",
+      "chapterId": "M3-quadricicli-e-rimorchi",
+      "name": "B1 potenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-quadricicli-e-rimorchi-b1-massa-trasporto-cose",
+      "chapterId": "M3-quadricicli-e-rimorchi",
+      "name": "B1 massa trasporto cose",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-quadricicli-e-rimorchi-b96-prova",
+      "chapterId": "M3-quadricicli-e-rimorchi",
+      "name": "B96 prova",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-trasporto-cose-c1e-motrice-b",
+      "chapterId": "M3-trasporto-cose",
+      "name": "C1E motrice B",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-trasporto-cose-ce-composizione",
+      "chapterId": "M3-trasporto-cose",
+      "name": "CE composizione",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-trasporto-persone-de-composizione",
+      "chapterId": "M3-trasporto-persone",
+      "name": "DE composizione",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-trasporto-persone-d1-dimensione",
+      "chapterId": "M3-trasporto-persone",
+      "name": "D1 dimensione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-funzione-della-centrale-flussi-informativi",
+      "chapterId": "M1-funzione-della-centrale",
+      "name": "Flussi informativi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-funzione-della-centrale-valutazione-del-territorio",
+      "chapterId": "M1-funzione-della-centrale",
+      "name": "Valutazione del territorio",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-area-riservata",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Area riservata",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-visite-e-riservatezza",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Visite e riservatezza",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-preparazione-degli-operatori",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Preparazione degli operatori",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-aree-di-lavoro",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Aree di lavoro",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-scelta-dell-equipaggio",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Scelta dell'equipaggio",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-informazioni-alla-pattuglia",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Informazioni alla pattuglia",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-scheda-intervento",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Scheda intervento",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-allarme-antirapina",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Allarme antirapina",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-conversazione-in-situazioni-critiche",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Conversazione in situazioni critiche",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-persone-scomparse",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Persone scomparse",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-alterazione-psicofisica",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Alterazione psicofisica",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-notizie-preliminari",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Notizie preliminari",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-squadre-di-rinforzo",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Squadre di rinforzo",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-braccialetto-e-malfunzionamenti",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Braccialetto e malfunzionamenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-priorita-passaggio-all-emergenza",
+      "chapterId": "M1-priorita",
+      "name": "Passaggio all'emergenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-priorita-profili-operativi",
+      "chapterId": "M1-priorita",
+      "name": "Profili operativi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-passaggio-di-consegne-dati-delle-pattuglie",
+      "chapterId": "M1-passaggio-di-consegne",
+      "name": "Dati delle pattuglie",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-passaggio-di-consegne-operatore-smontante",
+      "chapterId": "M1-passaggio-di-consegne",
+      "name": "Operatore smontante",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-comunicazioni-barra-telefonica",
+      "chapterId": "M1-comunicazioni",
+      "name": "Barra telefonica",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-comunicazioni-registrazioni-digitali",
+      "chapterId": "M1-comunicazioni",
+      "name": "Registrazioni digitali",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-collegamenti-radio-interfacce-integrate",
+      "chapterId": "M1-collegamenti-radio",
+      "name": "Interfacce integrate",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-collegamenti-radio-coda-di-conversazione",
+      "chapterId": "M1-collegamenti-radio",
+      "name": "Coda di conversazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-controllo-pattuglie-rientro-in-sede",
+      "chapterId": "M1-controllo-pattuglie",
+      "name": "Rientro in sede",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-controllo-pattuglie-quadro-delle-risorse",
+      "chapterId": "M1-controllo-pattuglie",
+      "name": "Quadro delle risorse",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-radiolocalizzazione-informazioni-equipaggio",
+      "chapterId": "M1-radiolocalizzazione",
+      "name": "Informazioni equipaggio",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-radiolocalizzazione-percorso",
+      "chapterId": "M1-radiolocalizzazione",
+      "name": "Percorso",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-radiolocalizzazione-aggiornamento-della-flotta",
+      "chapterId": "M1-radiolocalizzazione",
+      "name": "Aggiornamento della flotta",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-scheda-contatto-integrazione-dell-operatore",
+      "chapterId": "M1-scheda-contatto",
+      "name": "Integrazione dell'operatore",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-scheda-contatto-informazioni-ricevute-dalla-cur",
+      "chapterId": "M1-scheda-contatto",
+      "name": "Informazioni ricevute dalla CUR",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-emergenza",
+      "chapterId": "M1-nue-112",
+      "name": "Emergenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-reti-radio-canali-locali",
+      "chapterId": "M1-reti-radio",
+      "name": "Canali locali",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-reti-radio-espansione-dei-canali",
+      "chapterId": "M1-reti-radio",
+      "name": "Espansione dei canali",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-modo-automatico",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Modo automatico",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-modo-semplice",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Modo semplice",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-prenotazione",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Prenotazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-selezione-automatica",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Selezione automatica",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-posizione-topografica",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Posizione topografica",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-duplex",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Duplex",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-scelta-dell-operatore",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Scelta dell'operatore",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-capacita-per-canale",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Capacità per canale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-ripetitore-mobile",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Ripetitore mobile",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-motociclo",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Motociclo",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-batterie-portatili",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Batterie portatili",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-ptt",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "PTT",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-volume",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Volume",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-display",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Display",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-significato-del-nome",
+      "chapterId": "M1-c-mobile",
+      "name": "Significato del nome",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-navigazione-touch",
+      "chapterId": "M1-c-mobile",
+      "name": "Navigazione touch",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-invio-immediato-allarme",
+      "chapterId": "M1-c-mobile",
+      "name": "Invio immediato allarme",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-presenza-del-controllato",
+      "chapterId": "M1-c-mobile",
+      "name": "Presenza del controllato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-tipi-di-accertamento",
+      "chapterId": "M1-c-mobile",
+      "name": "Tipi di accertamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-stato-in-esecuzione",
+      "chapterId": "M1-c-mobile",
+      "name": "Stato in esecuzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-procedimenti-in-atto",
+      "chapterId": "M1-c-mobile",
+      "name": "Procedimenti in atto",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-cambio-telecamera",
+      "chapterId": "M1-c-mobile",
+      "name": "Cambio telecamera",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-qualita-video-live",
+      "chapterId": "M1-c-mobile",
+      "name": "Qualità video live",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-metadati-multimediali",
+      "chapterId": "M1-c-mobile",
+      "name": "Metadati multimediali",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-navigatore",
+      "chapterId": "M1-c-mobile",
+      "name": "Navigatore",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-trasferimento-e-copertura",
+      "chapterId": "M1-c-mobile",
+      "name": "Trasferimento e copertura",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-teweb",
+      "chapterId": "M1-c-mobile",
+      "name": "TEWEB",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-docis",
+      "chapterId": "M1-c-mobile",
+      "name": "DOCIS",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-vpn",
+      "chapterId": "M1-sistema-tetra",
+      "name": "VPN",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-resilienza",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Resilienza",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-profili-terminali",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Profili terminali",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-gateway",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Gateway",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-ripetitore-dmo",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Ripetitore DMO",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-classe-di-sicurezza",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Classe di sicurezza",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-gruppi-e-canali",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Gruppi e canali",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-chiamata-di-gruppo",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Chiamata di gruppo",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-broadcast",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Broadcast",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-chiamata-di-emergenza",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Chiamata di emergenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-messaggi-di-stato",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Messaggi di stato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-voce-e-dati",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Voce e dati",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-interfaccia-aria",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Interfaccia aria",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-postazione-comunicazione",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Postazione comunicazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-supervisione",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Supervisione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-gruppi-dinamici",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Gruppi dinamici",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-terminali-tetra-sc2020",
+      "chapterId": "M1-terminali-tetra",
+      "name": "SC2020",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-terminali-tetra-stazione-fissa",
+      "chapterId": "M1-terminali-tetra",
+      "name": "Stazione fissa",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-terminali-tetra-batteria-tampone",
+      "chapterId": "M1-terminali-tetra",
+      "name": "Batteria tampone",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-riserva",
+      "chapterId": "M1-rete-hf",
+      "name": "Riserva",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-distanze",
+      "chapterId": "M1-rete-hf",
+      "name": "Distanze",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-maglie-regionali",
+      "chapterId": "M1-rete-hf",
+      "name": "Maglie regionali",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-potenza-srt-175",
+      "chapterId": "M1-rete-hf",
+      "name": "Potenza SRT-175",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-componenti-srt-175",
+      "chapterId": "M1-rete-hf",
+      "name": "Componenti SRT-175",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-contatto-diretto",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Contatto diretto",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-contatto-indiretto",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Contatto indiretto",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-identificazione-apparecchi",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Identificazione apparecchi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-attrezzature-deteriorate",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Attrezzature deteriorate",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-storia-nascita-del-112-nazionale",
+      "chapterId": "M1-storia",
+      "name": "Nascita del 112 nazionale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-where-are-u-telefonata-muta",
+      "chapterId": "M1-where-are-u",
+      "name": "Telefonata muta",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-approfondimenti-ufficiali-filtro-delle-chiamate",
+      "chapterId": "M1-nue-112-approfondimenti-ufficiali",
+      "name": "Filtro delle chiamate",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-approfondimenti-ufficiali-aml",
+      "chapterId": "M1-nue-112-approfondimenti-ufficiali",
+      "name": "AML",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-approfondimenti-ufficiali-indirizzo-dettagliato",
+      "chapterId": "M1-nue-112-approfondimenti-ufficiali",
+      "name": "Indirizzo dettagliato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-approfondimenti-ufficiali-soccorsi-diversi",
+      "chapterId": "M1-nue-112-approfondimenti-ufficiali",
+      "name": "Soccorsi diversi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-standard-radio-organismo-standardizzatore",
+      "chapterId": "M1-standard-radio",
+      "name": "Organismo standardizzatore",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-standard-radio-interoperabilita-multivendor",
+      "chapterId": "M1-standard-radio",
+      "name": "Interoperabilità multivendor",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-dmo-senza-infrastruttura",
+      "chapterId": "M1-sistema-tetra",
+      "name": "DMO senza infrastruttura",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-scala-della-rete",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Scala della rete",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-funzione-della-centrale-disposizioni-del-comandante",
+      "chapterId": "M1-funzione-della-centrale",
+      "name": "Disposizioni del comandante",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-funzione-della-centrale-reparti-o-enti-da-informare",
+      "chapterId": "M1-funzione-della-centrale",
+      "name": "Reparti o enti da informare",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-accessi-autorizzati",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Accessi autorizzati",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-composizione-organica",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Composizione organica",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-lingua-straniera",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Lingua straniera",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-area-operativa",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Area operativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-canale-ordine-pubblico",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Canale ordine pubblico",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-cciss",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "CCISS",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-postazione-compagnia",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Postazione compagnia",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-passaggio-di-consegne-aggiornamento-provinciale",
+      "chapterId": "M1-passaggio-di-consegne",
+      "name": "Aggiornamento provinciale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-passaggio-di-consegne-nome-del-quadro-operativo",
+      "chapterId": "M1-passaggio-di-consegne",
+      "name": "Nome del quadro operativo",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-dialogo-con-l-utente",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Dialogo con l'utente",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-fattori-di-rischio",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Fattori di rischio",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-arrivo-coordinato",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Arrivo coordinato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-attivita-urgente-pg",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Attività urgente PG",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-salvataggio-vita-umana",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Salvataggio vita umana",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-gravi-eventi-e-servizi",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Gravi eventi e servizi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-vittime-vulnerabili",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Vittime vulnerabili",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-ricerche-persona-scomparsa",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Ricerche persona scomparsa",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-contatto-con-il-segnalante",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Contatto con il segnalante",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-altri-gestori-emergenza",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Altri gestori emergenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-altra-forza-di-polizia",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Altra Forza di polizia",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-assetti-api-e-sos",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Assetti API e SOS",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-negoziatore-primo-livello",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Negoziatore primo livello",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-esiti-dei-rinforzi",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Esiti dei rinforzi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-tempestivita-sefur",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Tempestività SEFUR",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-ordine-pubblico",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Ordine pubblico",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-coordinamento-degli-interventi-sorveglianza-elettronica",
+      "chapterId": "M1-coordinamento-degli-interventi",
+      "name": "Sorveglianza elettronica",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-organizzazione-della-centrale-sicurezza-documenti",
+      "chapterId": "M1-organizzazione-della-centrale",
+      "name": "Sicurezza documenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-priorita-carico-orizzontale",
+      "chapterId": "M1-priorita",
+      "name": "Carico orizzontale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-priorita-carico-verticale",
+      "chapterId": "M1-priorita",
+      "name": "Carico verticale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-comunicazioni-standardizzazione-evento",
+      "chapterId": "M1-comunicazioni",
+      "name": "Standardizzazione evento",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-comunicazioni-report-di-fine-intervento",
+      "chapterId": "M1-comunicazioni",
+      "name": "Report di fine intervento",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-comunicazioni-riascolto",
+      "chapterId": "M1-comunicazioni",
+      "name": "Riascolto",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-collegamenti-radio-messaggi-cifrati",
+      "chapterId": "M1-collegamenti-radio",
+      "name": "Messaggi cifrati",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-radiolocalizzazione-velocita-del-mezzo",
+      "chapterId": "M1-radiolocalizzazione",
+      "name": "Velocità del mezzo",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-radiolocalizzazione-dispatcher",
+      "chapterId": "M1-radiolocalizzazione",
+      "name": "Dispatcher",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-radiolocalizzazione-rappresentazione-evento",
+      "chapterId": "M1-radiolocalizzazione",
+      "name": "Rappresentazione evento",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-radiolocalizzazione-assegnazione-intervento",
+      "chapterId": "M1-radiolocalizzazione",
+      "name": "Assegnazione intervento",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-radiolocalizzazione-richieste-dai-mezzi",
+      "chapterId": "M1-radiolocalizzazione",
+      "name": "Richieste dai mezzi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-controllo-pattuglie-ordine-pubblico-pianificato",
+      "chapterId": "M1-controllo-pattuglie",
+      "name": "Ordine pubblico pianificato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-controllo-pattuglie-obiettivi-sensibili",
+      "chapterId": "M1-controllo-pattuglie",
+      "name": "Obiettivi sensibili",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-storia-istituzione-europea",
+      "chapterId": "M1-storia",
+      "name": "Istituzione europea",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-numero-privato",
+      "chapterId": "M1-nue-112",
+      "name": "Numero privato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-localizzazione-fissa",
+      "chapterId": "M1-nue-112",
+      "name": "Localizzazione fissa",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-localizzazione-cellulare-2023",
+      "chapterId": "M1-nue-112",
+      "name": "Localizzazione cellulare 2023",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-assenza-cur",
+      "chapterId": "M1-nue-112",
+      "name": "Assenza CUR",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-scheda-contatto-destinazione-sanitaria",
+      "chapterId": "M1-scheda-contatto",
+      "name": "Destinazione sanitaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-scheda-contatto-formato",
+      "chapterId": "M1-scheda-contatto",
+      "name": "Formato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-where-are-u-disponibilita-cur",
+      "chapterId": "M1-where-are-u",
+      "name": "Disponibilità CUR",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-where-are-u-dispositivo",
+      "chapterId": "M1-where-are-u",
+      "name": "Dispositivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-approfondimenti-ufficiali-costo-della-chiamata",
+      "chapterId": "M1-nue-112-approfondimenti-ufficiali",
+      "name": "Costo della chiamata",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-approfondimenti-ufficiali-assenza-credito",
+      "chapterId": "M1-nue-112-approfondimenti-ufficiali",
+      "name": "Assenza credito",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-nue-112-approfondimenti-ufficiali-soccorso-in-mare",
+      "chapterId": "M1-nue-112-approfondimenti-ufficiali",
+      "name": "Soccorso in mare",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-coordinate-costanti",
+      "chapterId": "M1-c-mobile",
+      "name": "Coordinate costanti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-trasferimento-on-demand",
+      "chapterId": "M1-c-mobile",
+      "name": "Trasferimento on demand",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-seconda-pagina-icone",
+      "chapterId": "M1-c-mobile",
+      "name": "Seconda pagina icone",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-accesso-funzioni",
+      "chapterId": "M1-c-mobile",
+      "name": "Accesso funzioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-lunghezza-selettiva-tetra",
+      "chapterId": "M1-c-mobile",
+      "name": "Lunghezza selettiva TETRA",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-lunghezza-selettiva-gamma",
+      "chapterId": "M1-c-mobile",
+      "name": "Lunghezza selettiva Gamma",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-barra-ritorno",
+      "chapterId": "M1-c-mobile",
+      "name": "Barra ritorno",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-spia-apn",
+      "chapterId": "M1-c-mobile",
+      "name": "Spia APN",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-spia-aggiornamenti",
+      "chapterId": "M1-c-mobile",
+      "name": "Spia aggiornamenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-messaggi-non-letti",
+      "chapterId": "M1-c-mobile",
+      "name": "Messaggi non letti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-durata-timeout",
+      "chapterId": "M1-c-mobile",
+      "name": "Durata timeout",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-disattivazione-allarme",
+      "chapterId": "M1-c-mobile",
+      "name": "Disattivazione allarme",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-sorgente-video-allarme",
+      "chapterId": "M1-c-mobile",
+      "name": "Sorgente video allarme",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-login-recente",
+      "chapterId": "M1-c-mobile",
+      "name": "Login recente",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-esiti-aggregati",
+      "chapterId": "M1-c-mobile",
+      "name": "Esiti aggregati",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-invio-richieste",
+      "chapterId": "M1-c-mobile",
+      "name": "Invio richieste",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-campo-finalita",
+      "chapterId": "M1-c-mobile",
+      "name": "Campo finalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-esito-eseguito",
+      "chapterId": "M1-c-mobile",
+      "name": "Esito eseguito",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-dettagli-risultato",
+      "chapterId": "M1-c-mobile",
+      "name": "Dettagli risultato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-stop-registrazione",
+      "chapterId": "M1-c-mobile",
+      "name": "Stop registrazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-invio-ultima-foto",
+      "chapterId": "M1-c-mobile",
+      "name": "Invio ultima foto",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-zoom-durante-video",
+      "chapterId": "M1-c-mobile",
+      "name": "Zoom durante video",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-durata-video",
+      "chapterId": "M1-c-mobile",
+      "name": "Durata video",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-ordine-messaggi",
+      "chapterId": "M1-c-mobile",
+      "name": "Ordine messaggi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-preimpostati-e-invio",
+      "chapterId": "M1-c-mobile",
+      "name": "Preimpostati e invio",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-verifica-aggiornamenti",
+      "chapterId": "M1-c-mobile",
+      "name": "Verifica aggiornamenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-ausilio-informativo",
+      "chapterId": "M1-c-mobile",
+      "name": "Ausilio informativo",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-stato-in-coda",
+      "chapterId": "M1-c-mobile",
+      "name": "Stato in coda",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-trasferimenti-completati",
+      "chapterId": "M1-c-mobile",
+      "name": "Trasferimenti completati",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-gestincpad",
+      "chapterId": "M1-c-mobile",
+      "name": "GESTINCPAD",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-violazione-cds",
+      "chapterId": "M1-c-mobile",
+      "name": "Violazione CDS",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-impostazioni-riservate",
+      "chapterId": "M1-c-mobile",
+      "name": "Impostazioni riservate",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-c-mobile-informazioni-terminale",
+      "chapterId": "M1-c-mobile",
+      "name": "Informazioni terminale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-reti-radio-sfc450-c",
+      "chapterId": "M1-reti-radio",
+      "name": "SFC450-C",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-reti-radio-periferici-mobili",
+      "chapterId": "M1-reti-radio",
+      "name": "Periferici mobili",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-reti-radio-moduli-comuni",
+      "chapterId": "M1-reti-radio",
+      "name": "Moduli comuni",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-reti-radio-consolle-e-rack",
+      "chapterId": "M1-reti-radio",
+      "name": "Consolle e rack",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-limite-automatico-portatili",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Limite automatico portatili",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-rischio-scelta-errata",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Rischio scelta errata",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-riceve-o-trasmette",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Riceve o trasmette",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-collegamenti-radio-transito-telefonico",
+      "chapterId": "M1-collegamenti-radio",
+      "name": "Transito telefonico",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-collegamenti-radio-prime-richieste",
+      "chapterId": "M1-collegamenti-radio",
+      "name": "Prime richieste",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-visualizzazione-nominativo",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Visualizzazione nominativo",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-p80-storico",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "P80 storico",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-elementi-della-stazione",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Elementi della stazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-numero-ricetrasmettitori",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Numero ricetrasmettitori",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-attivazione-periferici",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Attivazione periferici",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-codici-verso-la-centrale",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Codici verso la Centrale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-identificazione-dei-sei-ponti",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Identificazione dei sei ponti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-cascata",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Cascata",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-ripetitore-locale-mobile",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Ripetitore locale mobile",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-ponti-ripetitori-antintrusione-caserma",
+      "chapterId": "M1-ponti-ripetitori",
+      "name": "Antintrusione caserma",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-tc4-riferimento-1",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "TC4 riferimento 1",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-tc4-riferimento-2",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "TC4 riferimento 2",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-tc4-riferimento-5",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "TC4 riferimento 5",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-classe-1",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Classe 1",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-classe-2",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Classe 2",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-classi-locali",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Classi locali",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-limiti-modo-semplice",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Limiti modo semplice",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-silenziamento-escluso",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Silenziamento escluso",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-led-cripto",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Led cripto",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-spegnimento-tc4",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Spegnimento TC4",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-canale-occupato",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Canale occupato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-sintonia",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Sintonia",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-allarme-tc4",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Allarme TC4",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-test-catena-ricezione",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Test catena ricezione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-pulsante-p",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Pulsante P",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-fpg1-doppio-sistema",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "FPG1 doppio sistema",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-autodiagnostica",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Autodiagnostica",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-lettera-z",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Lettera Z",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-cambio-canale-conferma",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Cambio canale conferma",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-pulsante-6-in-tetra",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Pulsante 6 in TETRA",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-pressione-allarme-fpg1",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Pressione allarme FPG1",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-allarme-e-altri-comandi",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Allarme e altri comandi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-menu-modalita",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Menu modalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-cornetta-e-fonia",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Cornetta e fonia",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-telecomandi-e-frontali-tasto-conversazione-finale",
+      "chapterId": "M1-telecomandi-e-frontali",
+      "name": "Tasto conversazione finale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-dimensioni-gp388",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Dimensioni GP388",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-selettive-portatili",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Selettive portatili",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-manopola-1-gp",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Manopola 1 GP",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-blocco-tastiera",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Blocco tastiera",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-dir-nel-display",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Dir nel display",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-led-scansione",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Led scansione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-led-chiamata",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Led chiamata",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-connettore-protetto",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Connettore protetto",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-accessori-remoti",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Accessori remoti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-bassa-potenza-l",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Bassa potenza L",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-xpand",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "XPAND",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-batteria-lampeggiante",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Batteria lampeggiante",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-chiamate-perse-lampeggio",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Chiamate perse lampeggio",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-caricatore-verde-fisso",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Caricatore verde fisso",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-apparati-portatili-e-veicolari-caricatore-rosso-fisso",
+      "chapterId": "M1-apparati-portatili-e-veicolari",
+      "name": "Caricatore rosso fisso",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-due-blocchi-sfc",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "Due blocchi SFC",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-lunghezza-cavi",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "Lunghezza cavi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-ae10-e-ci10",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "AE10 e CI10",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-cc11",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "CC11",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-tf10",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "TF10",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-op10",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "OP10",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-lp10",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "LP10",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-a13",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "A13",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-pc10",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "PC10",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-am10",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "AM10",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-modulo-bf",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "Modulo BF",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-batteria-soccorso",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "Batteria soccorso",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-scarica-completa",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "Scarica completa",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-consolle-cn2-e-alimentazione-tre-spie-al3",
+      "chapterId": "M1-consolle-cn2-e-alimentazione",
+      "name": "Tre spie AL3",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-chiamata-generale-e-risposta",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Chiamata generale e risposta",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-gamma-400-chiamata-gruppo-e-ack",
+      "chapterId": "M1-rete-gamma-400",
+      "name": "Chiamata gruppo e ACK",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-comunicazioni-avviso-individuale",
+      "chapterId": "M1-comunicazioni",
+      "name": "Avviso individuale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-comunicazioni-avviso-gruppo-generale",
+      "chapterId": "M1-comunicazioni",
+      "name": "Avviso gruppo generale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-collegamenti-radio-canale-della-chiamata",
+      "chapterId": "M1-collegamenti-radio",
+      "name": "Canale della chiamata",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-storia-scelta-schengen",
+      "chapterId": "M1-storia",
+      "name": "Scelta Schengen",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-rete-pubblica-congestionata",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Rete pubblica congestionata",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-autorizzazione-accesso",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Autorizzazione accesso",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-mobilita-gruppi",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Mobilità gruppi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-identificativo-univoco",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Identificativo univoco",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-tmo-e-infrastruttura",
+      "chapterId": "M1-sistema-tetra",
+      "name": "TMO e infrastruttura",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-coordinamento-tmo",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Coordinamento TMO",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-raggio-dmo",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Raggio DMO",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-frequenze-e-gruppi",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Frequenze e gruppi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-numero-gruppi",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Numero gruppi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-standard-radio-quattro-canali-dinamici",
+      "chapterId": "M1-standard-radio",
+      "name": "Quattro canali dinamici",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-standard-radio-rapidita-chiamata-2023",
+      "chapterId": "M1-standard-radio",
+      "name": "Rapidità chiamata 2023",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-chiamata-individuale-altri-gruppi",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Chiamata individuale altri gruppi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-messaggi-brevi",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Messaggi brevi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-connettivita-ridondata",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Connettività ridondata",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-pbx",
+      "chapterId": "M1-sistema-tetra",
+      "name": "PBX",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-registrazione-terminale",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Registrazione terminale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-timer-rete",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Timer rete",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sistema-tetra-composizione-por",
+      "chapterId": "M1-sistema-tetra",
+      "name": "Composizione POR",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-terminali-tetra-potenza-sc2020",
+      "chapterId": "M1-terminali-tetra",
+      "name": "Potenza SC2020",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-terminali-tetra-protezione-sc2020",
+      "chapterId": "M1-terminali-tetra",
+      "name": "Protezione SC2020",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-terminali-tetra-sensore-sc2020",
+      "chapterId": "M1-terminali-tetra",
+      "name": "Sensore SC2020",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-terminali-tetra-potenza-mtm5400",
+      "chapterId": "M1-terminali-tetra",
+      "name": "Potenza MTM5400",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-terminali-tetra-mtm5400-speciale",
+      "chapterId": "M1-terminali-tetra",
+      "name": "MTM5400 speciale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-terminali-tetra-corpo-fc4000",
+      "chapterId": "M1-terminali-tetra",
+      "name": "Corpo FC4000",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-livello-territoriale",
+      "chapterId": "M1-rete-hf",
+      "name": "Livello territoriale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-maglia-nazionale",
+      "chapterId": "M1-rete-hf",
+      "name": "Maglia nazionale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-cadenza-nazionale",
+      "chapterId": "M1-rete-hf",
+      "name": "Cadenza nazionale",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-lancio-circolari",
+      "chapterId": "M1-rete-hf",
+      "name": "Lancio circolari",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-maglia-elicotteri",
+      "chapterId": "M1-rete-hf",
+      "name": "Maglia elicotteri",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-maglia-addestrativa",
+      "chapterId": "M1-rete-hf",
+      "name": "Maglia addestrativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-srt647-potenza",
+      "chapterId": "M1-rete-hf",
+      "name": "SRT647 potenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-srt2005-potenza",
+      "chapterId": "M1-rete-hf",
+      "name": "SRT2005 potenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-ricetrasmettitore-comune",
+      "chapterId": "M1-rete-hf",
+      "name": "Ricetrasmettitore comune",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-adattatore-srt175",
+      "chapterId": "M1-rete-hf",
+      "name": "Adattatore SRT175",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-rete-hf-due-amplificatori",
+      "chapterId": "M1-rete-hf",
+      "name": "Due amplificatori",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-valutazione-rischi",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Valutazione rischi",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-dpi",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "DPI",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-assegnazione-compiti",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Assegnazione compiti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-salute-altri-presenti",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Salute altri presenti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-segnalazione-deficienze",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Segnalazione deficienze",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-piano-emergenza",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Piano emergenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-istruzioni-attrezzature",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Istruzioni attrezzature",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-miglioramento-nel-tempo",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Miglioramento nel tempo",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-incendi-elettrici",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Incendi elettrici",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-doppio-isolamento",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "Doppio isolamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-lps-significato",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "LPS significato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sicurezza-delle-apparecchiature-lps-componenti",
+      "chapterId": "M1-sicurezza-delle-apparecchiature",
+      "name": "LPS componenti",
+      "questionCount": 1
+    }
+  ],
+  "sources": [
+    {
+      "id": "SRC-001",
+      "title": "DIRITTO PENALE E PEN. MIL. 2026 RM(1).pdf",
+      "file": "penale-militare.pdf",
+      "sha256": "c545da8df30616bb209d74512678c53a4a2a91d3da0d71214a46c8cd237a205f",
+      "format": "pdf",
+      "unitCount": 203,
+      "unitType": "pdfPage",
+      "duplicateUploads": [
+        "DIRITTO PENALE E PEN. MIL. 2026 RM(2).pdf"
+      ],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-002",
+      "title": "DIRITTO POLIZIA 2026 TA.pdf",
+      "file": "diritto-polizia.pdf",
+      "sha256": "a994879fb2fbedf43c55a5c42f950e170238d75cc56fecdb3cb94f70b2254d75",
+      "format": "pdf",
+      "unitCount": 90,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-003",
+      "title": "Diritto Costituzionale 2026 IG(1).pdf",
+      "file": "costituzionale.pdf",
+      "sha256": "642cfe525da368ef718aaf3ac806c0b24b06384a68b0517732330cf568712859",
+      "format": "pdf",
+      "unitCount": 49,
+      "unitType": "pdfPage",
+      "duplicateUploads": [
+        "Diritto Costituzionale 2026 IG.pdf"
+      ],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-004",
+      "title": "ESAME TESTIMONIALE 2026 RM.pdf",
+      "file": "esame-testimoniale.pdf",
+      "sha256": "f2e0f6fa35eb2f26a30c00f8ac119d38dcfcf1956e3a95d4b3ee0782fad7ec11",
+      "format": "pdf",
+      "unitCount": 48,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-005",
+      "title": "Guida_Tecniche_Apprendimento_Rapido_ 2026_TA.pdf",
+      "file": "apprendimento.pdf",
+      "sha256": "64b36d8cb7f93b20852f3ce48bf4474fb4e50ab9433b51a80cd6ca7a1198e953",
+      "format": "pdf",
+      "unitCount": 54,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-006",
+      "title": "Informatica Arma 2026 TO.docx",
+      "file": "informatica-arma.docx",
+      "sha256": "a2b3996ced5d380f913f5fddf4dff291d4a8981278a0e1956419ca07641430d1",
+      "format": "docx",
+      "unitCount": 1936,
+      "unitType": "docxParagraph",
+      "duplicateUploads": [],
+      "contentEditionNote": "Documento 2025, aggiornamento agosto 2026"
+    },
+    {
+      "id": "SRC-007",
+      "title": "L'ARMA DEI CARABINIERI NELLA STORIA 2026 RC.docx",
+      "file": "storia-arma.docx",
+      "sha256": "ef255f4502d09ff0d40e6d0d04cf3c21ed72cb19a0229ee714d97817314f7614",
+      "format": "docx",
+      "unitCount": 308,
+      "unitType": "docxParagraph",
+      "duplicateUploads": [],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-008",
+      "title": "PROC. PEN. E TECN. INVEST. 2026 RM.pdf",
+      "file": "procedura-penale.pdf",
+      "sha256": "5ce59ceb88472a180c9911f9ebf69133e110c4b29fb913ed6ceee9ef436ff292",
+      "format": "pdf",
+      "unitCount": 127,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-009",
+      "title": "SDI 2026 RM.pdf",
+      "file": "sdi-2026.pdf",
+      "sha256": "3cf1ce57e7ba6dd4b93d404eb024addc6ff1fdba11ab3c0958afe07b5fd0a47f",
+      "format": "pdf",
+      "unitCount": 67,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-010",
+      "title": "SDI APPUNTI.docx",
+      "file": "sdi-appunti.docx",
+      "sha256": "2f066d7718860367ec9879dfecd412e933918191f9ae959fe600a77d8cf9b305",
+      "format": "docx",
+      "unitCount": 77,
+      "unitType": "docxParagraph",
+      "duplicateUploads": [],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-011",
+      "title": "SOGGETTI VULNERABILI 2026 RM.pdf",
+      "file": "soggetti-vulnerabili.pdf",
+      "sha256": "d478f0d6318cc9a8953827d6cb2049a8231bcec88106f7221c1d003b5be793cc",
+      "format": "pdf",
+      "unitCount": 128,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-012",
+      "title": "Schema_Diritto_Penale.pdf",
+      "file": "diritto-penale.pdf",
+      "sha256": "d9b9b6c8a4aee1e0e470cbc6661c8e40ef87f16f3def02fa3d446a691b97f3cd",
+      "format": "pdf",
+      "unitCount": 12,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-013",
+      "title": "Schema_Patenti_di_Guida_CDS_2026.pdf",
+      "file": "patenti.pdf",
+      "sha256": "095a1097723920fcece53f6ca4b0f017ee828141c71968da64a2f86fcb50015c",
+      "format": "pdf",
+      "unitCount": 2,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": null,
+      "readableFile": "patenti-testo-recuperato.html",
+      "recoveryNote": "Testo completo estratto anche fuori dai limiti della pagina; alcune righe risultano tagliate nella visualizzazione del PDF."
+    },
+    {
+      "id": "SRC-014",
+      "title": "Sinossi centrale operativa.pdf",
+      "file": "centrale-operativa.pdf",
+      "sha256": "7f0fd8a309398c1d25f02dc5458d51cdfc2f969098e26ae74ae081e129d9573e",
+      "format": "pdf",
+      "unitCount": 79,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": "Sinossi 2023",
+      "supplementFile": "centrale-testo-allegato.html",
+      "supplementNote": "Testo incollato dall’utente in chat, conservato come trascrizione di supporto"
+    },
+    {
+      "id": "SRC-015",
+      "title": "Tecnica Professionale 2026  PDF(1).pdf",
+      "file": "tecnica-professionale.pdf",
+      "sha256": "9c5f28fb1ff36686dad8fcd2644e12ae69a11cb8dc1128b88ee84b5d54fcc9c1",
+      "format": "pdf",
+      "unitCount": 145,
+      "unitType": "pdfPage",
+      "duplicateUploads": [
+        "Tecnica Professionale 2026  PDF(2).pdf"
+      ],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-016",
+      "title": "Tecniche Comunicazione Interpersonale 2026 TA.pdf",
+      "file": "comunicazione.pdf",
+      "sha256": "d2010abfb2de4059d5d229116503a8ba4689250e418dae9a1111dc1ed72fb654",
+      "format": "pdf",
+      "unitCount": 71,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": "Copertina: edizione 2025; nome del file: 2026"
+    },
+    {
+      "id": "SRC-017",
+      "title": "Tecniche_Intervento_Operativo_Controllo_Territorio.pdf",
+      "file": "tecniche-operative.pdf",
+      "sha256": "393627bfedc355aaed02a2980a5fa889f28c5d5a7607b6ee1c047283d683bd62",
+      "format": "pdf",
+      "unitCount": 5,
+      "unitType": "pdfPage",
+      "duplicateUploads": [],
+      "contentEditionNote": null
+    },
+    {
+      "id": "SRC-018",
+      "title": "Il 112: data storica ufficiale",
+      "file": "centrale-web-storia.html",
+      "sha256": "f161b869a13aaa2cd1dcc24a98e80f14c6416dd039e227eaa2ba6fe3a3cf2728",
+      "format": "html",
+      "unitCount": 1,
+      "unitType": "webSection",
+      "duplicateUploads": [],
+      "contentEditionNote": "Fonte ufficiale online · consultata 07/10/2026",
+      "originType": "official_web",
+      "url": "https://www.carabinieri.it/chi-siamo/ieri/storia/le-date-della-nostra-storia/date-fondamentali-della-storia-dell-arma/il-112",
+      "publisher": "Arma dei Carabinieri",
+      "retrievedAt": "2026-10-07",
+      "snapshotNote": "Scheda di riferimento editoriale, non copia integrale della pagina online"
+    },
+    {
+      "id": "SRC-019",
+      "title": "NUE 112: informazioni della Regione Lazio",
+      "file": "centrale-web-nue.html",
+      "sha256": "c9df3078a982a0c151d538ea15949172604c81889936d5cf081e94a55580a64d",
+      "format": "html",
+      "unitCount": 1,
+      "unitType": "webSection",
+      "duplicateUploads": [],
+      "contentEditionNote": "Fonte ufficiale online · consultata 07/10/2026",
+      "originType": "official_web",
+      "url": "https://comunicazione.regione.lazio.it/112/",
+      "publisher": "Regione Lazio",
+      "retrievedAt": "2026-10-07",
+      "snapshotNote": "Scheda di riferimento editoriale, non copia integrale della pagina online"
+    },
+    {
+      "id": "SRC-020",
+      "title": "TETRA: documentazione ufficiale ETSI",
+      "file": "centrale-web-tetra.html",
+      "sha256": "0b5afd06670b113d72f569a5976b1a22b25203867196e8624594c5dbfd455e1d",
+      "format": "html",
+      "unitCount": 1,
+      "unitType": "webSection",
+      "duplicateUploads": [],
+      "contentEditionNote": "Fonte ufficiale online · consultata 07/10/2026",
+      "originType": "official_web",
+      "url": "https://www.etsi.org/technical-groups/tcce/",
+      "publisher": "ETSI",
+      "retrievedAt": "2026-10-07",
+      "snapshotNote": "Scheda di riferimento editoriale, non copia integrale della pagina online"
+    }
+  ],
+  "correctedLegacyIds": [
+    "CC-M5-006",
+    "CC-M5-009"
+  ],
+  "coverageNote": "Banca ampliata con copertura parziale: dispense allegate e approfondimenti ufficiali online identificati per Centrale operativa. Non è una banca ufficiale e non sono state trasformate tutte le pagine in domande.",
+  "uploadedSourceCount": 17,
+  "officialWebSourceCount": 3,
+  "duplicateUploadCount": 3
+}

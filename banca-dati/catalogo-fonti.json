@@ -1,0 +1,247 @@
+[
+  {
+    "id": "SRC-001",
+    "title": "DIRITTO PENALE E PEN. MIL. 2026 RM(1).pdf",
+    "file": "penale-militare.pdf",
+    "sha256": "c545da8df30616bb209d74512678c53a4a2a91d3da0d71214a46c8cd237a205f",
+    "format": "pdf",
+    "unitCount": 203,
+    "unitType": "pdfPage",
+    "duplicateUploads": [
+      "DIRITTO PENALE E PEN. MIL. 2026 RM(2).pdf"
+    ],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-002",
+    "title": "DIRITTO POLIZIA 2026 TA.pdf",
+    "file": "diritto-polizia.pdf",
+    "sha256": "a994879fb2fbedf43c55a5c42f950e170238d75cc56fecdb3cb94f70b2254d75",
+    "format": "pdf",
+    "unitCount": 90,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-003",
+    "title": "Diritto Costituzionale 2026 IG(1).pdf",
+    "file": "costituzionale.pdf",
+    "sha256": "642cfe525da368ef718aaf3ac806c0b24b06384a68b0517732330cf568712859",
+    "format": "pdf",
+    "unitCount": 49,
+    "unitType": "pdfPage",
+    "duplicateUploads": [
+      "Diritto Costituzionale 2026 IG.pdf"
+    ],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-004",
+    "title": "ESAME TESTIMONIALE 2026 RM.pdf",
+    "file": "esame-testimoniale.pdf",
+    "sha256": "f2e0f6fa35eb2f26a30c00f8ac119d38dcfcf1956e3a95d4b3ee0782fad7ec11",
+    "format": "pdf",
+    "unitCount": 48,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-005",
+    "title": "Guida_Tecniche_Apprendimento_Rapido_ 2026_TA.pdf",
+    "file": "apprendimento.pdf",
+    "sha256": "64b36d8cb7f93b20852f3ce48bf4474fb4e50ab9433b51a80cd6ca7a1198e953",
+    "format": "pdf",
+    "unitCount": 54,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-006",
+    "title": "Informatica Arma 2026 TO.docx",
+    "file": "informatica-arma.docx",
+    "sha256": "a2b3996ced5d380f913f5fddf4dff291d4a8981278a0e1956419ca07641430d1",
+    "format": "docx",
+    "unitCount": 1936,
+    "unitType": "docxParagraph",
+    "duplicateUploads": [],
+    "contentEditionNote": "Documento 2025, aggiornamento agosto 2026"
+  },
+  {
+    "id": "SRC-007",
+    "title": "L'ARMA DEI CARABINIERI NELLA STORIA 2026 RC.docx",
+    "file": "storia-arma.docx",
+    "sha256": "ef255f4502d09ff0d40e6d0d04cf3c21ed72cb19a0229ee714d97817314f7614",
+    "format": "docx",
+    "unitCount": 308,
+    "unitType": "docxParagraph",
+    "duplicateUploads": [],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-008",
+    "title": "PROC. PEN. E TECN. INVEST. 2026 RM.pdf",
+    "file": "procedura-penale.pdf",
+    "sha256": "5ce59ceb88472a180c9911f9ebf69133e110c4b29fb913ed6ceee9ef436ff292",
+    "format": "pdf",
+    "unitCount": 127,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-009",
+    "title": "SDI 2026 RM.pdf",
+    "file": "sdi-2026.pdf",
+    "sha256": "3cf1ce57e7ba6dd4b93d404eb024addc6ff1fdba11ab3c0958afe07b5fd0a47f",
+    "format": "pdf",
+    "unitCount": 67,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-010",
+    "title": "SDI APPUNTI.docx",
+    "file": "sdi-appunti.docx",
+    "sha256": "2f066d7718860367ec9879dfecd412e933918191f9ae959fe600a77d8cf9b305",
+    "format": "docx",
+    "unitCount": 77,
+    "unitType": "docxParagraph",
+    "duplicateUploads": [],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-011",
+    "title": "SOGGETTI VULNERABILI 2026 RM.pdf",
+    "file": "soggetti-vulnerabili.pdf",
+    "sha256": "d478f0d6318cc9a8953827d6cb2049a8231bcec88106f7221c1d003b5be793cc",
+    "format": "pdf",
+    "unitCount": 128,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-012",
+    "title": "Schema_Diritto_Penale.pdf",
+    "file": "diritto-penale.pdf",
+    "sha256": "d9b9b6c8a4aee1e0e470cbc6661c8e40ef87f16f3def02fa3d446a691b97f3cd",
+    "format": "pdf",
+    "unitCount": 12,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-013",
+    "title": "Schema_Patenti_di_Guida_CDS_2026.pdf",
+    "file": "patenti.pdf",
+    "sha256": "095a1097723920fcece53f6ca4b0f017ee828141c71968da64a2f86fcb50015c",
+    "format": "pdf",
+    "unitCount": 2,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": null,
+    "readableFile": "patenti-testo-recuperato.html",
+    "recoveryNote": "Testo completo estratto anche fuori dai limiti della pagina; alcune righe risultano tagliate nella visualizzazione del PDF."
+  },
+  {
+    "id": "SRC-014",
+    "title": "Sinossi centrale operativa.pdf",
+    "file": "centrale-operativa.pdf",
+    "sha256": "7f0fd8a309398c1d25f02dc5458d51cdfc2f969098e26ae74ae081e129d9573e",
+    "format": "pdf",
+    "unitCount": 79,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": "Sinossi 2023",
+    "supplementFile": "centrale-testo-allegato.html",
+    "supplementNote": "Testo incollato dall’utente in chat, conservato come trascrizione di supporto"
+  },
+  {
+    "id": "SRC-015",
+    "title": "Tecnica Professionale 2026  PDF(1).pdf",
+    "file": "tecnica-professionale.pdf",
+    "sha256": "9c5f28fb1ff36686dad8fcd2644e12ae69a11cb8dc1128b88ee84b5d54fcc9c1",
+    "format": "pdf",
+    "unitCount": 145,
+    "unitType": "pdfPage",
+    "duplicateUploads": [
+      "Tecnica Professionale 2026  PDF(2).pdf"
+    ],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-016",
+    "title": "Tecniche Comunicazione Interpersonale 2026 TA.pdf",
+    "file": "comunicazione.pdf",
+    "sha256": "d2010abfb2de4059d5d229116503a8ba4689250e418dae9a1111dc1ed72fb654",
+    "format": "pdf",
+    "unitCount": 71,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": "Copertina: edizione 2025; nome del file: 2026"
+  },
+  {
+    "id": "SRC-017",
+    "title": "Tecniche_Intervento_Operativo_Controllo_Territorio.pdf",
+    "file": "tecniche-operative.pdf",
+    "sha256": "393627bfedc355aaed02a2980a5fa889f28c5d5a7607b6ee1c047283d683bd62",
+    "format": "pdf",
+    "unitCount": 5,
+    "unitType": "pdfPage",
+    "duplicateUploads": [],
+    "contentEditionNote": null
+  },
+  {
+    "id": "SRC-018",
+    "title": "Il 112: data storica ufficiale",
+    "file": "centrale-web-storia.html",
+    "sha256": "f161b869a13aaa2cd1dcc24a98e80f14c6416dd039e227eaa2ba6fe3a3cf2728",
+    "format": "html",
+    "unitCount": 1,
+    "unitType": "webSection",
+    "duplicateUploads": [],
+    "contentEditionNote": "Fonte ufficiale online · consultata 07/10/2026",
+    "originType": "official_web",
+    "url": "https://www.carabinieri.it/chi-siamo/ieri/storia/le-date-della-nostra-storia/date-fondamentali-della-storia-dell-arma/il-112",
+    "publisher": "Arma dei Carabinieri",
+    "retrievedAt": "2026-10-07",
+    "snapshotNote": "Scheda di riferimento editoriale, non copia integrale della pagina online"
+  },
+  {
+    "id": "SRC-019",
+    "title": "NUE 112: informazioni della Regione Lazio",
+    "file": "centrale-web-nue.html",
+    "sha256": "c9df3078a982a0c151d538ea15949172604c81889936d5cf081e94a55580a64d",
+    "format": "html",
+    "unitCount": 1,
+    "unitType": "webSection",
+    "duplicateUploads": [],
+    "contentEditionNote": "Fonte ufficiale online · consultata 07/10/2026",
+    "originType": "official_web",
+    "url": "https://comunicazione.regione.lazio.it/112/",
+    "publisher": "Regione Lazio",
+    "retrievedAt": "2026-10-07",
+    "snapshotNote": "Scheda di riferimento editoriale, non copia integrale della pagina online"
+  },
+  {
+    "id": "SRC-020",
+    "title": "TETRA: documentazione ufficiale ETSI",
+    "file": "centrale-web-tetra.html",
+    "sha256": "0b5afd06670b113d72f569a5976b1a22b25203867196e8624594c5dbfd455e1d",
+    "format": "html",
+    "unitCount": 1,
+    "unitType": "webSection",
+    "duplicateUploads": [],
+    "contentEditionNote": "Fonte ufficiale online · consultata 07/10/2026",
+    "originType": "official_web",
+    "url": "https://www.etsi.org/technical-groups/tcce/",
+    "publisher": "ETSI",
+    "retrievedAt": "2026-10-07",
+    "snapshotNote": "Scheda di riferimento editoriale, non copia integrale della pagina online"
+  }
+]

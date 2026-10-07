@@ -1,0 +1,17 @@
+PRAGMA foreign_keys=ON;
+CREATE TABLE metadata(key TEXT PRIMARY KEY,value TEXT NOT NULL);
+CREATE TABLE sources(id TEXT PRIMARY KEY,title TEXT NOT NULL,file TEXT NOT NULL,format TEXT NOT NULL,sha256 TEXT NOT NULL UNIQUE,unit_type TEXT NOT NULL,unit_count INTEGER NOT NULL,origin_type TEXT NOT NULL,url TEXT,retrieved_at TEXT);
+CREATE TABLE source_aliases(source_id TEXT NOT NULL REFERENCES sources(id),uploaded_name TEXT NOT NULL,PRIMARY KEY(source_id,uploaded_name));
+CREATE TABLE subjects(id TEXT PRIMARY KEY,name TEXT NOT NULL,coverage TEXT NOT NULL);
+CREATE TABLE subject_sources(subject_id TEXT REFERENCES subjects(id),source_id TEXT REFERENCES sources(id),PRIMARY KEY(subject_id,source_id));
+CREATE TABLE chapters(id TEXT PRIMARY KEY,subject_id TEXT NOT NULL REFERENCES subjects(id),name TEXT NOT NULL);
+CREATE TABLE topics(id TEXT PRIMARY KEY,chapter_id TEXT NOT NULL REFERENCES chapters(id),name TEXT NOT NULL);
+CREATE TABLE questions(id TEXT PRIMARY KEY,topic_id TEXT NOT NULL REFERENCES topics(id),concept_id TEXT NOT NULL UNIQUE,stem TEXT NOT NULL UNIQUE,explanation TEXT NOT NULL,difficulty INTEGER NOT NULL CHECK(difficulty BETWEEN 1 AND 3),editorial_status TEXT NOT NULL,added_in TEXT NOT NULL,updated_in TEXT NOT NULL);
+CREATE TABLE answers(question_id TEXT NOT NULL REFERENCES questions(id),position INTEGER NOT NULL CHECK(position BETWEEN 0 AND 2),text TEXT NOT NULL,is_correct INTEGER NOT NULL CHECK(is_correct IN (0,1)),PRIMARY KEY(question_id,position),UNIQUE(question_id,text));
+CREATE UNIQUE INDEX one_correct_answer ON answers(question_id) WHERE is_correct=1;
+CREATE TABLE question_sources(question_id TEXT REFERENCES questions(id),source_id TEXT REFERENCES sources(id),locator_kind TEXT NOT NULL,start_unit INTEGER NOT NULL,end_unit INTEGER NOT NULL,PRIMARY KEY(question_id,source_id,start_unit));
+CREATE TABLE question_media(question_id TEXT NOT NULL REFERENCES questions(id),position INTEGER NOT NULL,file TEXT NOT NULL,alt TEXT NOT NULL,caption TEXT NOT NULL,source_id TEXT NOT NULL REFERENCES sources(id),page INTEGER NOT NULL,crop_json TEXT NOT NULL,PRIMARY KEY(question_id,position));
+CREATE TABLE tags(question_id TEXT REFERENCES questions(id),tag TEXT NOT NULL,PRIMARY KEY(question_id,tag));
+CREATE TABLE legal_references(question_id TEXT REFERENCES questions(id),reference TEXT NOT NULL,PRIMARY KEY(question_id,reference));
+CREATE INDEX topic_lookup ON questions(topic_id);
+CREATE VIEW bank_export AS SELECT q.id,s.name AS materia,c.name AS capitolo,t.name AS argomento,q.stem AS domanda,q.explanation AS spiegazione,q.difficulty AS difficolta FROM questions q JOIN topics t ON t.id=q.topic_id JOIN chapters c ON c.id=t.chapter_id JOIN subjects s ON s.id=c.subject_id;

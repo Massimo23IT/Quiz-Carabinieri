@@ -101,3 +101,16 @@ Tutte le sessioni mescolano domande e ordine delle tre risposte, aggiornando la 
 Le nuove sessioni casuali per materia o capitolo estraggono il numero configurato nelle Impostazioni (20 iniziali), limitato alla disponibilità del gruppo scelto. Si privilegiano domande non presenti nella precedente sessione dello stesso tipo, completando con quelle già usate se necessario. Nessuna domanda si ripete nella singola sessione; le sessioni successive possono riutilizzare quesiti della banca finita. Nei capitoli piccoli cambia l'ordine di domande e opzioni anche quando tutti i quesiti sono necessari. La casualità dei quiz e delle opzioni è applicata anche alle altre 14 materie.
 
 Gli ID e le risposte corrette delle 720 domande precedenti sono conservati. L'aggiornamento da banca 3.1.0 mantiene statistiche, errori e preferiti. Le immagini restano associate anche ai quesiti salvati o agli errori.
+
+## Copia da GitHub
+
+Tre dispense grandi sono conservate in `source-parts` per rispettare il limite di caricamento. Dopo aver clonato o scaricato questa repository, eseguire dalla cartella del progetto:
+
+```bash
+python3 prepare_sources.py
+python3 -m http.server 8080
+```
+
+Lo script verifica SHA-256 e ricostruisce i file originali. Il pacchetto ZIP completo distribuito separatamente contiene già tutte le dispense pronte.
+
+Per GitHub Pages selezionare **GitHub Actions** nelle impostazioni Pages: il workflow incluso ricostruisce le dispense prima della pubblicazione.

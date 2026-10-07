@@ -1,0 +1,45 @@
+{
+  "status": "PASS",
+  "bankVersion": "3.2.0",
+  "questions": 933,
+  "subjects": 15,
+  "checks": [
+    "15 materie e relativi capitoli",
+    "Ricerca materia",
+    "Quiz completo di ogni materia",
+    "Quiz isolato per capitolo",
+    "Spiegazione con collegamento alla fonte",
+    "Preferiti e progressi persistenti",
+    "Recupero errori dopo due risposte corrette",
+    "Scadenza del timer di simulazione",
+    "Navigazione durante simulazione",
+    "Avvio offline e PDF già consultato offline",
+    "Layout senza overflow a 360, 390, 768 e 1440 pixel",
+    "Migrazione selettiva delle due domande corrette",
+    "Nessun errore JavaScript"
+  ],
+  "appVersion": "3.2.0",
+  "databaseChecks": [
+    "933 ID e testi normalizzati unici",
+    "353 domande di Centrale in 26 capitoli: 213 nuove",
+    "Ampliati tutti i 24 capitoli precedenti",
+    "720 ID e risposte corrette precedenti conservati",
+    "933 domande e 2799 risposte in SQLite",
+    "Integrità SQLite e chiavi esterne valide",
+    "56 quesiti illustrati con 11 figure originali",
+    "Fonti e pagine PDF valide",
+    "Controllo similarità e revisione dei nuovi concetti"
+  ],
+  "additionalChecks": [
+    "100 sessioni casuali: soluzione invariata e banca non modificata",
+    "Due sessioni casuali consecutive da 20 domande senza sovrapposizioni",
+    "Ordine domande e opzioni diverso dopo ricaricamento",
+    "Sessioni casuali isolate per capitolo",
+    "Migrazione da 3.1.0 con progressi conservati",
+    "Figure disponibili offline e nei preferiti"
+  ],
+  "graphicsChecks": [
+    "Immagine carabiniera mantenuta nella Home",
+    "Quiz illustrati verificati a 360, 390, 768 e 1440 px"
+  ]
+}

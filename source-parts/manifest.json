@@ -1,0 +1,30 @@
+[
+  {
+    "path": "dispense/centrale-operativa.pdf",
+    "sha256": "7f0fd8a309398c1d25f02dc5458d51cdfc2f969098e26ae74ae081e129d9573e",
+    "parts": [
+      "source-parts/centrale-operativa.pdf.part01",
+      "source-parts/centrale-operativa.pdf.part02",
+      "source-parts/centrale-operativa.pdf.part03"
+    ]
+  },
+  {
+    "path": "dispense/informatica-arma.docx",
+    "sha256": "a2b3996ced5d380f913f5fddf4dff291d4a8981278a0e1956419ca07641430d1",
+    "parts": [
+      "source-parts/informatica-arma.docx.part01",
+      "source-parts/informatica-arma.docx.part02",
+      "source-parts/informatica-arma.docx.part03",
+      "source-parts/informatica-arma.docx.part04"
+    ]
+  },
+  {
+    "path": "dispense/storia-arma.docx",
+    "sha256": "ef255f4502d09ff0d40e6d0d04cf3c21ed72cb19a0229ee714d97817314f7614",
+    "parts": [
+      "source-parts/storia-arma.docx.part01",
+      "source-parts/storia-arma.docx.part02",
+      "source-parts/storia-arma.docx.part03"
+    ]
+  }
+]
