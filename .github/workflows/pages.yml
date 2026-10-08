@@ -25,8 +25,8 @@ jobs:
       - name: Prepare app files
         run: |
           mkdir _site
-          cp index.html app.js app.css catalog.json questions.json sw.js manifest.webmanifest icon* _site/
-          cp -r assets dispense banca-dati _site/
+          cp index.html source.html source.js source.css app.js app.css catalog.json questions.json sw.js manifest.webmanifest icon* _site/
+          cp -r assets dispense banca-dati source-parts _site/
           touch _site/.nojekyll
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

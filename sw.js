@@ -1,5 +1,5 @@
-const CACHE='quiz-carabinieri-v3.2.1';
-const CORE=['./','./index.html','./app.css','./app.js','./questions.json','./catalog.json','./manifest.webmanifest','./assets/carabiniere-hero-v3.png','./assets/carabiniere-hero.png','./dispense/patenti-testo-recuperato.html','./dispense/centrale-web-storia.html','./dispense/centrale-web-nue.html','./dispense/centrale-web-tetra.html','./assets/quesiti/cn2.png','./assets/quesiti/dmo.png','./assets/quesiti/fpg1.png','./assets/quesiti/gp380.png','./assets/quesiti/hf175.png','./assets/quesiti/hf2005.png','./assets/quesiti/hf647.png','./assets/quesiti/mtm5400.png','./assets/quesiti/sc2020.png','./assets/quesiti/tc4.png','./assets/quesiti/tmo.png','./dispense/centrale-testo-allegato.html','./icon.svg','./icon-192.png','./icon-512.png'];
+const CACHE='quiz-carabinieri-v3.2.2';
+const CORE=['./source.html','./source.js','./source.css','./source-parts/manifest.json','./','./index.html','./app.css','./app.js','./questions.json','./catalog.json','./manifest.webmanifest','./assets/carabiniere-hero-v3.png','./assets/carabiniere-hero.png','./dispense/patenti-testo-recuperato.html','./dispense/centrale-web-storia.html','./dispense/centrale-web-nue.html','./dispense/centrale-web-tetra.html','./assets/quesiti/cn2.png','./assets/quesiti/dmo.png','./assets/quesiti/fpg1.png','./assets/quesiti/gp380.png','./assets/quesiti/hf175.png','./assets/quesiti/hf2005.png','./assets/quesiti/hf647.png','./assets/quesiti/mtm5400.png','./assets/quesiti/sc2020.png','./assets/quesiti/tc4.png','./assets/quesiti/tmo.png','./dispense/centrale-testo-allegato.html','./icon.svg','./icon-192.png','./icon-512.png'];
 
 self.addEventListener('install',event=>{
   event.waitUntil(
@@ -44,7 +44,7 @@ self.addEventListener('fetch',event=>{
 
   const isAppAsset=
     ['script','style','image','manifest'].includes(request.destination) ||
-    url.pathname.includes('/dispense/') || url.pathname.endsWith('/catalog.json') || url.pathname.endsWith('/questions.json') ||
+    url.pathname.includes('/dispense/') || url.pathname.includes('/source-parts/') || url.pathname.endsWith('/catalog.json') || url.pathname.endsWith('/questions.json') ||
     url.pathname.endsWith('/manifest.webmanifest');
 
   if(isAppAsset){
