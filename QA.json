@@ -1,10 +1,10 @@
 {
   "status": "PASS",
-  "bankVersion": "4.0.0",
-  "questions": 1139,
+  "bankVersion": "4.1.0",
+  "questions": 1259,
   "cycle": {
-    "count": 1139,
-    "sessions": 57,
+    "count": 1259,
+    "sessions": 63,
     "immutable": true
   },
   "checks": [
@@ -18,17 +18,25 @@
     "layout 360-1440 px",
     "soluzioni invarianti e banca immutata"
   ],
-  "newQuestions": 206,
+  "newQuestions": 122,
+  "revisedQuestions": 48,
+  "mergedQuestions": 2,
   "newDifficulty": {
-    "2": 51,
-    "3": 155
+    "3": 122
   },
   "databaseChecks": [
-    "1139 ID e testi normalizzati unici",
-    "933 quesiti precedenti conservati",
-    "3417 risposte e 28 fonti",
-    "Integrità SQLite e chiavi esterne valide",
-    "206 riferimenti esatti alle diapositive",
-    "Controllo similarità testuale dei nuovi quesiti"
+    "1259 ID e testi normalizzati unici",
+    "Soluzioni dei quesiti conservati invariate",
+    "3777 risposte e 28 fonti",
+    "Integrità SQLite, chiavi esterne ed esportazioni coerenti",
+    "Riferimenti nuovi entro pagine e paragrafi delle dispense",
+    "SHA-256 delle fonti corrispondente agli originali",
+    "122 nuovi quesiti confrontati per similarità: nessuna variante testuale da correggere"
+  ],
+  "selectionChecks": [
+    "Almeno 12 quesiti livello 3 e 6 livello 2 in 20, quando disponibili",
+    "Rotazione fra materie nel campione avanzato",
+    "Migrazione degli ID accorpati senza perdita o duplicazione dei progressi",
+    "Collegamenti alle trascrizioni Word al paragrafo corretto"
   ]
 }

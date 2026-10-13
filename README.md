@@ -1,16 +1,19 @@
-# Quiz Carabinieri v4.0
+# Quiz Carabinieri v4.1
 
-App di allenamento: **1.139 domande**, 15 materie, 199 capitoli e 28 fonti. Tre risposte per domanda, soluzione e spiegazione con riferimenti al materiale di studio. La banca ha copertura parziale e non è una banca ufficiale d’esame.
+App di allenamento: **1.259 domande**, 15 materie, 214 capitoli e 28 fonti. Tre risposte per domanda, soluzione e spiegazione con riferimenti al materiale di studio. La banca ha copertura parziale e non è una banca ufficiale d’esame.
 
 [Apri l’app](https://massimo23it.github.io/Quiz-Carabinieri/)
 
 ## Novità
 
-- **206 nuovi quesiti di diritto penale** dalle presentazioni del 13 ottobre: 51 di livello 2 e 155 di livello 3. Diritto penale conta ora 271 quesiti.
-- Sei nuove sezioni: struttura del reato, cause di esclusione, pubblica amministrazione, amministrazione della giustizia, patrimonio e persona. Le versioni alternative delle slide restano consultabili. I passaggi contrastanti o superati non vengono usati come regole operative nei nuovi quiz.
-- Le otto presentazioni originali sono scaricabili. Le trascrizioni permettono di raggiungere la singola diapositiva dalla spiegazione.
-- **Nessuna ripetizione automatica nei quiz nuovi**, anche cambiando materia, capitolo o difficoltà e dopo una riapertura. Domande e opzioni sono mescolate. Quando disponibile, la selezione mista dedica almeno il 65% dei posti ai livelli 2 e 3.
-- **Errori da rifare** nella Home e in Ripasso: elenco persistente, filtro per materia, quiz degli errori, spiegazioni e fonti. Due risposte corrette consecutive recuperano una domanda; un nuovo errore azzera la serie.
+- **122 nuovi quesiti avanzati dalle dispense** in tutte le 15 materie, con priorità alle sinossi e domande su casi e distinzioni. **48 quesiti esistenti rivisti** con alternative più plausibili e formulazioni meno ripetitive.
+- Due quesiti sovrapposti sono stati accorpati. La migrazione conserva tentativi, errori, preferiti e registro delle domande viste.
+- I quiz misti riservano, quando disponibili, il 60% dei posti al livello 3 e il 30% al livello 2. La selezione ruota fra le materie presenti per evitare che quella più numerosa domini il test. Restano disponibili i livelli singoli.
+- Le domande ricavate da pagine già contrassegnate come importanti mantengono la priorità di selezione.
+- **80 riferimenti Word controllati**, con 79 quesiti conservati dopo l'accorpamento: Informatica d’Arma e Storia dell’Arma hanno trascrizioni consultabili e collegamenti al paragrafo citato. Gli originali restano disponibili.
+- **Nessuna ripetizione automatica nei quiz nuovi**, anche dopo una riapertura. Domande e risposte vengono mescolate.
+- **Errori da rifare**: elenco persistente, filtro per materia e recupero dopo due risposte corrette consecutive.
+- Restano disponibili gli originali e le trascrizioni delle otto presentazioni di diritto penale, con riferimenti alla singola diapositiva.
 
 ## Come funziona il ciclo senza ripetizioni
 
@@ -20,7 +23,7 @@ Il registro è comune a quiz rapido, studio per materia o capitolo, sessioni cas
 
 Il ripasso degli errori, le aree deboli e i preferiti sono esercizi volontari che permettono di ripetere le domande. Il registro comprende anche quelle mostrate nel ripasso.
 
-Dalla versione precedente vengono importati nel registro gli ID per cui esistono risposte salvate. Si conservano tutti i 933 ID precedenti e i relativi testi e soluzioni. Il registro e i progressi appartengono a questo browser: un altro dispositivo, un profilo diverso o la cancellazione dei dati del sito non condividono lo stesso ciclo.
+Dalla versione precedente vengono importati nel registro gli ID per cui esistono risposte salvate. Gli ID dei quesiti conservati e le loro soluzioni restano stabili. I due ID accorpati sono associati ai corrispondenti quesiti canonici; i progressi vengono sommati senza azzerarli. Il registro e i progressi appartengono a questo browser: un altro dispositivo, un profilo diverso o la cancellazione dei dati del sito non condividono lo stesso ciclo.
 
 ## Avvio locale
 
@@ -35,7 +38,7 @@ Aprire http://localhost:8080. Non aprire index.html con doppio clic. Tre dispens
 
 ## Database
 
-`banca-dati/Quiz_Carabinieri_Banca_v4.sqlite`: 1.139 domande, 3.417 risposte, fonti, capitoli, argomenti, citazioni e 56 collegamenti alle figure originali. Sono disponibili anche `banca.json`, `catalogo-fonti.json`, `domande.csv` e `schema.sql`.
+`banca-dati/Quiz_Carabinieri_Banca_v4.sqlite`: 1.259 domande, 3.777 risposte, fonti, capitoli, argomenti, citazioni e 56 collegamenti alle figure originali. Sono disponibili anche `banca.json`, `catalogo-fonti.json`, `domande.csv` e `schema.sql`.
 
 ## Pubblicazione e aggiornamenti
 
@@ -47,4 +50,4 @@ Per caricare l’aggiornamento nel browser, aggiornare la pagina. Se compare una
 
 Safari su iPhone/iPad: Condividi → Aggiungi alla schermata Home. Chrome su Android: Installa app / Aggiungi alla schermata Home. È una PWA, non un APK.
 
-La banca, le immagini dei quesiti e le trascrizioni delle nuove slide sono disponibili offline dopo il primo caricamento completo. Per le dispense originali occorre prima consultarle con connessione. I dati restano salvati localmente nel browser.
+La banca, le immagini dei quesiti e le trascrizioni delle slide e dei due documenti Word sono disponibili offline dopo il primo caricamento completo. Per le dispense originali occorre prima consultarle con connessione. I dati restano salvati localmente nel browser.

@@ -64,10 +64,11 @@
     "file": "informatica-arma.docx",
     "sha256": "a2b3996ced5d380f913f5fddf4dff291d4a8981278a0e1956419ca07641430d1",
     "format": "docx",
-    "unitCount": 1936,
+    "unitCount": 1962,
     "unitType": "docxParagraph",
     "duplicateUploads": [],
-    "contentEditionNote": "Documento 2025, aggiornamento agosto 2026"
+    "contentEditionNote": "Documento 2025, aggiornamento agosto 2026",
+    "readableFile": "informatica-arma.html"
   },
   {
     "id": "SRC-007",
@@ -75,10 +76,11 @@
     "file": "storia-arma.docx",
     "sha256": "ef255f4502d09ff0d40e6d0d04cf3c21ed72cb19a0229ee714d97817314f7614",
     "format": "docx",
-    "unitCount": 308,
+    "unitCount": 381,
     "unitType": "docxParagraph",
     "duplicateUploads": [],
-    "contentEditionNote": null
+    "contentEditionNote": null,
+    "readableFile": "storia-arma.html"
   },
   {
     "id": "SRC-008",

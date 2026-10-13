@@ -1,7 +1,7 @@
 {
   "name": "Quiz Carabinieri",
   "short_name": "Quiz CC",
-  "description": "1139 domande, sessioni senza ripetizioni e recupero degli errori.",
+  "description": "1259 domande dalle dispense, test più impegnativi, sessioni senza ripetizioni e recupero errori.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.1",
-  "bankVersion": "4.0.0",
+  "bankVersion": "4.1.0",
   "language": "it",
-  "questionCount": 1139,
+  "questionCount": 1259,
   "subjectCount": 15,
   "sourceCount": 28,
-  "chapterCount": 199,
-  "topicCount": 1098,
+  "chapterCount": 214,
+  "topicCount": 1220,
   "subjects": [
     {
       "id": "M1",
@@ -18,9 +18,9 @@
         "SRC-019",
         "SRC-020"
       ],
-      "questionCount": 353,
+      "questionCount": 366,
       "coverage": "partial",
-      "chapterCount": 26
+      "chapterCount": 27
     },
     {
       "id": "M2",
@@ -29,9 +29,9 @@
       "sourceIds": [
         "SRC-017"
       ],
-      "questionCount": 31,
+      "questionCount": 37,
       "coverage": "partial",
-      "chapterCount": 12
+      "chapterCount": 13
     },
     {
       "id": "M3",
@@ -40,9 +40,9 @@
       "sourceIds": [
         "SRC-013"
       ],
-      "questionCount": 43,
+      "questionCount": 51,
       "coverage": "partial",
-      "chapterCount": 9
+      "chapterCount": 10
     },
     {
       "id": "M4",
@@ -60,9 +60,9 @@
         "SRC-027",
         "SRC-028"
       ],
-      "questionCount": 271,
+      "questionCount": 279,
       "coverage": "partial",
-      "chapterCount": 14
+      "chapterCount": 15
     },
     {
       "id": "M5",
@@ -72,9 +72,9 @@
         "SRC-009",
         "SRC-010"
       ],
-      "questionCount": 43,
+      "questionCount": 51,
       "coverage": "partial",
-      "chapterCount": 20
+      "chapterCount": 21
     },
     {
       "id": "M6",
@@ -83,9 +83,9 @@
       "sourceIds": [
         "SRC-003"
       ],
-      "questionCount": 40,
+      "questionCount": 48,
       "coverage": "partial",
-      "chapterCount": 6
+      "chapterCount": 7
     },
     {
       "id": "M7",
@@ -94,9 +94,9 @@
       "sourceIds": [
         "SRC-002"
       ],
-      "questionCount": 38,
+      "questionCount": 46,
       "coverage": "partial",
-      "chapterCount": 10
+      "chapterCount": 11
     },
     {
       "id": "M8",
@@ -105,9 +105,9 @@
       "sourceIds": [
         "SRC-008"
       ],
-      "questionCount": 40,
+      "questionCount": 48,
       "coverage": "partial",
-      "chapterCount": 13
+      "chapterCount": 14
     },
     {
       "id": "M9",
@@ -116,9 +116,9 @@
       "sourceIds": [
         "SRC-004"
       ],
-      "questionCount": 40,
+      "questionCount": 48,
       "coverage": "partial",
-      "chapterCount": 13
+      "chapterCount": 14
     },
     {
       "id": "M10",
@@ -127,9 +127,9 @@
       "sourceIds": [
         "SRC-011"
       ],
-      "questionCount": 40,
+      "questionCount": 48,
       "coverage": "partial",
-      "chapterCount": 16
+      "chapterCount": 17
     },
     {
       "id": "M11",
@@ -138,9 +138,9 @@
       "sourceIds": [
         "SRC-015"
       ],
-      "questionCount": 40,
+      "questionCount": 48,
       "coverage": "partial",
-      "chapterCount": 11
+      "chapterCount": 12
     },
     {
       "id": "M12",
@@ -149,9 +149,9 @@
       "sourceIds": [
         "SRC-006"
       ],
-      "questionCount": 40,
+      "questionCount": 46,
       "coverage": "partial",
-      "chapterCount": 7
+      "chapterCount": 8
     },
     {
       "id": "M13",
@@ -160,9 +160,9 @@
       "sourceIds": [
         "SRC-007"
       ],
-      "questionCount": 40,
+      "questionCount": 48,
       "coverage": "partial",
-      "chapterCount": 15
+      "chapterCount": 16
     },
     {
       "id": "M14",
@@ -171,9 +171,9 @@
       "sourceIds": [
         "SRC-016"
       ],
-      "questionCount": 40,
+      "questionCount": 48,
       "coverage": "partial",
-      "chapterCount": 14
+      "chapterCount": 15
     },
     {
       "id": "M15",
@@ -182,9 +182,9 @@
       "sourceIds": [
         "SRC-005"
       ],
-      "questionCount": 40,
+      "questionCount": 47,
       "coverage": "partial",
-      "chapterCount": 13
+      "chapterCount": 14
     }
   ],
   "chapters": [
@@ -216,7 +216,7 @@
       "id": "M1-passaggio-di-consegne",
       "subjectId": "M1",
       "name": "Passaggio di consegne",
-      "questionCount": 5
+      "questionCount": 4
     },
     {
       "id": "M1-priorita",
@@ -648,7 +648,7 @@
       "id": "M12-c-prot",
       "subjectId": "M12",
       "name": "C-Prot",
-      "questionCount": 5
+      "questionCount": 4
     },
     {
       "id": "M12-silac-e-gepav",
@@ -1381,6 +1381,96 @@
       "subjectId": "M4",
       "name": "Persona · casi e confronti",
       "questionCount": 42
+    },
+    {
+      "id": "M1-sinossi-casi",
+      "subjectId": "M1",
+      "name": "Sinossi · casi e distinzioni",
+      "questionCount": 14
+    },
+    {
+      "id": "M2-sinossi-casi",
+      "subjectId": "M2",
+      "name": "Dispensa · casi e distinzioni",
+      "questionCount": 6
+    },
+    {
+      "id": "M3-sinossi-casi",
+      "subjectId": "M3",
+      "name": "Dispensa · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M4-sinossi-casi",
+      "subjectId": "M4",
+      "name": "Sinossi · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M5-sinossi-casi",
+      "subjectId": "M5",
+      "name": "Sinossi · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M6-sinossi-casi",
+      "subjectId": "M6",
+      "name": "Sinossi · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M7-sinossi-casi",
+      "subjectId": "M7",
+      "name": "Sinossi · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M8-sinossi-casi",
+      "subjectId": "M8",
+      "name": "Sinossi · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M9-sinossi-casi",
+      "subjectId": "M9",
+      "name": "Sinossi · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M10-sinossi-casi",
+      "subjectId": "M10",
+      "name": "Sinossi · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M11-sinossi-casi",
+      "subjectId": "M11",
+      "name": "Sinossi · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M12-sinossi-casi",
+      "subjectId": "M12",
+      "name": "Dispensa · casi e distinzioni",
+      "questionCount": 7
+    },
+    {
+      "id": "M13-sinossi-casi",
+      "subjectId": "M13",
+      "name": "Dispensa · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M14-sinossi-casi",
+      "subjectId": "M14",
+      "name": "Dispensa · casi e distinzioni",
+      "questionCount": 8
+    },
+    {
+      "id": "M15-sinossi-casi",
+      "subjectId": "M15",
+      "name": "Dispensa · casi e distinzioni",
+      "questionCount": 7
     }
   ],
   "topics": [
@@ -2630,7 +2720,7 @@
       "id": "M12-c-prot-appartenenza",
       "chapterId": "M12-c-prot",
       "name": "Appartenenza",
-      "questionCount": 1
+      "questionCount": 0
     },
     {
       "id": "M12-c-prot-scarico-posta",
@@ -5522,7 +5612,7 @@
       "id": "M1-passaggio-di-consegne-nome-del-quadro-operativo",
       "chapterId": "M1-passaggio-di-consegne",
       "name": "Nome del quadro operativo",
-      "questionCount": 1
+      "questionCount": 0
     },
     {
       "id": "M1-coordinamento-degli-interventi-dialogo-con-l-utente",
@@ -7971,6 +8061,738 @@
       "chapterId": "M4-casi-persona",
       "name": "Diritto di escludere dalla dimora",
       "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-354",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Localizzazione e disponibilità",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-355",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Passaggio tra livelli NUE",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-356",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Tracciabilità della comunicazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-357",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Espansione della rete modulare",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-358",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Identificazione dei ponti",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-359",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Inibizione e conversazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-360",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Limiti del modo semplice",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-361",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Alimentazione di riserva",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-362",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Profili e timer TETRA",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-363",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Consegne e priorità sopravvenute",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-364",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Chiusura intervento e risorse",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-365",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Notizie preliminari e preavviso",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-366",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Ordine pubblico pianificato",
+      "questionCount": 1
+    },
+    {
+      "id": "M1-sinossi-casi-367",
+      "chapterId": "M1-sinossi-casi",
+      "name": "Dati di movimento e cartografia",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-sinossi-casi-32",
+      "chapterId": "M2-sinossi-casi",
+      "name": "Valutazione dinamica della forza",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-sinossi-casi-33",
+      "chapterId": "M2-sinossi-casi",
+      "name": "Sicurezza fisica e giudiziaria",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-sinossi-casi-34",
+      "chapterId": "M2-sinossi-casi",
+      "name": "Determinazione ed equilibrio",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-sinossi-casi-35",
+      "chapterId": "M2-sinossi-casi",
+      "name": "Risultati preventivi e repressivi",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-sinossi-casi-36",
+      "chapterId": "M2-sinossi-casi",
+      "name": "Emergenza stradale e prudenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M2-sinossi-casi-37",
+      "chapterId": "M2-sinossi-casi",
+      "name": "Cortesia e autorevolezza",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-sinossi-casi-44",
+      "chapterId": "M3-sinossi-casi",
+      "name": "B e complesso leggero",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-sinossi-casi-45",
+      "chapterId": "M3-sinossi-casi",
+      "name": "B96 e massa complessiva",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-sinossi-casi-46",
+      "chapterId": "M3-sinossi-casi",
+      "name": "C1 e veicolo pesante",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-sinossi-casi-47",
+      "chapterId": "M3-sinossi-casi",
+      "name": "C1E e complesso",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-sinossi-casi-48",
+      "chapterId": "M3-sinossi-casi",
+      "name": "B con rimorchio pesante",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-sinossi-casi-49",
+      "chapterId": "M3-sinossi-casi",
+      "name": "D1E e rimorchio",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-sinossi-casi-50",
+      "chapterId": "M3-sinossi-casi",
+      "name": "Neopatentati e doppio limite",
+      "questionCount": 1
+    },
+    {
+      "id": "M3-sinossi-casi-51",
+      "chapterId": "M3-sinossi-casi",
+      "name": "Potenza specifica fuori soglia",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-sinossi-casi-272",
+      "chapterId": "M4-sinossi-casi",
+      "name": "Diserzione propria e impropria",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-sinossi-casi-273",
+      "chapterId": "M4-sinossi-casi",
+      "name": "Diserzione immediata",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-sinossi-casi-274",
+      "chapterId": "M4-sinossi-casi",
+      "name": "Finalità della procurata infermità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-sinossi-casi-275",
+      "chapterId": "M4-sinossi-casi",
+      "name": "Simulazione e lesione reale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-sinossi-casi-276",
+      "chapterId": "M4-sinossi-casi",
+      "name": "Gestione e mera esecuzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-sinossi-casi-277",
+      "chapterId": "M4-sinossi-casi",
+      "name": "Falso materiale militare",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-sinossi-casi-278",
+      "chapterId": "M4-sinossi-casi",
+      "name": "Usurpazione di distintivi",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-sinossi-casi-279",
+      "chapterId": "M4-sinossi-casi",
+      "name": "Offesa estranea al servizio",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-sinossi-casi-44",
+      "chapterId": "M5-sinossi-casi",
+      "name": "Non eccedenza e mansioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-sinossi-casi-45",
+      "chapterId": "M5-sinossi-casi",
+      "name": "Risposta asincrona",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-sinossi-casi-46",
+      "chapterId": "M5-sinossi-casi",
+      "name": "Oggetti censiti e chiavi",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-sinossi-casi-47",
+      "chapterId": "M5-sinossi-casi",
+      "name": "Protocollo delle comunicazioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-sinossi-casi-48",
+      "chapterId": "M5-sinossi-casi",
+      "name": "Connessione tra fatti",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-sinossi-casi-49",
+      "chapterId": "M5-sinossi-casi",
+      "name": "Variazione del provvedimento",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-sinossi-casi-50",
+      "chapterId": "M5-sinossi-casi",
+      "name": "Denunce e oggetti non censiti",
+      "questionCount": 1
+    },
+    {
+      "id": "M5-sinossi-casi-51",
+      "chapterId": "M5-sinossi-casi",
+      "name": "Consultazione e statistica",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-sinossi-casi-41",
+      "chapterId": "M6-sinossi-casi",
+      "name": "Delegato e delegante",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-sinossi-casi-42",
+      "chapterId": "M6-sinossi-casi",
+      "name": "Rapporti sorti da decreto decaduto",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-sinossi-casi-43",
+      "chapterId": "M6-sinossi-casi",
+      "name": "Stato di guerra e poteri",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-sinossi-casi-44",
+      "chapterId": "M6-sinossi-casi",
+      "name": "Referendum e legislazione negativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-sinossi-casi-45",
+      "chapterId": "M6-sinossi-casi",
+      "name": "Regolamenti parlamentari",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-sinossi-casi-46",
+      "chapterId": "M6-sinossi-casi",
+      "name": "Luogo e preavviso",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-sinossi-casi-47",
+      "chapterId": "M6-sinossi-casi",
+      "name": "Leva e sospensione",
+      "questionCount": 1
+    },
+    {
+      "id": "M6-sinossi-casi-48",
+      "chapterId": "M6-sinossi-casi",
+      "name": "Ordinamento militare e Costituzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-sinossi-casi-39",
+      "chapterId": "M7-sinossi-casi",
+      "name": "Autoritarietà ed esecutorietà",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-sinossi-casi-40",
+      "chapterId": "M7-sinossi-casi",
+      "name": "Autorizzazione e concessione",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-sinossi-casi-41",
+      "chapterId": "M7-sinossi-casi",
+      "name": "Obbligo e divieto",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-sinossi-casi-42",
+      "chapterId": "M7-sinossi-casi",
+      "name": "Incompetenza amministrativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-sinossi-casi-43",
+      "chapterId": "M7-sinossi-casi",
+      "name": "Finalità del potere",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-sinossi-casi-44",
+      "chapterId": "M7-sinossi-casi",
+      "name": "Riesame e ricorso gerarchico",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-sinossi-casi-45",
+      "chapterId": "M7-sinossi-casi",
+      "name": "Atto non definitivo e gerarchia",
+      "questionCount": 1
+    },
+    {
+      "id": "M7-sinossi-casi-46",
+      "chapterId": "M7-sinossi-casi",
+      "name": "Alternatività dei ricorsi",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-sinossi-casi-41",
+      "chapterId": "M8-sinossi-casi",
+      "name": "Domanda e dichiarazione nel verbale",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-sinossi-casi-42",
+      "chapterId": "M8-sinossi-casi",
+      "name": "Consultazione di note",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-sinossi-casi-43",
+      "chapterId": "M8-sinossi-casi",
+      "name": "Rifiuto di firma",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-sinossi-casi-44",
+      "chapterId": "M8-sinossi-casi",
+      "name": "Operazioni rinviate",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-sinossi-casi-45",
+      "chapterId": "M8-sinossi-casi",
+      "name": "Tempo di acquisizione della notizia",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-sinossi-casi-46",
+      "chapterId": "M8-sinossi-casi",
+      "name": "Urgenza e forma della comunicazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-sinossi-casi-47",
+      "chapterId": "M8-sinossi-casi",
+      "name": "Contenuto informativo al PM",
+      "questionCount": 1
+    },
+    {
+      "id": "M8-sinossi-casi-48",
+      "chapterId": "M8-sinossi-casi",
+      "name": "Vaglio preventivo e convalida",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-sinossi-casi-41",
+      "chapterId": "M9-sinossi-casi",
+      "name": "Fasi del ricordo",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-sinossi-casi-42",
+      "chapterId": "M9-sinossi-casi",
+      "name": "Sovrapposizione di informazioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-sinossi-casi-43",
+      "chapterId": "M9-sinossi-casi",
+      "name": "Controllo del racconto cognitivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-sinossi-casi-44",
+      "chapterId": "M9-sinossi-casi",
+      "name": "Chiusura e fasi successive",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-sinossi-casi-45",
+      "chapterId": "M9-sinossi-casi",
+      "name": "Indicatori e prova",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-sinossi-casi-46",
+      "chapterId": "M9-sinossi-casi",
+      "name": "Falso positivo nella valutazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-sinossi-casi-47",
+      "chapterId": "M9-sinossi-casi",
+      "name": "Tempo e timbro vocale",
+      "questionCount": 1
+    },
+    {
+      "id": "M9-sinossi-casi-48",
+      "chapterId": "M9-sinossi-casi",
+      "name": "Prossemica e contenuto",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-sinossi-casi-41",
+      "chapterId": "M10-sinossi-casi",
+      "name": "Modello delle quattro A",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-sinossi-casi-42",
+      "chapterId": "M10-sinossi-casi",
+      "name": "Accoglienza e ascolto",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-sinossi-casi-43",
+      "chapterId": "M10-sinossi-casi",
+      "name": "Informazione e protezione",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-sinossi-casi-44",
+      "chapterId": "M10-sinossi-casi",
+      "name": "Ripetizione non necessaria del racconto",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-sinossi-casi-45",
+      "chapterId": "M10-sinossi-casi",
+      "name": "Segnalazione di terzi",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-sinossi-casi-46",
+      "chapterId": "M10-sinossi-casi",
+      "name": "1522 e richiesta urgente",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-sinossi-casi-47",
+      "chapterId": "M10-sinossi-casi",
+      "name": "Informazione su evasione",
+      "questionCount": 1
+    },
+    {
+      "id": "M10-sinossi-casi-48",
+      "chapterId": "M10-sinossi-casi",
+      "name": "Sharenting",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-sinossi-casi-41",
+      "chapterId": "M11-sinossi-casi",
+      "name": "Dati del flusso in entrata",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-sinossi-casi-42",
+      "chapterId": "M11-sinossi-casi",
+      "name": "Dati del flusso in uscita",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-sinossi-casi-43",
+      "chapterId": "M11-sinossi-casi",
+      "name": "Registrazione e segnatura",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-sinossi-casi-44",
+      "chapterId": "M11-sinossi-casi",
+      "name": "Acquisizione e protocollo",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-sinossi-casi-45",
+      "chapterId": "M11-sinossi-casi",
+      "name": "Classificazione documentale",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-sinossi-casi-46",
+      "chapterId": "M11-sinossi-casi",
+      "name": "Spedizione e interoperabilità",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-sinossi-casi-47",
+      "chapterId": "M11-sinossi-casi",
+      "name": "Responsabile AOO",
+      "questionCount": 1
+    },
+    {
+      "id": "M11-sinossi-casi-48",
+      "chapterId": "M11-sinossi-casi",
+      "name": "Elementi della segnatura",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sinossi-casi-41",
+      "chapterId": "M12-sinossi-casi",
+      "name": "Firma e compilazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sinossi-casi-42",
+      "chapterId": "M12-sinossi-casi",
+      "name": "Assegnazione dei ruoli",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sinossi-casi-43",
+      "chapterId": "M12-sinossi-casi",
+      "name": "Indisponibilità e programmazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sinossi-casi-44",
+      "chapterId": "M12-sinossi-casi",
+      "name": "Elementi precaricati dell'ordine",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sinossi-casi-45",
+      "chapterId": "M12-sinossi-casi",
+      "name": "Profilo e versioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sinossi-casi-46",
+      "chapterId": "M12-sinossi-casi",
+      "name": "Storico degli eventi",
+      "questionCount": 1
+    },
+    {
+      "id": "M12-sinossi-casi-47",
+      "chapterId": "M12-sinossi-casi",
+      "name": "Controlli da remoto",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-sinossi-casi-41",
+      "chapterId": "M13-sinossi-casi",
+      "name": "Riforma del 1816 e controllo",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-sinossi-casi-42",
+      "chapterId": "M13-sinossi-casi",
+      "name": "Duplice dipendenza storica",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-sinossi-casi-43",
+      "chapterId": "M13-sinossi-casi",
+      "name": "Apertura del reclutamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-sinossi-casi-44",
+      "chapterId": "M13-sinossi-casi",
+      "name": "Legioni territoriali e formazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-sinossi-casi-45",
+      "chapterId": "M13-sinossi-casi",
+      "name": "Squadroni del 1848",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-sinossi-casi-46",
+      "chapterId": "M13-sinossi-casi",
+      "name": "Memoria di Pastrengo",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-sinossi-casi-47",
+      "chapterId": "M13-sinossi-casi",
+      "name": "Continuità dei compiti",
+      "questionCount": 1
+    },
+    {
+      "id": "M13-sinossi-casi-48",
+      "chapterId": "M13-sinossi-casi",
+      "name": "Scapaccino e contesto",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-sinossi-casi-41",
+      "chapterId": "M14-sinossi-casi",
+      "name": "Complementarità dei ruoli",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-sinossi-casi-42",
+      "chapterId": "M14-sinossi-casi",
+      "name": "Simmetria e collaborazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-sinossi-casi-43",
+      "chapterId": "M14-sinossi-casi",
+      "name": "Empatia e imparzialità",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-sinossi-casi-44",
+      "chapterId": "M14-sinossi-casi",
+      "name": "Spirale comunicativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-sinossi-casi-45",
+      "chapterId": "M14-sinossi-casi",
+      "name": "Costruzione della fiducia",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-sinossi-casi-46",
+      "chapterId": "M14-sinossi-casi",
+      "name": "Frammentazione organizzativa",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-sinossi-casi-47",
+      "chapterId": "M14-sinossi-casi",
+      "name": "Leadership e ascolto",
+      "questionCount": 1
+    },
+    {
+      "id": "M14-sinossi-casi-48",
+      "chapterId": "M14-sinossi-casi",
+      "name": "Autorevolezza e ruolo",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-sinossi-casi-41",
+      "chapterId": "M15-sinossi-casi",
+      "name": "Neurochimica dell'apprendimento",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-sinossi-casi-42",
+      "chapterId": "M15-sinossi-casi",
+      "name": "Connessioni e pratica",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-sinossi-casi-43",
+      "chapterId": "M15-sinossi-casi",
+      "name": "Modalità e compito",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-sinossi-casi-44",
+      "chapterId": "M15-sinossi-casi",
+      "name": "Semaforo emotivo giallo",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-sinossi-casi-45",
+      "chapterId": "M15-sinossi-casi",
+      "name": "Rientro dopo sovraccarico",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-sinossi-casi-46",
+      "chapterId": "M15-sinossi-casi",
+      "name": "Fatti e debriefing",
+      "questionCount": 1
+    },
+    {
+      "id": "M15-sinossi-casi-47",
+      "chapterId": "M15-sinossi-casi",
+      "name": "Aggiornamento e schemi personali",
+      "questionCount": 1
     }
   ],
   "sources": [
@@ -8039,10 +8861,11 @@
       "file": "informatica-arma.docx",
       "sha256": "a2b3996ced5d380f913f5fddf4dff291d4a8981278a0e1956419ca07641430d1",
       "format": "docx",
-      "unitCount": 1936,
+      "unitCount": 1962,
       "unitType": "docxParagraph",
       "duplicateUploads": [],
-      "contentEditionNote": "Documento 2025, aggiornamento agosto 2026"
+      "contentEditionNote": "Documento 2025, aggiornamento agosto 2026",
+      "readableFile": "informatica-arma.html"
     },
     {
       "id": "SRC-007",
@@ -8050,10 +8873,11 @@
       "file": "storia-arma.docx",
       "sha256": "ef255f4502d09ff0d40e6d0d04cf3c21ed72cb19a0229ee714d97817314f7614",
       "format": "docx",
-      "unitCount": 308,
+      "unitCount": 381,
       "unitType": "docxParagraph",
       "duplicateUploads": [],
-      "contentEditionNote": null
+      "contentEditionNote": null,
+      "readableFile": "storia-arma.html"
     },
     {
       "id": "SRC-008",
@@ -8331,5 +9155,16 @@
   "coverageNote": "Banca ampliata con copertura parziale: dispense allegate e approfondimenti ufficiali online identificati per Centrale operativa. Non è una banca ufficiale e non sono state trasformate tutte le pagine in domande.",
   "uploadedSourceCount": 25,
   "officialWebSourceCount": 3,
-  "duplicateUploadCount": 3
+  "duplicateUploadCount": 3,
+  "retiredQuestionAliases": {
+    "CC-M1-151": "CC-M1-006",
+    "CC-M12-009": "CC-M12-008"
+  },
+  "lastExpansion": {
+    "version": "4.1.0",
+    "newQuestions": 122,
+    "revisedQuestions": 48,
+    "source": "uploaded_material",
+    "focus": "sinossi e casi applicativi"
+  }
 }
