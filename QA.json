@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "bankVersion": "4.1.0",
+  "bankVersion": "4.1.1",
   "questions": 1259,
   "cycle": {
     "count": 1259,
@@ -22,7 +22,8 @@
   "revisedQuestions": 48,
   "mergedQuestions": 2,
   "newDifficulty": {
-    "3": 122
+    "2": 36,
+    "3": 86
   },
   "databaseChecks": [
     "1259 ID e testi normalizzati unici",
