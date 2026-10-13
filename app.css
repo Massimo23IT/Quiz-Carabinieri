@@ -69,3 +69,5 @@ html{-webkit-text-size-adjust:100%;text-size-adjust:100%}body{overscroll-behavio
 
 .hero{height:360px}
 @media(max-width:600px){.hero{height:260px}}
+
+.cyclePanel{margin:14px 0;padding:16px;background:#edf5ff;border:1px solid #d8e7f8;border-radius:16px}.cyclePanel b,.cyclePanel small{display:block}.cyclePanel small{line-height:1.5;color:#536174;margin:8px 0 12px}.errorItem{width:100%;text-align:left;font:inherit;color:inherit}.errorItem small{display:block;margin-top:6px;color:#536174}#errorModule{display:block;width:100%;font:inherit;padding:12px;border:1px solid #d2dae6;border-radius:12px;margin:8px 0 16px;background:white}

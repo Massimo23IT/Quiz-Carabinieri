@@ -1,7 +1,7 @@
 {
   "name": "Quiz Carabinieri",
   "short_name": "Quiz CC",
-  "description": "933 domande in 15 materie, capitoli, dispense e ripasso intelligente.",
+  "description": "1139 domande, sessioni senza ripetizioni e recupero degli errori.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

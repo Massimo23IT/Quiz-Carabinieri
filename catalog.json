@@ -1,12 +1,12 @@
 {
   "schemaVersion": "2.1",
-  "bankVersion": "3.2.0",
+  "bankVersion": "4.0.0",
   "language": "it",
-  "questionCount": 933,
+  "questionCount": 1139,
   "subjectCount": 15,
-  "sourceCount": 20,
-  "chapterCount": 193,
-  "topicCount": 892,
+  "sourceCount": 28,
+  "chapterCount": 199,
+  "topicCount": 1098,
   "subjects": [
     {
       "id": "M1",
@@ -50,11 +50,19 @@
       "name": "Diritto penale e penale militare",
       "sourceIds": [
         "SRC-001",
-        "SRC-012"
+        "SRC-012",
+        "SRC-021",
+        "SRC-022",
+        "SRC-023",
+        "SRC-024",
+        "SRC-025",
+        "SRC-026",
+        "SRC-027",
+        "SRC-028"
       ],
-      "questionCount": 65,
+      "questionCount": 271,
       "coverage": "partial",
-      "chapterCount": 8
+      "chapterCount": 14
     },
     {
       "id": "M5",
@@ -1337,6 +1345,42 @@
       "subjectId": "M1",
       "name": "Consolle CN2 e alimentazione",
       "questionCount": 14
+    },
+    {
+      "id": "M4-casi-struttura",
+      "subjectId": "M4",
+      "name": "Struttura del reato · casi e confronti",
+      "questionCount": 30
+    },
+    {
+      "id": "M4-casi-scriminanti",
+      "subjectId": "M4",
+      "name": "Cause di esclusione · casi e confronti",
+      "questionCount": 24
+    },
+    {
+      "id": "M4-casi-pa",
+      "subjectId": "M4",
+      "name": "Pubblica amministrazione · casi e confronti",
+      "questionCount": 36
+    },
+    {
+      "id": "M4-casi-giustizia",
+      "subjectId": "M4",
+      "name": "Amministrazione della giustizia · casi e confronti",
+      "questionCount": 34
+    },
+    {
+      "id": "M4-casi-patrimonio",
+      "subjectId": "M4",
+      "name": "Patrimonio · casi e confronti",
+      "questionCount": 40
+    },
+    {
+      "id": "M4-casi-persona",
+      "subjectId": "M4",
+      "name": "Persona · casi e confronti",
+      "questionCount": 42
     }
   ],
   "topics": [
@@ -6691,6 +6735,1242 @@
       "chapterId": "M1-sicurezza-delle-apparecchiature",
       "name": "LPS componenti",
       "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-66",
+      "chapterId": "M4-casi-struttura",
+      "name": "Precetto e sanzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-67",
+      "chapterId": "M4-casi-struttura",
+      "name": "Norma imperfetta",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-68",
+      "chapterId": "M4-casi-struttura",
+      "name": "Norma in bianco",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-69",
+      "chapterId": "M4-casi-struttura",
+      "name": "Determinatezza e tassatività",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-70",
+      "chapterId": "M4-casi-struttura",
+      "name": "Analogia sfavorevole",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-71",
+      "chapterId": "M4-casi-struttura",
+      "name": "Successione delle leggi",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-72",
+      "chapterId": "M4-casi-struttura",
+      "name": "Materialità del fatto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-73",
+      "chapterId": "M4-casi-struttura",
+      "name": "Offensività",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-74",
+      "chapterId": "M4-casi-struttura",
+      "name": "Responsabilità personale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-75",
+      "chapterId": "M4-casi-struttura",
+      "name": "Pene pecuniarie",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-76",
+      "chapterId": "M4-casi-struttura",
+      "name": "Imputazione soggettiva",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-77",
+      "chapterId": "M4-casi-struttura",
+      "name": "Momento dell’imputabilità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-78",
+      "chapterId": "M4-casi-struttura",
+      "name": "Concorso eventuale e necessario",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-79",
+      "chapterId": "M4-casi-struttura",
+      "name": "Persona offesa e danneggiato",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-80",
+      "chapterId": "M4-casi-struttura",
+      "name": "Oggetto giuridico e materiale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-81",
+      "chapterId": "M4-casi-struttura",
+      "name": "Pluralità dei beni protetti",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-82",
+      "chapterId": "M4-casi-struttura",
+      "name": "Tipicità e antigiuridicità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-83",
+      "chapterId": "M4-casi-struttura",
+      "name": "Condotta omissiva",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-84",
+      "chapterId": "M4-casi-struttura",
+      "name": "Omissione impropria",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-85",
+      "chapterId": "M4-casi-struttura",
+      "name": "Obbligo giuridico di impedimento",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-86",
+      "chapterId": "M4-casi-struttura",
+      "name": "Pericolo concreto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-87",
+      "chapterId": "M4-casi-struttura",
+      "name": "Danno e pericolo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-88",
+      "chapterId": "M4-casi-struttura",
+      "name": "Mera condotta ed evento",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-89",
+      "chapterId": "M4-casi-struttura",
+      "name": "Concause",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-90",
+      "chapterId": "M4-casi-struttura",
+      "name": "Causa sopravvenuta autonoma",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-91",
+      "chapterId": "M4-casi-struttura",
+      "name": "Componenti del dolo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-92",
+      "chapterId": "M4-casi-struttura",
+      "name": "Finalità specifica",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-93",
+      "chapterId": "M4-casi-struttura",
+      "name": "Dolo eventuale e colpa cosciente",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-94",
+      "chapterId": "M4-casi-struttura",
+      "name": "Colpa specifica",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-struttura-95",
+      "chapterId": "M4-casi-struttura",
+      "name": "Imperizia e colpa generica",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-96",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Scriminante e non punibilità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-97",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Consenso valido",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-98",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Revoca del consenso",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-99",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Titolarità del consenso",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-100",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Arresto legittimo e dovere",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-101",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Fonte del dovere",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-102",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Ordine manifestamente criminoso",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-103",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Difesa di altri",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-104",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Attualità e vendetta",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-105",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Proporzione e necessità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-106",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Difesa domiciliare e beni",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-107",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Luoghi della difesa domiciliare",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-108",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Sussidiarietà dell’articolo 53",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-109",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Finalità del pubblico ufficiale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-110",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Necessità della coazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-111",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Assistenza richiesta dal pubblico ufficiale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-112",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Stato di necessità e danno",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-113",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Aggressore e terzo innocente",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-114",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Pericolo volontariamente causato",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-115",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Dovere di esporsi al pericolo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-116",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Necessità determinata da minaccia",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-117",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Superamento colposo dei limiti",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-118",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Eccesso colposo e assenza originaria della scriminante",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-scriminanti-119",
+      "chapterId": "M4-casi-scriminanti",
+      "name": "Inevitabilità nello stato di necessità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-120",
+      "chapterId": "M4-casi-pa",
+      "name": "Qualifica funzionale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-121",
+      "chapterId": "M4-casi-pa",
+      "name": "Qualifica temporanea",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-122",
+      "chapterId": "M4-casi-pa",
+      "name": "Potere certificativo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-123",
+      "chapterId": "M4-casi-pa",
+      "name": "Servizio pubblico e opera materiale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-124",
+      "chapterId": "M4-casi-pa",
+      "name": "Funzione e servizio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-125",
+      "chapterId": "M4-casi-pa",
+      "name": "Disponibilità funzionale nel peculato",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-126",
+      "chapterId": "M4-casi-pa",
+      "name": "Possesso per ragione d’ufficio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-127",
+      "chapterId": "M4-casi-pa",
+      "name": "Peculato d’uso",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-128",
+      "chapterId": "M4-casi-pa",
+      "name": "Restituzione differita",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-129",
+      "chapterId": "M4-casi-pa",
+      "name": "Indebita destinazione e discrezionalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-130",
+      "chapterId": "M4-casi-pa",
+      "name": "Evento e intenzionalità nell’articolo 314-bis",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-131",
+      "chapterId": "M4-casi-pa",
+      "name": "Abuso di qualità e di poteri",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-132",
+      "chapterId": "M4-casi-pa",
+      "name": "Promessa nella concussione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-133",
+      "chapterId": "M4-casi-pa",
+      "name": "Utilità non patrimoniale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-134",
+      "chapterId": "M4-casi-pa",
+      "name": "Costrizione e inganno",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-135",
+      "chapterId": "M4-casi-pa",
+      "name": "Induzione e costrizione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-136",
+      "chapterId": "M4-casi-pa",
+      "name": "Privato nell’induzione indebita",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-137",
+      "chapterId": "M4-casi-pa",
+      "name": "Accordo e abuso",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-138",
+      "chapterId": "M4-casi-pa",
+      "name": "Corruzione susseguente",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-139",
+      "chapterId": "M4-casi-pa",
+      "name": "Concorso necessario nella corruzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-140",
+      "chapterId": "M4-casi-pa",
+      "name": "Offerta non accettata",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-141",
+      "chapterId": "M4-casi-pa",
+      "name": "Regali e patto corruttivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-142",
+      "chapterId": "M4-casi-pa",
+      "name": "Atto contrario ai doveri",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-143",
+      "chapterId": "M4-casi-pa",
+      "name": "Versioni della fattispecie",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-144",
+      "chapterId": "M4-casi-pa",
+      "name": "Utilizzazione e rivelazione di segreti",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-145",
+      "chapterId": "M4-casi-pa",
+      "name": "Agevolazione colposa del segreto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-146",
+      "chapterId": "M4-casi-pa",
+      "name": "Omissione e risposta motivata",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-147",
+      "chapterId": "M4-casi-pa",
+      "name": "Decorrenza del termine",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-148",
+      "chapterId": "M4-casi-pa",
+      "name": "Indifferibilità dell’atto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-149",
+      "chapterId": "M4-casi-pa",
+      "name": "Richiesta qualificata nell’articolo 329",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-150",
+      "chapterId": "M4-casi-pa",
+      "name": "Condizionamento futuro",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-151",
+      "chapterId": "M4-casi-pa",
+      "name": "Violenza sull’oggetto dell’atto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-152",
+      "chapterId": "M4-casi-pa",
+      "name": "Disobbedienza passiva",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-153",
+      "chapterId": "M4-casi-pa",
+      "name": "Contesto dell’oltraggio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-154",
+      "chapterId": "M4-casi-pa",
+      "name": "Nesso funzionale nell’oltraggio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-pa-155",
+      "chapterId": "M4-casi-pa",
+      "name": "Riparazione nell’oltraggio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-156",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Conoscenza qualificata del reato",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-157",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Denuncia senza ritardo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-158",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Omissione dolosa della denuncia",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-159",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Simulazione materiale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-160",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Denuncia di reato inesistente",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-161",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Idoneità a provocare indagini",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-162",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Calunnia anonima",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-163",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Tracce contro un innocente",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-164",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Errore sulla colpevolezza",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-165",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Accusa formulata come dubbio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-166",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Calunnia e beni protetti",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-167",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Falsa autoaccusa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-168",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Testimonianza reticente",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-169",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Conoscenza del testimone",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-170",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Modalità di conoscenza",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-171",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Offeso e danneggiato nella testimonianza falsa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-172",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Rifiuto di testimoniare",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-173",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Ritrattazione completa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-174",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Utilizzazione concreta della deposizione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-175",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Concorso nel fatto presupposto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-176",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Reati della stessa specie",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-177",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Efficacia dell’aiuto personale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-178",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Omissione della denuncia e favoreggiamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-179",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Clausola del favoreggiamento reale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-180",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Prezzo del reato",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-181",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Profitto e prodotto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-182",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Lucro nel favoreggiamento reale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-183",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Legalità della detenzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-184",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Arresti domiciliari ed evasione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-185",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Motivo dell’evasione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-186",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Procurare e agevolare",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-187",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Consumazione della procurata evasione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-188",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Colpa e nesso del custode",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-giustizia-189",
+      "chapterId": "M4-casi-giustizia",
+      "name": "Custode doloso e colposo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-190",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Energia come cosa mobile",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-191",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Detentore e proprietario",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-192",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Sottrazione senza dominio autonomo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-193",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Profitto per un terzo nel furto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-194",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Privata dimora nel furto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-195",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Strappo e violenza alla persona",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-196",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Rapina propria",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-197",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Rapina impropria",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-198",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Violenza a persona diversa dal detentore",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-199",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Cooperazione nell’estorsione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-200",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Disposizione patrimoniale omissiva",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-201",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Diritti e beni immobili nell’estorsione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-202",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Evento dell’estorsione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-203",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Pubblico agente e costrizione patrimoniale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-204",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Artifizio e raggiro",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-205",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Raggiro e costrizione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-206",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Catena causale della truffa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-207",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Truffa tentata",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-208",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Insolvenza preesistente nascosta",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-209",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Inadempimento sopravvenuto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-210",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Dissimulazione e raggiri",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-211",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Incapace non interdetto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-212",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Induzione dell’incapace e danno",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-213",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Vulnerabilità riconoscibile",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-214",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Possesso anteriore della cosa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-215",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Atto di dominio sul bene affidato",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-216",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Somme affidate all’amministratore",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-217",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Finalità del riscatto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-218",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Mancato pagamento del riscatto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-219",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Danneggiamento funzionale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-220",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Oggetto del danneggiamento",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-221",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Danno ed elemento soggettivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-222",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Usura sotto soglia",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-223",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Costo effettivo del credito",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-224",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Mediazione usuraria",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-225",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Ricettatore e autore del reato presupposto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-226",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Accertamento del reato presupposto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-227",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Autore presupposto non imputabile",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-228",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Riciclaggio e ostacolo all’origine",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-patrimonio-229",
+      "chapterId": "M4-casi-patrimonio",
+      "name": "Profitto personale nel riciclaggio",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-230",
+      "chapterId": "M4-casi-persona",
+      "name": "Omicidio e causalità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-231",
+      "chapterId": "M4-casi-persona",
+      "name": "Omicidio a dolo diretto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-232",
+      "chapterId": "M4-casi-persona",
+      "name": "Omicidio colposo e intenzione lesiva",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-233",
+      "chapterId": "M4-casi-persona",
+      "name": "Omicidio oltre l’intenzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-234",
+      "chapterId": "M4-casi-persona",
+      "name": "Premeditazione e preterintenzione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-235",
+      "chapterId": "M4-casi-persona",
+      "name": "Desistenza e recesso attivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-236",
+      "chapterId": "M4-casi-persona",
+      "name": "Tentativo e colpa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-237",
+      "chapterId": "M4-casi-persona",
+      "name": "Percossa senza malattia",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-238",
+      "chapterId": "M4-casi-persona",
+      "name": "Assorbimento delle percosse",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-239",
+      "chapterId": "M4-casi-persona",
+      "name": "Malattia anche psichica",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-240",
+      "chapterId": "M4-casi-persona",
+      "name": "Momento delle lesioni",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-241",
+      "chapterId": "M4-casi-persona",
+      "name": "Indebolimento e perdita di un senso",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-242",
+      "chapterId": "M4-casi-persona",
+      "name": "Incapacità oltre quaranta giorni",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-243",
+      "chapterId": "M4-casi-persona",
+      "name": "Sfregio permanente del viso",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-244",
+      "chapterId": "M4-casi-persona",
+      "name": "Lesioni da violazione cautelare",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-245",
+      "chapterId": "M4-casi-persona",
+      "name": "Pluralità nella rissa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-246",
+      "chapterId": "M4-casi-persona",
+      "name": "Aggressione unilaterale e rissa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-247",
+      "chapterId": "M4-casi-persona",
+      "name": "Rissa senza feriti",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-248",
+      "chapterId": "M4-casi-persona",
+      "name": "Evento successivo alla rissa",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-249",
+      "chapterId": "M4-casi-persona",
+      "name": "Autonomia dell’omicidio stradale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-250",
+      "chapterId": "M4-casi-persona",
+      "name": "Ambito nautico",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-251",
+      "chapterId": "M4-casi-persona",
+      "name": "Fuga dopo omicidio stradale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-252",
+      "chapterId": "M4-casi-persona",
+      "name": "Concause nell’omicidio stradale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-253",
+      "chapterId": "M4-casi-persona",
+      "name": "Lesioni stradali e gravità",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-254",
+      "chapterId": "M4-casi-persona",
+      "name": "Fanciullo smarrito",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-255",
+      "chapterId": "M4-casi-persona",
+      "name": "Soccorso senza lesione finale",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-256",
+      "chapterId": "M4-casi-persona",
+      "name": "Ingiuria storica e diffamazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-257",
+      "chapterId": "M4-casi-persona",
+      "name": "Comunicazione a più persone",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-258",
+      "chapterId": "M4-casi-persona",
+      "name": "Pubblicità della diffamazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-259",
+      "chapterId": "M4-casi-persona",
+      "name": "Libertà residua del detenuto",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-260",
+      "chapterId": "M4-casi-persona",
+      "name": "Durata del sequestro",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-261",
+      "chapterId": "M4-casi-persona",
+      "name": "Sequestro comune ed estorsivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-262",
+      "chapterId": "M4-casi-persona",
+      "name": "Costrizione determinata",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-263",
+      "chapterId": "M4-casi-persona",
+      "name": "Violenza privata senza risultato costrittivo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-264",
+      "chapterId": "M4-casi-persona",
+      "name": "Violenza impropria",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-265",
+      "chapterId": "M4-casi-persona",
+      "name": "Minaccia e male indipendente dall’autore",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-266",
+      "chapterId": "M4-casi-persona",
+      "name": "Minaccia riferita da un terzo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-267",
+      "chapterId": "M4-casi-persona",
+      "name": "Minaccia e violenza privata",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-268",
+      "chapterId": "M4-casi-persona",
+      "name": "Domicilio temporaneo",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-269",
+      "chapterId": "M4-casi-persona",
+      "name": "Uso saltuario dell’abitazione",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-270",
+      "chapterId": "M4-casi-persona",
+      "name": "Permanenza contro la volontà",
+      "questionCount": 1
+    },
+    {
+      "id": "M4-casi-persona-271",
+      "chapterId": "M4-casi-persona",
+      "name": "Diritto di escludere dalla dimora",
+      "questionCount": 1
     }
   ],
   "sources": [
@@ -6938,6 +8218,110 @@
       "publisher": "ETSI",
       "retrievedAt": "2026-10-07",
       "snapshotNote": "Scheda di riferimento editoriale, non copia integrale della pagina online"
+    },
+    {
+      "id": "SRC-021",
+      "title": "La struttura del reato · slide",
+      "file": "penale-struttura.pptx",
+      "readableFile": "penale-struttura.html",
+      "sha256": "8f6dd5cebb49c49f6208d51799279b421facea5a1c72648e9a635d7a676b6fa2",
+      "format": "pptx",
+      "unitCount": 68,
+      "unitType": "slide",
+      "duplicateUploads": [],
+      "uploadedName": "1 Tesi DP - La struttura del reato.pptx",
+      "contentEditionNote": "Presentazione allegata il 13 ottobre 2026"
+    },
+    {
+      "id": "SRC-022",
+      "title": "Cause di esclusione del reato · slide",
+      "file": "penale-scriminanti.pptx",
+      "readableFile": "penale-scriminanti.html",
+      "sha256": "cc7963110f566fa56fd4d87f3d57b0453d6c39f033263aab3156c0b9dc399e0d",
+      "format": "pptx",
+      "unitCount": 29,
+      "unitType": "slide",
+      "duplicateUploads": [],
+      "uploadedName": "2 Tesi DP - Cause di esclusione del reato.pptx",
+      "contentEditionNote": "Presentazione allegata il 13 ottobre 2026"
+    },
+    {
+      "id": "SRC-023",
+      "title": "Delitti contro la pubblica amministrazione · slide",
+      "file": "penale-pa.pptx",
+      "readableFile": "penale-pa.html",
+      "sha256": "a5bc328f46bac9f6ca918b967f3f8fca6c5746d974431f4754cd532b7d5ff3f9",
+      "format": "pptx",
+      "unitCount": 64,
+      "unitType": "slide",
+      "duplicateUploads": [],
+      "uploadedName": "3 Tesi DP - I delitti contro la pubblica amministrazione----.pptx",
+      "contentEditionNote": "Presentazione allegata il 13 ottobre 2026"
+    },
+    {
+      "id": "SRC-024",
+      "title": "Delitti contro l’amministrazione della giustizia · slide",
+      "file": "penale-giustizia.pptx",
+      "readableFile": "penale-giustizia.html",
+      "sha256": "3ef91a71aac018391c8eb02619ca7fc03d373d4ee74bd016925dc759918e3900",
+      "format": "pptx",
+      "unitCount": 68,
+      "unitType": "slide",
+      "duplicateUploads": [],
+      "uploadedName": "4 Tesi DP - I delitti contro l'amministrazione della giustizia.pptx",
+      "contentEditionNote": "Presentazione allegata il 13 ottobre 2026"
+    },
+    {
+      "id": "SRC-025",
+      "title": "Delitti contro il patrimonio · slide",
+      "file": "penale-patrimonio.pptx",
+      "readableFile": "penale-patrimonio.html",
+      "sha256": "b6e886adf633aa4e56742d055b4637ba756ac502644673431c0bc407916fe9e6",
+      "format": "pptx",
+      "unitCount": 72,
+      "unitType": "slide",
+      "duplicateUploads": [],
+      "uploadedName": "5 Tesi DP - I delitti contro il patrimonio.pptx",
+      "contentEditionNote": "Presentazione allegata il 13 ottobre 2026"
+    },
+    {
+      "id": "SRC-026",
+      "title": "Pubblica amministrazione · versione alternativa · slide",
+      "file": "penale-pa-alternativa.pptx",
+      "readableFile": "penale-pa-alternativa.html",
+      "sha256": "2db8339fd9bbcb5eb1796eb26cad54f97f97593f2638058eb35192e0f30af62f",
+      "format": "pptx",
+      "unitCount": 67,
+      "unitType": "slide",
+      "duplicateUploads": [],
+      "uploadedName": "5 Tesi DP - I delitti contro la pubblica amministrazione----.pptx",
+      "contentEditionNote": "Presentazione allegata il 13 ottobre 2026 · Versione alternativa: alcuni riferimenti differiscono dalla presentazione principale"
+    },
+    {
+      "id": "SRC-027",
+      "title": "Patrimonio · versione alternativa · slide",
+      "file": "penale-patrimonio-alternativa.pptx",
+      "readableFile": "penale-patrimonio-alternativa.html",
+      "sha256": "b22630c7ff64b914e4f59df5e38eaaed2725a8cbfbe8aeedff6f467e018fdc25",
+      "format": "pptx",
+      "unitCount": 67,
+      "unitType": "slide",
+      "duplicateUploads": [],
+      "uploadedName": "7 Tesi DP - I delitti contro il patrimonio.pptx",
+      "contentEditionNote": "Presentazione allegata il 13 ottobre 2026 · Versione alternativa: alcuni riferimenti differiscono dalla presentazione principale"
+    },
+    {
+      "id": "SRC-028",
+      "title": "Delitti contro la persona · slide",
+      "file": "penale-persona.pptx",
+      "readableFile": "penale-persona.html",
+      "sha256": "66a52cbdfe372e203531aa6f1a10230a81c56e19605d79160e055cfdb53a5b35",
+      "format": "pptx",
+      "unitCount": 75,
+      "unitType": "slide",
+      "duplicateUploads": [],
+      "uploadedName": "8 Tesi DP - I delitti contro la persona.pptx",
+      "contentEditionNote": "Presentazione allegata il 13 ottobre 2026"
     }
   ],
   "correctedLegacyIds": [
@@ -6945,7 +8329,7 @@
     "CC-M5-009"
   ],
   "coverageNote": "Banca ampliata con copertura parziale: dispense allegate e approfondimenti ufficiali online identificati per Centrale operativa. Non è una banca ufficiale e non sono state trasformate tutte le pagine in domande.",
-  "uploadedSourceCount": 17,
+  "uploadedSourceCount": 25,
   "officialWebSourceCount": 3,
   "duplicateUploadCount": 3
 }
